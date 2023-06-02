@@ -23,13 +23,13 @@ collectionsPreview:
 
 polarBear:
   reverse: false
-  title: Ants collection
+  title: The Herbarium
   description: |      # required
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, lacus dignissim egestas venenatis, augue nisl consequat ante, eget rutrum ex erat in sapien. Aliquam elementum massa ac lacinia vulputate. Cras sagittis nisi vel sem tincidunt, id pharetra velit ultrices. Quisque lobortis accumsan auctor. Praesent ac neque id tortor accumsan vestibulum. Etiam vitae orci accumsan massa semper fermentum a at leo. Donec ut quam facilisis, blandit odio quis, aliquam felis.
+    The University of British Columbia Herbarium is the largest in western Canada and is home to over half a million plant specimens from around the world. This collection is critical to the identification, monitoring, and conservation of plant biodiversity in British Columbia, and is an important resource for scientific research and education.
   # img required
-  background: assets/images/ant.jpg
+  background: assets/images/herbarium-card-image.jpg
   imageLicense: |
-    [*Camponotus maritimusvia*](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected in United States of America, Phil Ward. Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
+    [*Masonhalea richardsonii*, 2001](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected by Curtis Bjork, Lichenologist and Botanist at UBC
   cta:
   - text: See all specimens
     href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=4342
