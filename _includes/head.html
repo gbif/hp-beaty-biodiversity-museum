@@ -1,0 +1,58 @@
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,600;1,400;1,600;0,800;1,800&display=swap"
+  rel="stylesheet"
+/>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap');
+</style>
+
+{% comment %} This part can safely be deleted - it simply shows the little hover
+button with information about the demo {% endcomment %}
+<script>
+  function onLoad () {
+    var title = 'What is this?';
+    var description = 'You’re looking at an example of what can be built through GBIF’s <a href="https://www.gbif.org/hosted-portals">hosted portal programme</a>. Applications are always welcome!';
+    var modalWrapper = document.createElement('div');
+    modalWrapper.innerHTML =
+      '<div class="modal" id="demoInfoModal"><div class="modal-background" id="demoInfoBackground"></div><div class="modal-card"><header class="modal-card-head"><p class="modal-card-title">' + title + '</p><button id="demoInfoClose" class="delete" aria-label="close"></button></header><section class="modal-card-body"><div class="content">'+ description +'</div><div id="demoInfoContent"></div>  </section><footer class="modal-card-foot"><button id="demoInfoButtonClose" class="button">Close</button></footer></div></div>';
+    document.body.appendChild(modalWrapper);
+
+    var demoInfoModal = document.getElementById('demoInfoModal');
+    var demoInfoContent = document.getElementById('demoInfoContent');
+    var demoInfoBackground = document.getElementById('demoInfoBackground');
+    var demoInfoClose = document.getElementById('demoInfoClose');
+    var demoInfoButtonClose = document.getElementById('demoInfoButtonClose');
+
+    demoInfoBackground.addEventListener('click', function () {
+      demoInfoModal.classList.remove('is-active');
+    });
+
+    demoInfoButtonClose.addEventListener('click', function () {
+      demoInfoModal.classList.remove('is-active');
+    });
+
+    demoInfoClose.addEventListener('click', function () {
+      demoInfoModal.classList.remove('is-active');
+    });
+
+    // insert content from array
+    // var content = 'hej';
+    // demoInfoContent.innerHTML = content;
+
+    // insert the floating demoInfo button
+    var elem = document.createElement('div');
+    elem.innerHTML = '<button>What is this?</button>';
+    elem.classList.add('feedbackButton');
+    elem.id = 'demoInfoButton';
+    document.body.appendChild(elem);
+
+    elem.addEventListener('click', function () {
+      demoInfoModal.classList.add('is-active');
+    });
+  };
+
+  window.onload = onLoad;
+</script>

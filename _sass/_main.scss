@@ -1,0 +1,334 @@
+$navbar-breakpoint: 10000px; // always show burger menu
+@import "theme/_main";
+
+$yellow-bg: #ececec;
+
+// You can add additional styling here
+
+//anything below this line is related to the specific site styling. It can be deleted or modified as you desire.
+.feedbackButton {
+  background: #F95738;
+  padding: 12px;
+  border-radius: 4px 4px 0 0;
+  display: block!important;
+  position: fixed;
+  color: white;
+  right: 24px;
+  bottom: 0;
+  z-index: 10000;
+  button {
+    background: none;
+    border: none;
+    color: inherit;
+    font-weight: 700;
+    font-size: 16px;
+  }
+}
+#demoInfoModal .content {
+  a {
+    color: deepskyblue;
+  }
+}
+.navbar-item img {
+  max-height: 2.5em;
+}
+.navbar-logo_text {
+  white-space: nowrap;
+  margin-left: 0.75em;
+  font-size: 1.4em;
+}
+
+.home {
+  background: $yellow-bg;
+}
+
+.floatingHero.home {
+  .feature-content {
+    text-align: left;
+    width: 800px;
+    margin: auto;
+    max-width: 100%;
+    max-width: calc(100% - 24px);
+  }
+  .feature-description {
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: $navbar-breakpoint) {
+  .navbar {
+    // background: $navbar-background-color!important
+    &--hasWhiteText {
+      .navbar-logo_text {
+        color: $yellow-bg; }
+      .navbar-burger {
+        color: $yellow-bg; } } } }
+
+.features {
+  background: $yellow-bg;
+  padding-top: 3rem;
+  padding-bottom: 4rem; }
+
+.feature {
+  flex: 0 0 $card-width;
+  max-width: 100%;
+  margin: $card-gap;
+  overflow: hidden;
+  box-shadow: none;
+  border: none;
+  background: #ffffff;
+  .feature-img {
+    height: 0;
+    width: 100%;
+    padding-bottom: 60%;
+  .feature-content {
+    padding: 24px; }
+  .feature-description {
+    color: #021D3D; }
+  .feature-title {
+    margin-top: 0!important; }
+
+  .splitBanner {
+  display: flex;
+  max-width: 2000px;
+  margin: auto;
+  background: #ffdd72;
+  >div {
+    flex: 0 0 50%; }
+  .feature-content {
+    padding: 5rem;
+    font-size: 120%; }
+  &--reverse {
+    flex-direction: row-reverse; }
+  .feature-title {
+    margin-top: 0!important; }}}}
+
+.floatingHero.home {
+  .feature-content {
+    text-align: left;
+    width: 800px;
+    margin: auto;
+  }
+  .feature-description {
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: $yellow-bg;
+  }
+}
+
+.button.is-primary {
+    background-color: #021D3D;
+    border-color: transparent;
+    color: $yellow-bg;
+    &:hover {
+        background-color: #003566;
+    border-color: transparent;
+    color: $yellow-bg;
+    }
+}
+
+.button.is-outlined {
+    background-color: $yellow-bg;
+    border-color: transparent;
+    color: #021D3D;
+    &:hover {
+        background-color: #FCF6E2;
+    border-color: transparent;
+    color: #021D3D;
+    }
+}
+
+section {
+  &.features, &.splitBanner, &.textBanner {
+    border-bottom: none; } }
+
+section.splitBanner {
+background-color: #ffdb6b;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar-logo_text {
+    display: none;
+  }
+}
+
+.footer {
+    background-color: #fafafa;
+    padding: 1.5rem 1.5rem 1.5rem;
+}
+
+.modal-card-title {
+    color: #363636;
+    flex-grow: 1;
+    flex-shrink: 0;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-weight: 700;
+}
+
+.modal-card-head, .modal-card-foot {
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: flex-start;
+    padding: 24px;
+    position: relative;
+}
+
+.modal-card-head {
+    border-bottom: none;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.modal-card-body {
+    -webkit-overflow-scrolling: touch;
+    background-color: white;
+    flex-grow: 1;
+    flex-shrink: 1;
+    overflow: auto;
+    padding: 24px 32px;
+}
+
+.modal-card-head, .modal-card-foot {
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: right;
+    padding: 24px;
+    position: relative;
+}
+
+.button {
+    background-color: #021D3D;
+    border-color: none;
+    order-color: #dbdbdb;
+    border-width: 0px;
+    color: #fff;
+    cursor: pointer;
+    justify-content: center;
+    padding-bottom: calc(0.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(0.5em - 1px);
+    text-align: center;
+    white-space: nowrap;
+}
+
+.modal-close:hover, .delete:hover, .modal-close:focus, .delete:focus {
+    background-color: #0e335d;
+}
+
+.modal-close, .delete {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-color: #021D3D;
+    border: none;
+    border-radius: 290486px;
+    cursor: pointer;
+    pointer-events: auto;
+    display: inline-block;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 0;
+    height: 20px;
+    max-height: 20px;
+    max-width: 20px;
+    min-height: 20px;
+    min-width: 20px;
+    outline: none;
+    position: relative;
+    vertical-align: top;
+    width: 20px;
+}
+
+.button:hover, .button.is-hovered {
+    background-color: #003566;
+    color: #fff;
+}
+
+.content h3, .feature-content h3 {
+    font-size: 1.6em;
+    margin-bottom: 0.6666em;
+    font-family: "Merriweather Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 10000px){
+.navbar--hasWhiteText .navbar-logo_text {
+    color: #ececec;
+    font-family: "Merriweather Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 1.6em;
+    font-weight: 800;
+  }
+}
+
+@media screen and (max-width: 9999px){
+.navbar-menu {
+    background-color: #003566;
+    padding: 0.5rem 0;
+  }
+}
+
+.navbar-item, .navbar-link {
+    color: #fff;
+    display: block;
+    line-height: 1.5;
+    padding: 0.5rem 0.75rem;
+    position: relative;
+}
+
+a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
+    background-color: #001D3D;
+    color: #fff;
+}
+
+.modal-card-title {
+    color: #363636;
+    flex-grow: 1;
+    flex-shrink: 0;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-family: "Merriweather sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; 
+    font-weight: 700;
+}
+
+.feedbackButton button {
+    background: none;
+    border: none;
+    color: inherit;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: "Merriweather sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.postHeader .feature-img {
+    height: 0;
+    padding-bottom: 40%;
+    width: 100%;
+    margin: auto;
+    border: none;
+    background-color: #eee;
+}
+
+@media screen and (min-width: 1211px){
+.feature-cards.has-4-elements .feature:nth-child(1) .feature-img .feature-cards.has-4-elements .feature:nth-child(4) .feature-img {
+    max-height: none;
+    height: 100%;
+    border-bottom: none;
+    border-right: 1px solid #0000000d;
+}
+
+.feature .feature-img {
+    height: 0;
+    width: 100%;
+    padding-bottom: 60%;
+    border-bottom: 1px solid #0000000d;
+}}

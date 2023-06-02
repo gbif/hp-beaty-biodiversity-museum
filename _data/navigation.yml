@@ -1,0 +1,10 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  href: /about
+- text: Collections
+  href: /collections
+- text: Specimens
+  href: /occurrence/search
+- text: Contact us
+  href: /contact-us

@@ -1,0 +1,116 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: ACME Museum # the title of your site should go here
+email: info@gbif.org
+description: >- # this means to ignore newlines (until baseurl:)
+  GB29 meeting site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hp-nhc-template.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gbif
+github_username:  gbif
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: gbif/jekyll-hp-base-theme
+
+# for usage in the standard privacy layout
+privacy:
+  name: GBIF
+  domain: gbif.org
+  contactEmail: info@gbif.org
+  helpdeskEmail: info@gbif.org
+
+# The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
+siteMeasurements:
+  enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  # GA_ID: "UA-xxxxxxx-x" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  # termsVersion: "2022-02-16" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+
+algae:
+  hideHelper: true                # set to false or delete line  to show feedback during development
+  rootLang: en
+  latestPostLimit: 3
+  logo: /assets/images/logoACME-light-07.svg  # Logo in navbar, will be displayed with 28px height
+  logoAndTitle: true              # include the title next to the logo
+  archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
+  style:
+    # square: false               # Should corners be square or rounded
+    colors:
+      primary: "#f58964"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#203b56"          # What color should links have. Use a HEX code. DEfault is primary color. 
+      coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true. 
+  navbar:                         # RELATED TO NAVIGATION BAR
+    # brandBackground: "#0f3352"     # Define a custom background for the logo/title in the top navigation bar
+    color: "#0f3352"             # What color should the navbar be?
+    hasWhiteText: true          # Should the text color be white?
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+exclude:
+  - .LICENSE
+  - .netlify.toml
+  - .README.md
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      lang: en
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+  #-
+   # scope:
+    #  path: "da/"
+   # values:
+    #  lang: da
