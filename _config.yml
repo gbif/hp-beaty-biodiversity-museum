@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Beaty Miodiversity Museum # the title of your site should go here
+title: Beaty Biodiversity Museum # the title of your site should go here
 email: info@gbif.org
 description: >- # this means to ignore newlines (until baseurl:)
   GB29 meeting site
