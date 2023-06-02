@@ -72,17 +72,18 @@ $yellow-bg: #ececec;
   display: flex;
   max-width: 2000px;
   margin: auto;
-  color: #ffffff;
   background: #3c8a2e;
   >div {
     flex: 0 0 50%; }
   .feature-content {
     padding: 5rem;
-    font-size: 120%; }
+    font-size: 120%;
+    color: #ffffff; }
   &--reverse {
     flex-direction: row-reverse; }
   .feature-title {
-    margin-top: 0!important; }}}}
+    margin-top: 0!important;
+    color: #ffffff; }}}}
 
 .floatingHero.home {
   .feature-content {
