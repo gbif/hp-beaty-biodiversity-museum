@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: ACME museum • demo site
+  - name: Beaty Biodiversity Museum • staging site
   
     connectIcons: true
     description: | # Can be Markdown
