@@ -29,10 +29,10 @@ polarBear:
   # img required
   background: assets/images/ant.jpg
   imageLicense: |
-    [*Camponotus maritimusvia*](https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=3311896307) Collected in United States of America, Phil Ward. Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
+    [*Camponotus maritimusvia*](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected in United States of America, Phil Ward. Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
   cta:
   - text: See all specimens
-    href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=4342
+    href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=4342
     isPrimary: true
 
 
@@ -45,12 +45,12 @@ specimens:
   - title: Actiniaria
     description: 
     background: assets/images/cni2-3.jpg
-    href: /occurrence/search?entity=2651560305
+    href: /specimen/search?entity=2651560305
   - title: <em>Calcinus tubularis</em> (Linnaeus, 1767)
     description: 
     background: assets/images/cru-4.jpg
-    href: /occurrence/search?entity=2579975003
+    href: /specimen/search?entity=2579975003
   - title: <em>Kanakia rana</em> Delorme, 2016
     description: 
     background: assets/images/cic-3.jpg
-    href: /occurrence/search?entity=1265025119
+    href: /specimen/search?entity=1265025119
