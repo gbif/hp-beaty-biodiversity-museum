@@ -45,11 +45,11 @@ specimens:
     description: 
     background: assets/images/feature-specimen-1.jpg
     href: /specimen/search?entity=1291990651
-  - title: <em>Calcinus tubularis</em> (Linnaeus, 1767)
+  - title: Giant Pacific octopus <em>Enteroctopus doleini</em>
     description: 
-    background: assets/images/cru-4.jpg
+    background: assets/images/feature-specimne-2.jpg
     href: /specimen/search?entity=2579975003
-  - title: <em>Kanakia rana</em> Delorme, 2016
+  - title: Saskatoon serviceberry <em>Amelanchier alnifolia</em>
     description: 
-    background: assets/images/cic-3.jpg
+    background: assets/images/feature-specimen-3.jpg
     href: /specimen/search?entity=1265025119
