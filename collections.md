@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Collections
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/3058851394.jpeg
