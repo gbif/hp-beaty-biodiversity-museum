@@ -81,14 +81,14 @@ $yellow-bg: #ececec;
   &--reverse {
     flex-direction: row-reverse; }
   .feature-title {
-    margin-top: 0!important; }}}}
+    margin-top: 0!important;
+    color: #ffffff; }}}}
 
 .floatingHero.home {
   .feature-content {
     text-align: left;
     width: 800px;
     margin: auto;
-    color: #ffffff;
   }
   .feature-description {
     font-size: 28px;

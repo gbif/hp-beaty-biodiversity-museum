@@ -33,7 +33,6 @@ polarBear:
   cta:
   - text: See all specimens
     href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=4342
-    isPrimary: true
 
 
 specimens:
