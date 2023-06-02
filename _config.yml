@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ACME Museum # the title of your site should go here
+title: Beaty Miodiversity Museum # the title of your site should go here
 email: info@gbif.org
 description: >- # this means to ignore newlines (until baseurl:)
   GB29 meeting site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-nhc-template.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://beaty-biodiversity-museum.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gbif
 github_username:  gbif
 
@@ -52,18 +52,18 @@ algae:
   hideHelper: true                # set to false or delete line  to show feedback during development
   rootLang: en
   latestPostLimit: 3
-  logo: /assets/images/logoACME-light-07.svg  # Logo in navbar, will be displayed with 28px height
-  logoAndTitle: true              # include the title next to the logo
+  logo: https://beatymuseum.sites.olt.ubc.ca/files/2016/01/beaty-logo-horizontal-white.png  # Logo in navbar, will be displayed with 28px height
+  logoAndTitle: false              # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#f58964"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "#203b56"          # What color should links have. Use a HEX code. DEfault is primary color. 
-      coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true. 
+      primary: "#ED1C24"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#ED1C24"            # What color should links have. Use a HEX code. DEfault is primary color. 
+    coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: "#0f3352"     # Define a custom background for the logo/title in the top navigation bar
-    color: "#0f3352"             # What color should the navbar be?
+    color: "#cc2229"             # What color should the navbar be?
     hasWhiteText: true          # Should the text color be white?
 
 # Exclude from processing.

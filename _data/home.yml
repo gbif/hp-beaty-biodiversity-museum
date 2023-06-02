@@ -29,7 +29,7 @@ polarBear:
   # img required
   background: assets/images/ant.jpg
   imageLicense: |
-    [*Camponotus maritimusvia*](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3311896307) Collected in United States of America, Phil Ward. Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
+    [*Camponotus maritimusvia*](https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=3311896307) Collected in United States of America, Phil Ward. Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
   cta:
   - text: See all specimens
     href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=4342

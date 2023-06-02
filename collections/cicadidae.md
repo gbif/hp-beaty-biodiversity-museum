@@ -3,7 +3,7 @@ title: Cicada
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/cic-3.jpg
 imageLicense: |
-  [*Kanakia rana* Delorme, 2016](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=1265025119) Collected in New Caledonia by Fauvre Laurent licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*Kanakia rana* Delorme, 2016](https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=1265025119) Collected in New Caledonia by Fauvre Laurent licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown

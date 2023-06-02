@@ -1,4 +1,4 @@
-[![Build Status](https://builds.gbif.org/job/hp-nhc-template/badge/icon)](https://builds.gbif.org/job/hp-nhc-template/lastBuild/console)
+[![Build Status](https://builds.gbif.org/job/hp-beaty-biodiversity-museum/badge/icon)](https://builds.gbif.org/job/hp-beaty-biodiversity-museum/lastBuild/console)
 
 # Natural history Museum template demo site
 

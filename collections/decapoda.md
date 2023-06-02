@@ -3,7 +3,7 @@ title: Decapods
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/cru-3.jpg
 imageLicense: |
-  [*Dardanus arrosor* (Herbst, 1796)](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2579975002) Collected in France by Duris Z. licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*Dardanus arrosor* (Herbst, 1796)](https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=2579975002) Collected in France by Duris Z. licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown

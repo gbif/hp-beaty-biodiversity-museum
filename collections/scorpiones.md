@@ -3,7 +3,7 @@ title: Scorpions
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/5sco-head.jpg
 imageLicense: |
-  [*Buthus apiatus* Lourenço, El Bouhissi & Sadine, 2020] (https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=3110526303) collected in Algeria (licensed under <http://creativecommons.org/licenses/by-nc-nd/4.0/>)
+  [*Buthus apiatus* Lourenço, El Bouhissi & Sadine, 2020] (https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=3110526303) collected in Algeria (licensed under <http://creativecommons.org/licenses/by-nc-nd/4.0/>)
 composition:
   - type: postHeader
   - type: pageMarkdown

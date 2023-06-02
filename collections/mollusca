@@ -3,7 +3,7 @@ title: Mollusks
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/mol-4.jpg
 imageLicense: |
-  [*Clathropsis oliverioi* Cecalupo & Perugia, 2018](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=1934844392) Collected in Papua New Guinea licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*Clathropsis oliverioi* Cecalupo & Perugia, 2018](https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=1934844392) Collected in Papua New Guinea licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown

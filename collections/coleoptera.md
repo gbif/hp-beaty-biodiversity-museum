@@ -3,7 +3,7 @@ title: Coleoptera
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/col-4.jpg
 imageLicense: |
-  [*Helictopleurus fasciolatus* subsp. *suturalis* Montreuil, 2012](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=694187259) Collected in Madagascar, Antoine Mantilleri licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*Helictopleurus fasciolatus* subsp. *suturalis* Montreuil, 2012](https://beaty-biodiversity-museum.hp.gbif-staging.org/occurrence/search?entity=694187259) Collected in Madagascar, Antoine Mantilleri licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown
