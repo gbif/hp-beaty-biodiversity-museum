@@ -1,7 +1,7 @@
 ---
 title: Cowan Tetrapod Collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/ctc-card-image.jpg
+background: /assets/images/tetrapod-collection-page-image.jpg
 imageLicense: |
   [*Octophialucium irregularis* Peter, 2021](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571118608) Collected in United States of America by the Florida Museum of Natural History Invertebrate Zoology licensed under [cc-by-4.4](http://creativecommons.org/licenses/by-nc/4.0/)
 composition:
