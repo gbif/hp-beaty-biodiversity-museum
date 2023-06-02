@@ -3,15 +3,15 @@ title: About
 klass: about
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/about-2.jpg
+background: /assets/images/about-photo.jpg
 imageLicense: |
-  [*Calcinus tubularis* (Linnaeus, 1767)](/specimen/search?entity=2579975003) Collected in France by Corbari L. licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+  [No Title](/specimen/search?entity=2579975003) Photograph by Artiom Shostak, 2010. licensed under [CC-BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+The Beaty Biodiversity Museum opened its doors in 2010 and UBC’s vast natural history collections were put on public display for the first time. The museum and its collections are the centrepiece of UBC’s Biodiversity Research Centre, which brings together the world-class researchers of the Biodiversity Research Centre and biological collections into one innovative complex dedicated to understanding and conserving the diversity of life on earth through research, education, and community programs.
 
-## Veniam
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+## Vision
+A world where biodiversity is better understood, valued, and protected.
 
-## Nonummy nibh
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+## Mission
+The Beaty Biodiversity Museum inspires an understanding of biodiversity, its origins, and importance to humans through collections-based research, education, exhibitions, and community engagement. As Vancouver’s natural history museum, we work to promote a greater sense of collective responsibility for the biodiversity of British Columbia, Canada, and the world.
