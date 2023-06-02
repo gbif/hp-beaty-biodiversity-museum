@@ -32,7 +32,7 @@ polarBear:
     [*Masonhalea richardsonii*, 2001](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected by Curtis Bjork, Lichenologist and Botanist at UBC
   cta:
   - text: See all specimens
-    href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=4342
+    href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&collectionCode=UBC
 
 
 specimens:
