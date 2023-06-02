@@ -41,10 +41,10 @@ specimens:
   description: |
     Take a peak
   features: 
-  - title: Actiniaria
+  - title: Green peafowl <em>Pavo muticus</em>
     description: 
-    background: assets/images/cni2-3.jpg
-    href: /specimen/search?entity=2651560305
+    background: assets/images/feature-specimen-1.jpg
+    href: /specimen/search?entity=1291990651
   - title: <em>Calcinus tubularis</em> (Linnaeus, 1767)
     description: 
     background: assets/images/cru-4.jpg
