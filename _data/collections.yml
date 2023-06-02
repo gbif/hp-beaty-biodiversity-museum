@@ -1,41 +1,33 @@
 title: Collections
 klass: collectionsbg
 description: |
-  Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+  Welcome to the collections at the Beaty 
 features: 
-- title: Scorpions
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: /assets/images/5sco-hor.jpg
-  href: /collections/scorpiones
-- title: Cnidaria
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/cni3-2jpg.jpg
-  href: /collections/cnidaria
-- title: Mollusks
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/mol-4.jpg
-  href: /collections/mollusca
-- title: Cicada
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/cic-3.jpg
-  href: /collections/cicadidae
-- title: Echinoderms
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/star-1.jpg
-  href: /collections/echinodermata
-- title: Decapods
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/cru-3.jpg
-  href: /collections/decapoda
-- title: Lepidoptera
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/lep-3a.jpg
-  href: /collections/lepidoptera
-- title: Coleoptera
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/col-2.jpg
-  href: /collections/coleoptera
-- title: Plants
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: assets/images/pla-4.jpg
-  href: /collections/plants
+- title: Cowan Tetrapod Collection
+  description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
+  background: /assets/images/cowan-tetrapod-collection.jpg
+  href: /collections/cowan-tetrapod-collection
+- title: Spencer Entomology Collection
+  description: Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon's spectacular insect diversity. Past collectors' particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+  background: assets/images/spencer-entomology-collection.jpg
+  href: /collections/spencer-entomology-collection
+- title: Lichen Collection
+  description: With 40,000 lichen specimens catalogued to date, the UBC Herbarium houses one of the largest lichen collections in western North America.
+  background: assets/images/herbarium-card-image.jpg
+  href: /collections/lichen-collection
+- title: Bryophytes Collection
+  description: The UBC bryophyte collection houses mosses, liverworts, and hornworts and is a tribute to the career of Dr. Wilf Schofield, who came to UBC in 1960. Professor Schofield was the first bryologist hired at a Canadian university. When he started at UBC, the collection included roughly 3,000 specimens. As a result of Dr. Schofield’s efforts and those of his students and post-doctoral researchers, the collection has grown to over 250,000 specimens, a considerable legacy.
+  background: assets/images/bryophyte-collection-image.jpg
+  href: /collections/bryophyte-collection
+- title: Fungi Collection
+  description: This dataset includes all digitized fungi in the UBC collection, encompassing approximately 95% of the collection.
+  background: assets/images/fungi-collection-image.jpg
+  href: /collections/fungi-collection
+- title: Vascular Plants Collection
+  description: The UBC Herbarium has one of the world's largest collections of British Columbia vascular plants and is worldwide in scope. At present, the collection includes more than 235,000 accessioned specimens.
+  background: assets/images/vascular-plants-collection-image.jpg
+  href: /collections/vascular-plants
+- title: Algae Collection
+  description: This dataset includes all digitized algae in the UBC collection, encompassing approximately 80% of the collection. During the course of Robert Scagel’s academic career (1952-1986) and assisted by graduate students and postdoctoral fellows carrying out research on benthic marine algae, Scagel oversaw the expansion of the Phycological Herbarium to its present size of over 67,000 specimens.
+  background: assets/images/algae-collection-photo.jpg
+  href: /collections/algae-collection
