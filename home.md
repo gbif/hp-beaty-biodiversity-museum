@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 description: |
-  The ACME Museum has 10 million specimens collected over 300 years. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=821cc27a-e3bb-4bc5-ac34-89ada245069d&limit=0">1,883</span> objects across 10 collections are currently available online, showcasing biodiversity from around the world.
-background: /assets/images/cni3-2jpg.jpg
+  The Beaty Biodiversity Museum is Vancouver's natural history museum. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=b542788f-0dc2-4a2b-b652-fceced449591&limit=0">1,883</span> objects across 9 collections are currently available online, showcasing biodiversity from around the world.
+background: /assets/images/hero-image.jpg
 imageLicense: |
-  [*Octophialucium irregularis* Peter, 2021](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571118608) Collected in United States of America, Florida Museum of Natural History Invertebrate Zoology. Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+  [*No Title* David Gilbar, 2010](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571118608) All Rights Reserved, Beaty Biodiversity Museum
 height: 80vh
 parallax: true
 cta:
