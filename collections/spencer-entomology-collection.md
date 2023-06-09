@@ -1,9 +1,9 @@
 ---
-title: Scorpions
+title: Spencer Entomology Collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/5sco-head.jpg
+background: /assets/images/sec-card-image.jpg
 imageLicense: |
-  [*Buthus apiatus* Lourenço, El Bouhissi & Sadine, 2020] (https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3110526303) collected in Algeria (licensed under <http://creativecommons.org/licenses/by-nc-nd/4.0/>)
+  [*Chrysis provancherr* CS Guppy, 1981] (https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3110526303) collected in the Yukon (licensed under <http://creativecommons.org/licenses/by-nc-nd/4.0/>)
 composition:
   - type: postHeader
   - type: pageMarkdown
@@ -11,10 +11,10 @@ composition:
     inlineData:
       title: Selected specimens
       description: |
-          Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+          Click the button below to see all specimens, or jump straight to some of our favourites by clicking on one of the cards. 
       cta:
-      - text: View all specimens in the Scorpiones collection
-        href: /specimen/search?taxonKey=872
+      - text: View all specimens in the Spencer Entomology Collection collection
+        href: /specimen/search?collectionCode=UBCZ
         isPrimary: true
       features: 
       - title: <em>Buthus apiatus</em> Lourenço, El Bouhissi & Sadine, 2020
@@ -35,7 +35,14 @@ composition:
         href: /specimen/search?entity=1019649608
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon’s spectacular insect diversity. Past collectors’ particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice). The collection has also been enriched by the following notable holdings: de Waard Lepidoptera (moths), Downes Hemiptera (true bugs), Foxlee Diptera (true flies) and Hymenoptera (bees and wasps), Harrison Coleoptera (carabids), Llwewllyn Jones Lepidoptera (butterflies), Scudder Hemiptera (true bugs), Stace-Smith Coleoptera (beetles).
+The Collection also includes an extensive library of entomological literature, ranging from insect taxonomy, biology, and habitat to pest control. It includes over 350 books, 8000 reprints, and 20 series of unbound journals. We also have over 10,000 photographic slides of insects and arachnids with accompanying data.
 
-## Feugait nulla
-quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+## Temporal scope
+January 1, 1990 - December 31, 1900
+
+## Geographic scope
+Mainly a BC collection, with additional holdings from YT, AK, NT, NU. Also a small number of specimens from the other Canadian Provinces and WA, OR and CA in the United States.
+
+## Taxonomic Scope
+BC specimens from all insect orders. A small collection of non-insect athropods from BC. Jumping spiders (Family Salticidae) from around the world.
