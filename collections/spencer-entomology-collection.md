@@ -17,22 +17,18 @@ composition:
         href: /specimen/search?collectionCode=UBCZ
         isPrimary: true
       features: 
-      - title: <em>Buthus apiatus</em> Lourenço, El Bouhissi & Sadine, 2020
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/5sco.jpg 
-        href: /specimen/search?entity=3110526303
-      - title: <em>Opisthacanthus faillei</em> Lourenço & Wilme, 2019
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/6sco.jpg
-        href: /specimen/search?entity=3302687306
-      - title: <em>Scorpiops langxian</em> Qi, Zhu & Lourenço, 2005
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/1sco.jpg
-        href: /specimen/search?entity=1064382595
-      - title: <em>Chactas yaupi</em> Lourenço, 2014
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/3sco.jpg
-        href: /specimen/search?entity=1019649608
+      - title: <em>Papilio glaucus</em> Linnaeus, 1758
+        description: Papilio glaucus, the eastern tiger swallowtail, is a species of butterfly native to eastern North America. It is one of the most familiar butterflies in the eastern United States, ranging north to southern Ontario, Canada, and is common in many different habitats. It flies from spring until fall, during which it produces two to three broods.
+        background: /assets/images/sec-featured-specimen-1.jpg 
+        href: /specimen/search?entity=1632862007
+      - title: <em>Negha inflata</em> Hagen, 1861
+        description: Negha is a genus of square-headed snakeflies in the family Inocelliidae. There are at least three described species in Negha, one of which is Negha inflata.
+        background: assets/images/sec-featured-specimen-2.jpg
+        href: /specimen/search?entity=814479769
+      - title: <em>Xestoleptura crassipes</em> LeConte, 1857
+        description: Xestoleptura crassipes is a species of flower longhorn in the beetle family Cerambycidae. It is found in North America.
+        background: assets/images/sec-featured-specimen-3.jpg
+        href: /specimen/search?entity=1632888423
 ---
 
 Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon’s spectacular insect diversity. Past collectors’ particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice). The collection has also been enriched by the following notable holdings: de Waard Lepidoptera (moths), Downes Hemiptera (true bugs), Foxlee Diptera (true flies) and Hymenoptera (bees and wasps), Harrison Coleoptera (carabids), Llwewllyn Jones Lepidoptera (butterflies), Scudder Hemiptera (true bugs), Stace-Smith Coleoptera (beetles).
