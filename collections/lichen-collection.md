@@ -1,7 +1,7 @@
 ---
 title: Lichen
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/herbarium-card.jpg
+background: /assets/images/herbarium-card-image.jpg
 imageLicense: |
   [*Helictopleurus fasciolatus* subsp. *suturalis* Montreuil, 2012](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=694187259) Collected in Madagascar, Antoine Mantilleri licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
