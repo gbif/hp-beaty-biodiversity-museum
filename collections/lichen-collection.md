@@ -1,5 +1,5 @@
 ---
-title: Lichen
+title: Lichen Collection
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/herbarium-card-image.jpg
 imageLicense: |

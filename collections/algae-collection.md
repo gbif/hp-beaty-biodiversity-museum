@@ -1,5 +1,5 @@
 ---
-title: Lepidoptera
+title: Algae Collection
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/lep-3a.jpg
 imageLicense: |
@@ -11,16 +11,16 @@ composition:
     inlineData:
       title: Selected specimens
       description: |
-          Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+          Click the button below to see all specimens, or jump straight to some of our favourites by clicking on one of the cards. 
       cta:
-      - text: View all specimens in the lepidoptera collection
+      - text: View all specimens in the algae collection
         href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=797
         isPrimary: true
       features: 
-      - title: <em>Metria pascali</em> Barbut, 2016
+      - title: <em>Pyropia fucicola</em>
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/lep-1a.jpg 
-        href: /specimen/search?entity=1883280838
+        background: /assets/images/algae-feature-specimen-1.jpg 
+        href: /specimen/search?entity=1987685131
       - title: <em>Regobarrosia colletii</em> Gibeaux, 2018
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/lep-2a.jpg
