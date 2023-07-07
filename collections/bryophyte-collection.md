@@ -1,7 +1,7 @@
 ---
 title: Bryophyte Collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/bryophtes-collection-image.jpg
+background: /assets/images/bryophytes-collection-image.jpg
 imageLicense: |
   [*Kanakia rana* Delorme, 2016](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=1265025119) Collected in New Caledonia by Fauvre Laurent licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
@@ -19,7 +19,7 @@ composition:
       features: 
       - title: <em>Homalothecium californicum</em> Hedenäs, Huttunen, Shevock & D.H.Norris
         description: ISOTYPE of Homalothecium californicum Hadenas, Huttunen, Shevock & Norris.
-        background: /assets/images/bryophtes-feature-image-1.jpg 
+        background: /assets/images/bryophytes-feature-image-1.jpg 
         href: /specimen/search?entity=1987869866
       - title: <em>Orientopsaltria cantavis</em> Boulard, 2003
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
