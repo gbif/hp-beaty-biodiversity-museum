@@ -19,7 +19,7 @@ composition:
       features: 
       - title: <em>Homalothecium californicum</em> Hedenäs, Huttunen, Shevock & D.H.Norris
         description: ISOTYPE of Homalothecium californicum Hadenas, Huttunen, Shevock & Norris.
-        background: /assets/images/bryophytes-feature-image-1.jpg 
+        background: /assets/images/bryophytes-feature-specimen-1.jpg 
         href: /specimen/search?entity=1987869866
       - title: <em>Orientopsaltria cantavis</em> Boulard, 2003
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
