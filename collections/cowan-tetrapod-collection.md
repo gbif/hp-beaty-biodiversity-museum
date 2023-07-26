@@ -14,7 +14,7 @@ composition:
           Click the button below to see all specimens, or jump straight to some of our favourites by clicking on one of the cards. 
       cta:
       - text: View all specimens in the Cowan Tetrapod Collection
-        href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=43
+        href: /specimen/search?collectionCode=CTC
         isPrimary: true
       features: 
       - title: <em>Spilogale gracilis</em>
