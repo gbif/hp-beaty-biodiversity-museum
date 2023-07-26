@@ -21,18 +21,6 @@ composition:
         description: ISOTYPE of Homalothecium californicum Hadenas, Huttunen, Shevock & Norris.
         background: /assets/images/bryophytes-feature-specimen-1.jpg 
         href: /specimen/search?entity=1987869866
-      - title: <em>Orientopsaltria cantavis</em> Boulard, 2003
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-2.jpg
-        href: /specimen/search?entity=1019734979
-      - title: <em>Kanakia rana</em> Delorme, 2016
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-3.jpg
-        href: /specimen/search?entity=1265025119
-      - title: <em>Chremistica elenae</em> subsp. <em>seychellensis</em> Boulard, 2001
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cic-4.jpg
-        href: /specimen/search?entity=1019738134
 ---
 
 The UBC bryophyte collection houses mosses, liverworts, and hornworts and is a tribute to the career of Dr. Wilf Schofield, who came to UBC in 1960. Professor Schofield was the first bryologist hired at a Canadian university. When he started at UBC, the collection included roughly 3,000 specimens. As a result of Dr. Schofield’s efforts and those of his students and post-doctoral researchers, the collection has grown to over 250,000 specimens, a considerable legacy. After his retirement, Dr. Schofield continued his research, up to the month before his passing in November 2008. He was such an avid collector that his specimens will continue to be processed and added to the collection for some time.
