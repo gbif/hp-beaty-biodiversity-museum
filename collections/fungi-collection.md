@@ -1,9 +1,9 @@
 ---
-title: Echinoderms
+title: Fungi Collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/star-1.jpg
+background: /assets/images/fungi-collection-image.jpg
 imageLicense: |
-  [*Astroceramus kintana* Mah, 2018](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=1806513266) Cyril CHAMBARD licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown
@@ -11,31 +11,20 @@ composition:
     inlineData:
       title: Selected specimens
       description: |
-          Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+          Click the button below to see all specimens, or jump straight to some of our favourites by clicking on one of the cards.
       cta:
-      - text: View all specimens in the mollusca collection
-        href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=50
+      - text: View all specimens in the fungi collection
+        href: /specimen/search?datasetKey=ca1bcd7e-7387-42f9-81ba-1470db55e3e8
         isPrimary: true
       features: 
-      - title: <em>Astroceramus kintana</em> Mah, 2018
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/star-1.jpg 
-        href: /specimen/search?entity=1806513266
-      - title: <em>Wallastra elenderae</em> Mah, 2018
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/star-2.jpg
-        href: /specimen/search?entity=2273923681
-      - title: <em>Sphaeriodiscus ganae</em> Mah, 2018
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/star-3.jpg
-        href: /specimen/search?entity=1703044920
-      - title: <em>Ferdina mena</em> Mah, 2017
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/star-4.jpg
-        href: /specimen/search?entity=694169340
+      - title: <em>Inocybe glabrescens</em> Velen.
+        description: 
+        background: /assets/images/fungi-featured-specimen-1.jpg 
+        href: /specimen/search?entity=1987948079
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+Fungi are organisms with nuclei-containing cells that get their nutrients by breaking down organic material. Lichens are symbiotic associations between certain types of fungi and algae. The fungi are the structure ‘house’ and the algae make the food ‘chief’ by photosynthesizing.
 
-## Feugait nulla
-quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+The fungal and lichen collections contain roughly 70,000 specimens—45,000 lichens and 25,000 other fungi—but the diversity of fungi and lichens is only partly understood, even in the Lower Mainland, with many new species still to be discovered. The original herbarium was contained in a single file case, filed in packets, in the order they were added to the collection and an alphabetized list of cards directed one to each species/ or specimens. For many years the fungal collection grew under the care of Dr. Robert Bandoni, professor of botany from 1958 to 1989. Dr. Bandoni remained active in research for years after his retirement, and his collections will remain as a legacy of his dedication to understanding fungal diversity. Authorities on BC fungi, including Oldřiška Češková, Paul Kroeger, and members of the local Vancouver Mycological Society are actively building our collections. Some of the thousands of new specimens they have contributed are new records for the province. Others are undescribed, new to the world of science.
+
+The collection of Agaricales (mushrooms) section has expanded rapidly in the recent years. The museum also has extensive holdings from the order Tremellales due to Dr. R.J. Bandoni’s interest and research in the group.
