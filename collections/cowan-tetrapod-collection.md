@@ -18,7 +18,7 @@ composition:
         isPrimary: true
       features: 
       - title: <em>Spilogale gracilis</em>
-        description: Not your usual skunk, the Western Spotted Skunk is BC’s own, occurring nowhere else in Canada. They have the typical black and white colouration like all skunks, a warning to predators that they pack a stinky punch..
+        description: Not your usual skunk, the Western Spotted Skunk is BC’s own, occurring nowhere else in Canada. They have the typical black and white colouration like all skunks, a warning to predators that they pack a stinky punch.
         background: /assets/images/ctc-feature-specimen-1.jpg
         href: https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=1291995727
 ---
