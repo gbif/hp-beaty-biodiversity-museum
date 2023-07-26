@@ -17,22 +17,10 @@ composition:
         href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=43
         isPrimary: true
       features: 
-      - title: <em>Staurodiscus luteus</em> Peter, 2021
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni4-1.jpg
-        href: https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571124604
-      - title: <em>Octophialucium irregularis</em> Peter, 2021
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni3-2jpg.jpg
-        href: https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571118608
-      - title: Actiniaria
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni2-3.jpg
-        href: https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2651560305
-      - title: <em>Zygocanna apapillatus</em> Xu, Huang & Guo, 2014
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/cni1-4.jpg
-        href: https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571117605
+      - title: <em>Spilogale gracilis</em>
+        description: Not your usual skunk, the Western Spotted Skunk is BC’s own, occurring nowhere else in Canada. They have the typical black and white colouration like all skunks, a warning to predators that they pack a stinky punch..
+        background: /assets/images/ctc-feature-specimen-1.jpg
+        href: https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=1291995727
 ---
 
 The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia. It holds large, representative samples of nearly all species—and most subspecies—of British Columbia’s terrestrial vertebrates and marine mammals. Important specimens representing global biodiversity are also housed here including the rare red panda, endangered Vancouver Island marmot, and even extinct species, such as the passenger pigeon.
