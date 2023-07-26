@@ -19,7 +19,7 @@ composition:
       features: 
       - title: <em>Inocybe glabrescens</em> Velen.
         description: 
-        background: /assets/images/fungi-featured-specimen-1.jpg 
+        background: /assets/images/fungi-featured-specimen-1.png 
         href: /specimen/search?entity=1987948079
 ---
 
