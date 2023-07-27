@@ -1,0 +1,13 @@
+title: 100-treasures
+klass: 100treasuresbg
+description: |
+  Here are 100 of our favourite things! 
+features: 
+- title: Test 1
+  description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
+  background: /assets/images/treasure-1.jpg
+  href: /collections/cowan-tetrapod-collection
+- title: Test 2
+  description: Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon's spectacular insect diversity. Past collectors' particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+  background: assets/images/treasure-2.jpg
+  href: /collections/spencer-entomology-collection
