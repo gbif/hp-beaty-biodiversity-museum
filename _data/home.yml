@@ -57,7 +57,17 @@ stats:
   features:
       # Hard coded value
     - title: 123
-      description: Viscera mercibus
+      description: Canadian Specimens
       background: /assets/icons/canadian-maple-leaf.svg
+      href: /about
+      blankTarget: true
+    - title: 456
+      description: Total Citations
+      background: /assets/icons/seedling-solid.svg
+      href: /about
+      blankTarget: true
+    - title: 789
+      description: TB of Total High-Quality Image Data 
+      background: /assets/icons/server.svg
       href: /about
       blankTarget: true
