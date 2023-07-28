@@ -126,5 +126,35 @@ features:
   background: /assets/images/treasure-25.jpg
   href: /treasures/treasure-25
 
+- title: >
+   Morris the Crested Myna; <em>Acridotheres cristatellus;</em> 2007; Irene and Clint Davy
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-26.jpg
+  href: /treasures/treasure-26
+
+- title: >
+   Crustose coralline algae on wine bottle; Corallinales; 1972; WA; Collected by Phil Lebednik
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-27.jpg
+  href: /treasures/treasure-27
+
+- title: >
+   Northwestern salamander; <em>Ambystoma gracile;</em> 1930; Mountain View Conservation and Breeding Society, Vancouver, BC; Collected by Gertrude M. Smith
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-28.jpg
+  href: /treasures/treasure-28
+
+- title: >
+   Cow path tiger beetle; Cicindela purpurea audubonii; 1981; Penticton, BC; Collected by RA Cannings
+  categories: ["Entomology"]
+  background: /assets/images/treasure-30.jpg
+  href: /treasures/treasure-30
+
+- title: >
+   “A breath of the sea” Souvenir of Santa Cruz; 1889; CA; Collected by Emily Brand
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-31.jpg
+  href: /treasures/treasure-31
+
 
 
