@@ -22,7 +22,7 @@ features:
   href: /treasures/treasure-4
 - title: >
    Man-eating clam; <em>Tridacna gigas;</em> Indo-Pacific; Collected by Killam
-  categories: ["Marine Invertebretes"]
+  categories: ["Marine Invertebrates"]
   background: /assets/images/treasure-5.jpg
   href: /treasures/treasure-5
 - title: >
@@ -42,7 +42,7 @@ features:
   href: /treasures/treasure-8
 - title: >
    Red tree coral; <em>Primnoa pacifica;</em> BC
-  categories: ["Marine Invertebretes"]
+  categories: ["Marine Invertebrates"]
   background: /assets/images/treasure-10.jpg
   href: /treasures/treasure-10
 - title: >
@@ -57,7 +57,7 @@ features:
   href: /treasures/treasure-12
 - title: >
    Giant Pacific octopus; <em>Enteroctopus dofleini</em>
-  categories: ["Marine Invertebretes"]
+  categories: ["Marine Invertebrates"]
   background: /assets/images/treasure-13.jpg
   href: /treasures/treasure-13
 - title: >
@@ -67,7 +67,7 @@ features:
   href: /treasures/treasure-14
 - title: >
    Great green turban; Turbo marmoratus; Indo-Pacific
-  categories: ["Marine Invertebretes"]
+  categories: ["Marine Invertebrates"]
   background: /assets/images/treasure-15.jpg
   href: /treasures/treasure-15
 - title: >
@@ -95,4 +95,36 @@ features:
   categories: ["Fishes"]
   background: /assets/images/treasure-20.jpg
   href: /treasures/treasure-20
+
+- title: >
+   Musk Ox; <em>Ovibos moschatus;</em> 1976; NT; Collected by Zonailo Family
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-21.jpg
+  href: /treasures/treasure-21
+
+- title: >
+   Paper watercolors and spore prints; Shaggy mane; <em>Coprinus comatus;</em> Early 1900′s; BC; Collected by Albert Hills
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-22.jpg
+  href: /treasures/treasure-22
+
+- title: >
+   Blacktip shark jaws; <em>Carcharhinus limbatus</em>
+  categories: ["Fishes"]
+  background: /assets/images/treasure-23.jpg
+  href: /treasures/treasure-23
+
+- title: >
+   Common paper nautilus; <em>Argonauta argo;</em> warm worldwide seas
+  categories: ["Marine Invertebrates"]
+  background: /assets/images/treasure-24.jpg
+  href: /treasures/treasure-24
+
+- title: >
+   Western spotted skunk; <em>Spilogale gracilis;</em> 2013; West Vancouver, BC; Collected by Wildlife Rescue Association Burnaby BC
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-25.jpg
+  href: /treasures/treasure-25
+
+
 
