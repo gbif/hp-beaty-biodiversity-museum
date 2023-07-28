@@ -4,48 +4,69 @@ description: |
   Here are 100 of our favourite things! 
 features: 
 - title: Krill; Euphausiacea; San Lucas, Baja, CA; Collected by M.H.N
-  categories: ["marine invertebrates"]
+  categories: ["Marine Invertebrates"]
   background: /assets/images/treasure-1.jpg
   href: /treasures/treasure-1
 - title: Trilobite family; Redlichiida; 510-560 Ma; Ft. Steele, Cranbrook, BC
+  categories: ["Fossils"]
   background: /assets/images/treasure-2.jpg
   href: /treasures/treasure-2
 - title: California root borer; <em>Prionus californicus;</em> 1997; Osoyoos, BC; Collected by GGE Scudder
+  categories: ["Entomology"]
   background: /assets/images/treasure-3.jpg
   href: /treasures/treasure-3
 - title: >
    John Davidson’s field kit; City of Vancouver Archives reference number AM505-S1-: CVA 660-663; 1910; BC; Collected by John Davidson
+  categories: ["Herbarium"]
   background: /assets/images/treasure-4.jpg
   href: /treasures/treasure-4
 - title: >
    Man-eating clam; <em>Tridacna gigas;</em> Indo-Pacific; Collected by Killam
+  categories: ["Marine Invertebretes"]
   background: /assets/images/treasure-5.jpg
   href: /treasures/treasure-5
 - title: >
    <em>Melanotus textilis;</em> 1982; BC; Collected by Paul Kroeger
+  categories: ["Herbarium"]
   background: /assets/images/treasure-6.jpg
   href: /treasures/treasure-6
 - title: >
    Tegu; <em>Salvator merianae;</em> 1990s; Collected by Bill Milsom
+  categories: ["Tetrapods"]
   background: /assets/images/treasure-7.jpg
   href: /treasures/treasure-7
 - title: >
    Passenger pigeon; Ectopistes migratorius; ON; Collected by H.J Baker / ROM
+  categories: ["Tetrapods"]
   background: /assets/images/treasure-8.jpg
   href: /treasures/treasure-8
 - title: >
-   Killam’s typewriter
-  background: /assets/images/treasure-9.jpg
-  href: /treasures/treasure-9
-- title: >
    Red tree coral; <em>Primnoa pacifica;</em> BC
+  categories: ["Marine Invertebretes"]
   background: /assets/images/treasure-10.jpg
   href: /treasures/treasure-10
 - title: >
    Saskatoon serviceberry; <em>Amelanchier alnifolia;</em> 1970; BC; Collected by Nancy Turner
+  categories: ["Herbarium", "Canadian"]
   background: /assets/images/treasure-11.jpg
   href: /treasures/treasure-11
 - title: >
-   Saskatoon serviceberry; <em>Amelanchier alnifolia;</em> 1970; BC; Collected by Nancy Turner
+   Hover fly; <em>Sericomyia chalcopyga</em>; 1915; Vancouver, BC
+  categories: ["Entomology"]
   background: /assets/images/treasure-12.jpg
   href: /treasures/treasure-12
+- title: >
+   Giant Pacific octopus; <em>Enteroctopus dofleini</em>
+  categories: ["Marine Invertebretes"]
+  background: /assets/images/treasure-13.jpg
+  href: /treasures/treasure-13
+- title: >
+   Sockeye salmon; <em>Oncorhynchus nerka</em>
+  categories: ["Fishes"]
+  background: /assets/images/treasure-14.jpg
+  href: /treasures/treasure-14
+- title: >
+   Great green turban; Turbo marmoratus; Indo-Pacific
+  categories: ["Marine Invertebretes"]
+  background: /assets/images/treasure-15.jpg
+  href: /treasures/treasure-15
