@@ -58,6 +58,6 @@ stats:
       # Hard coded value
     - title: 123
       description: Viscera mercibus
-      background: /assets/img/icons/validity.png
+      background: /assets/icons/canadian-maple-leaf.svg
       href: /about
       blankTarget: true
