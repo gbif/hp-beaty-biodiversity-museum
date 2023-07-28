@@ -1,9 +1,9 @@
 ---
-title: Plants
+title: Vascular Plants Collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/pla-4.jpg
+background: /assets/images/vascular-plants-collection-image.jpg
 imageLicense: |
-  [*Eulepidotis poirieri* Barbut & Lalanne-Cassou, 2014](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=1020747701) Collected in French Guiana, Marion DEPRAETERE licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  [*] [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
   - type: postHeader
   - type: pageMarkdown
@@ -11,14 +11,14 @@ composition:
     inlineData:
       title: Selected specimens
       description: |
-          Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+          Click the button below to see all specimens, or jump straight to some of our favourites by clicking on one of the cards. 
       cta:
       - text: View all specimens in the plants collection
-        href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&taxonKey=797
+        href: /specimen/search?datasetKey=07fd0d79-4883-435f-bba1-58fef110cd13
         isPrimary: true
       features: 
-      - title: <em>Dipterocarpus alatus</em> Roxb. ex G.Don
-        description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+      - title: <em>Pteris paleacea</em> Roxb.
+        description:
         background: /assets/images/pla-1.jpg 
         href: /specimen/search?entity=3461929305
       - title: <em>Molopospermum peloponnesiacum</em> (L.) W.D.J.Koch

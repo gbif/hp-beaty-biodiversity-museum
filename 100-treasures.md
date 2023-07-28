@@ -1,5 +1,5 @@
 ---
-title: 100-Treasures
+title: 100 Treasures
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/3058851394.jpeg
