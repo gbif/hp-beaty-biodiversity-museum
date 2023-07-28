@@ -4,6 +4,7 @@ description: |
   Here are 100 of our favourite things! 
 features: 
 - title: Krill; Euphausiacea; San Lucas, Baja, CA; Collected by M.H.N
+  categories: ["marine invertebrates"]
   background: /assets/images/treasure-1.jpg
   href: /treasures/treasure-1
 - title: Trilobite family; Redlichiida; 510-560 Ma; Ft. Steele, Cranbrook, BC
@@ -29,10 +30,6 @@ features:
   background: /assets/images/treasure-7.jpg
   href: /treasures/treasure-7
 - title: >
-   Tegu; <em>Salvator merianae;</em> 1990s; Collected by Bill Milsom
-  background: /assets/images/treasure-7.jpg
-  href: /treasures/treasure-7
-- title: >
    Passenger pigeon; Ectopistes migratorius; ON; Collected by H.J Baker / ROM
   background: /assets/images/treasure-8.jpg
   href: /treasures/treasure-8
@@ -44,3 +41,11 @@ features:
    Red tree coral; <em>Primnoa pacifica;</em> BC
   background: /assets/images/treasure-10.jpg
   href: /treasures/treasure-10
+- title: >
+   Saskatoon serviceberry; <em>Amelanchier alnifolia;</em> 1970; BC; Collected by Nancy Turner
+  background: /assets/images/treasure-11.jpg
+  href: /treasures/treasure-11
+- title: >
+   Saskatoon serviceberry; <em>Amelanchier alnifolia;</em> 1970; BC; Collected by Nancy Turner
+  background: /assets/images/treasure-12.jpg
+  href: /treasures/treasure-12
