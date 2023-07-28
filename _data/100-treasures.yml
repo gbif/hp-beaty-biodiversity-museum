@@ -156,5 +156,35 @@ features:
   background: /assets/images/treasure-31.jpg
   href: /treasures/treasure-31
 
+- title: >
+   Graptolite; <em>Monograptus</em> sp.; 444 - 416 Ma
+  categories: ["Fossils"]
+  background: /assets/images/treasure-32.jpg
+  href: /treasures/treasure-32
+
+- title: >
+   Lorax jumping spider; <em>Lapsias lorax;</em> November 9, 2010; Bellavista Cloud Forest Reserve, Ecuador; Collected by Wayne Maddison
+  categories: ["Entomology"]
+  background: /assets/images/treasure-33.jpg
+  href: /treasures/treasure-33
+
+- title: >
+   Western red cedar; <em>Thuja plicata;</em> 1950s; BC
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-34.jpg
+  href: /treasures/treasure-34
+
+- title: >
+   Nummulite; Foraminifera; 40 Ma
+  categories: ["Fossils"]
+  background: /assets/images/treasure-35.jpg
+  href: /treasures/treasure-35
+
+- title: >
+   Trilobite; Isotelus rex; 455 Ma
+  categories: ["Fossils"]
+  background: /assets/images/treasure-36.jpg
+  href: /treasures/treasure-36
+
 
 
