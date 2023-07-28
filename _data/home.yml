@@ -53,3 +53,11 @@ specimens:
     description: 
     background: assets/images/feature-specimen-3.jpg
     href: /specimen/search?entity=1265025119
+stats:
+  features:
+      # Hard coded value
+    - title: 123
+      description: Viscera mercibus
+      background: /assets/img/icons/validity.png
+      href: /about
+      blankTarget: true

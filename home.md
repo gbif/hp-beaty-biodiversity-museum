@@ -22,6 +22,8 @@ navbar:
     floating: true
 composition:
   - type: heroImage # the block type
+  - data: home.stats
+    type: stats
   - type: features
     data: home.collectionsPreview
   - type: split
