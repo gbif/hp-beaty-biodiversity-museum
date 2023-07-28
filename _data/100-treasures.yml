@@ -70,3 +70,29 @@ features:
   categories: ["Marine Invertebretes"]
   background: /assets/images/treasure-15.jpg
   href: /treasures/treasure-15
+- title: >
+   Great spirit gummy bear; <em>Pseudohydnum gelatinosum;</em> Collected by B Didier
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-16.jpg
+  href: /treasures/treasure-16
+- title: >
+   Speckled dace; Rhinichthys osculus
+  categories: ["Fishes"]
+  background: /assets/images/treasure-17.jpg
+  href: /treasures/treasure-17
+- title: >
+   Eight-spotted skimmer; <em>Libellula forensis;</em> 1978/1984; Vernon/Oliver, BC; Collected by RA, RJ, SG Cannings
+  categories: ["Entomology"]
+  background: /assets/images/treasure-18.jpg
+  href: /treasures/treasure-18
+- title: >
+   Northern abalone or pinto abalone; <em>Haliotis kamtschatkana</em>
+  categories: ["Marine Invertebrates"]
+  background: /assets/images/treasure-19.jpg
+  href: /treasures/treasure-19
+- title: >
+   Longfin gunnel; Pholis clemensi; BC
+  categories: ["Fishes"]
+  background: /assets/images/treasure-20.jpg
+  href: /treasures/treasure-20
+
