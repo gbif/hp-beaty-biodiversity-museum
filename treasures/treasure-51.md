@@ -1,5 +1,6 @@
 ---
-title: Fungi Columbiani: being a second edition of Ellis & Everhart’s North American Fungi; 1894; North America; Collected by Ellis & Everhart
+title: >
+ Fungi Columbiani: being a second edition of Ellis & Everhart’s North American Fungi; 1894; North America; Collected by Ellis & Everhart
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/treasure-51.jpg
 categories: ["Herbarium"]
