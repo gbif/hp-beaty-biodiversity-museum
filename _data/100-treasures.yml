@@ -241,16 +241,78 @@ features:
   href: /treasures/treasure-45
 
 - title: >
-   Pacific lamprey; Entosphenus tridentatus
+   Pacific lamprey; <em>Entosphenus tridentatus</em>
   categories: ["Fishes"]
   background: /assets/images/treasure-46.jpg
   href: /treasures/treasure-46
 
 - title: >
-   Marrella; Marella splendens; 520 Ma; Burgess Shale, BC; Collected by Walcott
+   Marrella; <em>Marella splendens;</em> 520 Ma; Burgess Shale, BC; Collected by Walcott
   categories: ["Fossil"]
   background: /assets/images/treasure-47.jpg
   href: /treasures/treasure-47
+
+- title: >
+   Cuckoo wasp; <em>Chrysis provancheri;</em> 1981; Whitehorse, YT; Collected by CS Guppy
+  categories: ["Entomology"]
+  background: /assets/images/treasure-48.jpg
+  href: /treasures/treasure-48
+
+- title: >
+   Ochre cushion; <em>Hypocrea pulvinata;</em> 2008; Observatory Hill, Vancouver Island, BC; Collected by Oluna Ceska
+  categories: ["Entomology"]
+  background: /assets/images/treasure-49.jpg
+  href: /treasures/treasure-49
+
+- title: >
+   American pygmy shrew; Sorex hoyi; 1931; Chilcotin Lake, BC; Collected by McT-Cowan
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-50.jpg
+  href: /treasures/treasure-50
+
+- title: >
+   Fungi Columbiani: being a second edition of Ellis & Everhart’s North American Fungi; 1894; North America; Collected by Ellis & Everhart
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-51.jpg
+  href: /treasures/treasure-51
+
+- title: >
+   Cololejeunea macounii; 1889; Hastings Mill, Vancouver, BC; Collected by John Macoun
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-52.jpg
+  href: /treasures/treasure-52
+
+- title: >
+   Golden V kelp; <em>Aureophycus aleuticus;</em> 2006; AK; Collected by Mandy Lindeberg
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-53.jpg
+  href: /treasures/treasure-53
+
+- title: >
+   Sea scorpion; Eurypterida; 460 - 248 Ma
+  categories: ["Fossil"]
+  background: /assets/images/treasure-54.jpg
+  href: /treasures/treasure-54
+
+- title: >
+   Townsend’s vole; <em>Microtus townsendii;</em> 1970s; Collected by Charles Krebs
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-55.jpg
+  href: /treasures/treasure-55
+
+- title: >
+   Green peafowl; <em>Pavo muticus;</em> Domestic; Collected by Plato Mamo
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-56.jpg
+  href: /treasures/treasure-56
+
+- title: >
+   Giant elephant-bird egg; <em>Aepyormis maximus;</em> Madagascar; Collected by Michael C Whitlock
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-57.jpg
+  href: /treasures/treasure-57
+
+
 
 
 
