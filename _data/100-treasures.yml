@@ -312,6 +312,72 @@ features:
   background: /assets/images/treasure-57.jpg
   href: /treasures/treasure-57
 
+- title: >
+   Northern elephant seal; <em>Mirounga angustirostris;</em> 1944; Pine Island, Haida Gwaii, BC; Collected by Ivor Johnson
+  categories: ["Tetrapods"]
+  background: /assets/images/treasure-58.jpg
+  href: /treasures/treasure-58
+
+- title: >
+   Yellow-banded day sphinx moth; <em>Proserpinus flavofasciata;</em> 1905; Vancouver, BC
+  categories: ["Entomology"]
+  background: /assets/images/treasure-59.jpg
+  href: /treasures/treasure-59
+
+- title: >
+   Coho salmon; <em>Oncorhynchus kisutch</em>
+  categories: ["Fishes"]
+  background: /assets/images/treasure-60.jpg
+  href: /treasures/treasure-60
+
+- title: >
+   Butter clam; <em>Saxidomus gigantea;</em> BC
+  categories: ["Marine Invertebrates"]
+  background: /assets/images/treasure-61.jpg
+  href: /treasures/treasure-61
+
+- title: >
+   Ammonite; Pseudophyllites sp.; 400 Ma; Hornby Island, BC
+  categories: ["Fossil"]
+  background: /assets/images/treasure-62.jpg
+  href: /treasures/treasure-62
+
+- title: >
+   Attendees of the 50th Anniversary of the Entomological Society of BC; 1951; UBC Vancouver, BC
+  categories: ["Entomology"]
+  background: /assets/images/treasure-63.jpg
+  href: /treasures/treasure-63
+
+- title: >
+   Corn lily; <em>Veratrum viride;</em> 1900; BC; Collected by John Davidson
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-64.jpg
+  href: /treasures/treasure-64
+
+- title: >
+   Corn lily; <em>Veratrum viride;</em> 1900; BC; Collected by John Davidson
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-64.jpg
+  href: /treasures/treasure-64
+
+- title: >
+   Plant bug; <em>Arhyssus rubrovenosus;</em> 2004; Osoyoos, BC; Collected by GGE Scudder
+  categories: ["Entomology"]
+  background: /assets/images/treasure-65.jpg
+  href: /treasures/treasure-65
+
+- title: >
+   Pacific sphagnum; <em>Sphagnum pacificum;</em> 1999; Vancouver Island, BC; Collected by GK Golinski
+  categories: ["Herbarium"]
+  background: /assets/images/treasure-66.jpg
+  href: /treasures/treasure-66
+
+- title: >
+   Wrinkled bark beetle; <em>Clinidium calcaratum;</em> 1955/2015; UBC Vancouver, BC; Collected by B Hardy/CG Ratzlaff
+  categories: ["Entomology"]
+  background: /assets/images/treasure-67.jpg
+  href: /treasures/treasure-67
+
 
 
 
