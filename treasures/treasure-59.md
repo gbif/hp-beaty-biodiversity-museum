@@ -1,6 +1,6 @@
 ---
 title: >
- Yellow-banded day sphinx moth; <em>Proserpinus flavofasciata;</em> 1905; Vancouver, BC
+ Yellow-banded day sphinx moth; Proserpinus flavofasciata; 1905; Vancouver, BC
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/treasure-59.jpg
 categories: ["Entomology"]

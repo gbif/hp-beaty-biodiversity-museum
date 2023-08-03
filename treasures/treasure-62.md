@@ -1,6 +1,6 @@
 ---
 title: >
- Ammonite; <em>Pseudophyllites</em> sp.; 400 Ma; Hornby Island, BC
+ Ammonite; <em>Pseudophyllites sp.;</em> 400 Ma; Hornby Island, BC
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/treasure-62.jpg
 categories: ["Fossil"]
