@@ -1,0 +1,12 @@
+---
+title: >
+ Trilobite tracks / nests; Rusophycus / Cruziana; 530 Ma
+# description: Species occurrence data for the United States and U.S. Territories.
+background: /assets/images/treasure-74.jpg
+categories: ["Fossil"]
+imageLicense: |
+  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+composition:
+  - type: postHeader
+  - type: pageMarkdown
+---
