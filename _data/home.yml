@@ -54,6 +54,7 @@ specimens:
     background: assets/images/feature-specimen-3.jpg
     href: /specimen/search?entity=1265025119
 stats:
+  title: Our Data
   features:
       # Hard coded value
     - title: 123
