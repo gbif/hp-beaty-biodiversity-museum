@@ -4,7 +4,7 @@ collectionsPreview:
     Among our two million treasured specimens are the third-largest fish collection in Canada and a myriad of fossils, shells, insects, fungi, mammals, birds, reptiles, amphibians, and plants from around BC and across the world. 
   cta:
   - text: View all collections
-    href: /collections
+    href: /collection
     isPrimary: true
   features: 
   - title: Spencer Entomology Collection
@@ -59,16 +59,13 @@ stats:
       # Hard coded value
     - title: 123
       description: Canadian Specimens
-      background: /assets/icons/canadian-maple-leaf.svg
       href: /about
       blankTarget: true
     - title: 456
       description: Total Citations
-      background: /assets/icons/seedling-solid.svg
       href: /about
       blankTarget: true
     - title: 789
       description: TB of Total High-Quality Image Data 
-      background: /assets/icons/server.svg
       href: /about
       blankTarget: true

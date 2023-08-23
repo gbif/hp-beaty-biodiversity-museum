@@ -7,6 +7,17 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   routes: {
+    collectionKey: {
+      route: '/collection/:key',
+      isHref: true,
+      url: ({ key }) => {
+        return `/collection/${key}`;
+      }
+    },
+    collectionSpecimens: {
+      route: '/collection/:key/specimens',
+      url: ({ key }) => `/collection/${key}/specimens`
+    },
     occurrenceSearch: {
       // The route you are currently using for occurrence search. The language prefix will be added automatically
       // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
@@ -14,6 +25,8 @@ var siteConfig = {
     }
   },
   occurrence: {
+    collection: {
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']},
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
     highlightedFilters: ['taxonKey', 'verbatimScientificName', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
     defaultTableColumns: ['features', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
