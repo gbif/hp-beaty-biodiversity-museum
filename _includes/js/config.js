@@ -28,8 +28,8 @@ var siteConfig = {
     collection: {
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']},
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    defaultTableColumns: ['features', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
+    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'datasetKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
+    defaultTableColumns: ['dataset', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
     availableCatalogues: ['OCCURRENCE'],
     mapSettings: {
       lat: 0,
