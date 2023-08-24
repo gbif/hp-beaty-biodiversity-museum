@@ -318,10 +318,9 @@ features:
   background: /assets/images/treasure-58.jpg
   href: /treasures/treasure-58
 
-- title: >
-   Yellow-banded day sphinx moth; <em>Proserpinus flavofasciata;</em> 1905; Vancouver, BC
+- title: "{{ site.data.images.treasure_59.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-59.jpg
+  background: "{{ site.data.images.treasure_59.src }}"
   href: /treasures/treasure-59
 
 - title: >
