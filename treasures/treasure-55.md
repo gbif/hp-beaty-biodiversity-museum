@@ -1,11 +1,11 @@
 ---
 title: >
- Townsend’s vole; <em>Microtus townsendii;</em> 1970s; Collected by Charles Krebs
+ "{{ site.data.images.treasure_55.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-55.jpg
+background: "{{ site.data.images.treasure_55.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_55.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

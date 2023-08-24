@@ -1,11 +1,11 @@
 ---
 title: >
- Staghorn sculpin; <em>Leptocottus armatus;</em> October, 1955; Japan
+ "{{ site.data.images.treasure_93.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-93.jpg
+background: "{{ site.data.images.treasure_93.src }}"
 categories: ["Fishes"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_93.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

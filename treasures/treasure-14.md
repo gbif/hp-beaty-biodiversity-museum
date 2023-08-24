@@ -1,9 +1,9 @@
 ---
-title: Sockeye salmon; <em>Oncorhynchus nerka</em>
+title: "{{ site.data.images.treasure_14.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-13.jpg
+background: "{{ site.data.images.treasure_14.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_14.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

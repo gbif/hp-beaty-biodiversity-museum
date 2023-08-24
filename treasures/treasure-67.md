@@ -1,11 +1,11 @@
 ---
 title: >
- Pacific sphagnum; <em>Sphagnum pacificum;</em> 1999; Vancouver Island, BC; Collected by GK Golinski
+ "{{ site.data.images.treasure_67.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-67.jpg
+background: "{{ site.data.images.treasure_67.src }}"
 categories: ["Entomology"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_67.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

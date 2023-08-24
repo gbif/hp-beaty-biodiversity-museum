@@ -1,11 +1,11 @@
 ---
 title: >
- <em>Cladina mitis; 1961;</em> Wells Gray, BC; Collected by Teuvo Ahti and Leena Hamet-Ahti
+ "{{ site.data.images.treasure_87.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-87.jpg
+background: "{{ site.data.images.treasure_87.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_87.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

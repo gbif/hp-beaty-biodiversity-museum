@@ -3,319 +3,319 @@ klass: 100treasuresbg
 description: |
   Here are 100 of our favourite things! 
 features: 
-- title: Krill; Euphausiacea; San Lucas, Baja, CA; Collected by M.H.N
+- title: "{{ site.data.images.treasure_1.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-1.jpg
+  background: "{{ site.data.images.treasure_1.src }}"
   href: /treasures/treasure-1
-- title: Trilobite family; Redlichiida; 510-560 Ma; Ft. Steele, Cranbrook, BC
+- title: "{{ site.data.images.treasure_2.title }}"
   categories: ["Fossils"]
-  background: /assets/images/treasure-2.jpg
+  background: "{{ site.data.images.treasure_2.src }}"
   href: /treasures/treasure-2
-- title: California root borer; <em>Prionus californicus;</em> 1997; Osoyoos, BC; Collected by GGE Scudder
+- title: "{{ site.data.images.treasure_3.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-3.jpg
+  background: "{{ site.data.images.treasure_3.src }}"
   href: /treasures/treasure-3
 - title: >
-   John Davidson’s field kit; City of Vancouver Archives reference number AM505-S1-: CVA 660-663; 1910; BC; Collected by John Davidson
+   "{{ site.data.images.treasure_4.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-4.jpg
+  background: "{{ site.data.images.treasure_4.src }}"
   href: /treasures/treasure-4
 - title: >
-   Man-eating clam; <em>Tridacna gigas;</em> Indo-Pacific; Collected by Killam
+   "{{ site.data.images.treasure_5.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-5.jpg
+  background: "{{ site.data.images.treasure_5.src }}"
   href: /treasures/treasure-5
 - title: >
-   <em>Melanotus textilis;</em> 1982; BC; Collected by Paul Kroeger
+   "{{ site.data.images.treasure_6.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-6.jpg
+  background: "{{ site.data.images.treasure_6.src }}"
   href: /treasures/treasure-6
 - title: >
-   Tegu; <em>Salvator merianae;</em> 1990s; Collected by Bill Milsom
+   "{{ site.data.images.treasure_7.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-7.jpg
+  background: "{{ site.data.images.treasure_7.src }}"
   href: /treasures/treasure-7
 - title: >
-   Passenger pigeon; Ectopistes migratorius; ON; Collected by H.J Baker / ROM
+   "{{ site.data.images.treasure_8.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-8.jpg
+  background: "{{ site.data.images.treasure_8.src }}"
   href: /treasures/treasure-8
 - title: >
-   Red tree coral; <em>Primnoa pacifica;</em> BC
+   "{{ site.data.images.treasure_10.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-10.jpg
+  background: "{{ site.data.images.treasure_10.src }}"
   href: /treasures/treasure-10
 - title: >
-   Saskatoon serviceberry; <em>Amelanchier alnifolia;</em> 1970; BC; Collected by Nancy Turner
+   "{{ site.data.images.treasure_11.title }}"
   categories: ["Herbarium", "Canadian"]
-  background: /assets/images/treasure-11.jpg
+  background: "{{ site.data.images.treasure_11.src }}"
   href: /treasures/treasure-11
 - title: >
-   Hover fly; <em>Sericomyia chalcopyga</em>; 1915; Vancouver, BC
+   "{{ site.data.images.treasure_12.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-12.jpg
+  background: "{{ site.data.images.treasure_12.src }}"
   href: /treasures/treasure-12
 - title: >
-   Giant Pacific octopus; <em>Enteroctopus dofleini</em>
+   "{{ site.data.images.treasure_13.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-13.jpg
+  background: "{{ site.data.images.treasure_13.src }}"
   href: /treasures/treasure-13
 - title: >
-   Sockeye salmon; <em>Oncorhynchus nerka</em>
+   "{{ site.data.images.treasure_14.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-14.jpg
+  background: "{{ site.data.images.treasure_14.src }}"
   href: /treasures/treasure-14
 - title: >
-   Great green turban; Turbo marmoratus; Indo-Pacific
+   "{{ site.data.images.treasure_15.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-15.jpg
+  background: "{{ site.data.images.treasure_15.src }}"
   href: /treasures/treasure-15
 - title: >
-   Great spirit gummy bear; <em>Pseudohydnum gelatinosum;</em> Collected by B Didier
+   "{{ site.data.images.treasure_16.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-16.jpg
+  background: "{{ site.data.images.treasure_16.src }}"
   href: /treasures/treasure-16
 - title: >
-   Speckled dace; Rhinichthys osculus
+   "{{ site.data.images.treasure_17.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-17.jpg
+  background: "{{ site.data.images.treasure_17.src }}"
   href: /treasures/treasure-17
 - title: >
-   Eight-spotted skimmer; <em>Libellula forensis;</em> 1978/1984; Vernon/Oliver, BC; Collected by RA, RJ, SG Cannings
+   "{{ site.data.images.treasure_18.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-18.jpg
+  background: "{{ site.data.images.treasure_18.src }}"
   href: /treasures/treasure-18
 - title: >
-   Northern abalone or pinto abalone; <em>Haliotis kamtschatkana</em>
+   "{{ site.data.images.treasure_19.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-19.jpg
+  background: "{{ site.data.images.treasure_19.src }}"
   href: /treasures/treasure-19
 - title: >
-   Longfin gunnel; Pholis clemensi; BC
+   "{{ site.data.images.treasure_20.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-20.jpg
+  background: "{{ site.data.images.treasure_20.src }}"
   href: /treasures/treasure-20
 
 - title: >
-   Musk Ox; <em>Ovibos moschatus;</em> 1976; NT; Collected by Zonailo Family
+   "{{ site.data.images.treasure_21.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-21.jpg
+  background: "{{ site.data.images.treasure_21.src }}"
   href: /treasures/treasure-21
 
 - title: >
-   Paper watercolors and spore prints; Shaggy mane; <em>Coprinus comatus;</em> Early 1900′s; BC; Collected by Albert Hills
+   "{{ site.data.images.treasure_22.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-22.jpg
+  background: "{{ site.data.images.treasure_22.src }}"
   href: /treasures/treasure-22
 
 - title: >
-   Blacktip shark jaws; <em>Carcharhinus limbatus</em>
+   "{{ site.data.images.treasure_23.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-23.jpg
+  background: "{{ site.data.images.treasure_23.src }}"
   href: /treasures/treasure-23
 
 - title: >
-   Common paper nautilus; <em>Argonauta argo;</em> warm worldwide seas
+   "{{ site.data.images.treasure_24.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-24.jpg
+  background: "{{ site.data.images.treasure_24.src }}"
   href: /treasures/treasure-24
 
 - title: >
-   Western spotted skunk; <em>Spilogale gracilis;</em> 2013; West Vancouver, BC; Collected by Wildlife Rescue Association Burnaby BC
+   "{{ site.data.images.treasure_25.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-25.jpg
+  background: "{{ site.data.images.treasure_25.src }}"
   href: /treasures/treasure-25
 
 - title: >
-   Morris the Crested Myna; <em>Acridotheres cristatellus;</em> 2007; Irene and Clint Davy
+   "{{ site.data.images.treasure_26.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-26.jpg
+  background: "{{ site.data.images.treasure_26.src }}"
   href: /treasures/treasure-26
 
 - title: >
-   Crustose coralline algae on wine bottle; Corallinales; 1972; WA; Collected by Phil Lebednik
+   "{{ site.data.images.treasure_27.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-27.jpg
+  background: "{{ site.data.images.treasure_27.src }}"
   href: /treasures/treasure-27
 
 - title: >
-   Northwestern salamander; <em>Ambystoma gracile;</em> 1930; Mountain View Conservation and Breeding Society, Vancouver, BC; Collected by Gertrude M. Smith
+   "{{ site.data.images.treasure_28.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-28.jpg
+  background: "{{ site.data.images.treasure_28.src }}"
   href: /treasures/treasure-28
 
 - title: >
-   Cow path tiger beetle; Cicindela purpurea audubonii; 1981; Penticton, BC; Collected by RA Cannings
+   "{{ site.data.images.treasure_30.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-30.jpg
+  background: "{{ site.data.images.treasure_30.src }}"
   href: /treasures/treasure-30
 
 - title: >
-   “A breath of the sea” Souvenir of Santa Cruz; 1889; CA; Collected by Emily Brand
+   "{{ site.data.images.treasure_31.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-31.jpg
+  background: "{{ site.data.images.treasure_31.src }}"
   href: /treasures/treasure-31
 
 - title: >
-   Graptolite; <em>Monograptus</em> sp.; 444 - 416 Ma
+   "{{ site.data.images.treasure_32.title }}"
   categories: ["Fossils"]
-  background: /assets/images/treasure-32.jpg
+  background: "{{ site.data.images.treasure_32.src }}"
   href: /treasures/treasure-32
 
 - title: >
-   Lorax jumping spider; <em>Lapsias lorax;</em> November 9, 2010; Bellavista Cloud Forest Reserve, Ecuador; Collected by Wayne Maddison
+   "{{ site.data.images.treasure_33.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-33.jpg
+  background: "{{ site.data.images.treasure_33.src }}"
   href: /treasures/treasure-33
 
 - title: >
-   Western red cedar; <em>Thuja plicata;</em> 1950s; BC
+   "{{ site.data.images.treasure_34.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-34.jpg
+  background: "{{ site.data.images.treasure_34.src }}"
   href: /treasures/treasure-34
 
 - title: >
-   Nummulite; Foraminifera; 40 Ma
+   "{{ site.data.images.treasure_35.title }}"
   categories: ["Fossils"]
-  background: /assets/images/treasure-35.jpg
+  background: "{{ site.data.images.treasure_35.src }}"
   href: /treasures/treasure-35
 
 - title: >
-   Trilobite; Isotelus rex; 455 Ma
+   "{{ site.data.images.treasure_36.title }}"
   categories: ["Fossils"]
-  background: /assets/images/treasure-36.jpg
+  background: "{{ site.data.images.treasure_36.src }}"
   href: /treasures/treasure-36
 
 - title: >
-   Fingered goblet or vase sponge; <em>Heterochone calyx;</em> July 1, 2010; Between Vancouver Island, BC and Haida Gwaii; 400 feet depth
+   "{{ site.data.images.treasure_37.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-37.jpg
+  background: "{{ site.data.images.treasure_37.src }}"
   href: /treasures/treasure-37
 
 - title: >
-   Velvet ant; <em>Pseudomethoca propinqua;</em> 1983; Penticton, BC; Collected by SG Cannings
+   "{{ site.data.images.treasure_38.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-38.jpg
+  background: "{{ site.data.images.treasure_38.src }}"
   href: /treasures/treasure-38
 
 - title: >
-   Great auk; <em>Pinguinus impennis;</em> Funk Island, NL; Collected by D H Pimlott
+   "{{ site.data.images.treasure_39.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-39.jpg
+  background: "{{ site.data.images.treasure_39.src }}"
   href: /treasures/treasure-39
 
 - title: >
-   Dinosaur egg; Possibly <em>Dendroolithus</em> sp.; 70 Ma; China
+   "{{ site.data.images.treasure_40.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-40.jpg
+  background: "{{ site.data.images.treasure_40.src }}"
   href: /treasures/treasure-40
 
 - title: >
-   Eulachon; <em>Thaleichthys pacificus;</em> Central Coast
+   "{{ site.data.images.treasure_41.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-41.jpg
+  background: "{{ site.data.images.treasure_41.src }}"
   href: /treasures/treasure-41
 
 - title: >
-   Ribbed pine borer; <em>Rhagium inquisitor;</em> 1910; Terrace, BC; Collected by Mrs. Hippisley
+   "{{ site.data.images.treasure_42.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-42.jpg
+  background: "{{ site.data.images.treasure_42.src }}"
   href: /treasures/treasure-42
 
 - title: >
-   Common wart-hog; <em>Phacochoerus africanus;</em> 1994; South Africa; Collected by Richard Singletary
+   "{{ site.data.images.treasure_43.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-43.jpg
+  background: "{{ site.data.images.treasure_43.src }}"
   href: /treasures/treasure-43
 
 - title: >
-   Department of Agriculture, Reference Collection of Economic and Weed Seeds; Dominion of Canada; 1911; Canada
+   "{{ site.data.images.treasure_44.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-44.jpg
+  background: "{{ site.data.images.treasure_44.src }}"
   href: /treasures/treasure-44
 
 - title: >
-   Tuna; Thunnus sp.; Gulf of Mexico
+   "{{ site.data.images.treasure_45.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-45.jpg
+  background: "{{ site.data.images.treasure_45.src }}"
   href: /treasures/treasure-45
 
 - title: >
-   Pacific lamprey; <em>Entosphenus tridentatus</em>
+   "{{ site.data.images.treasure_46.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-46.jpg
+  background: "{{ site.data.images.treasure_46.src }}"
   href: /treasures/treasure-46
 
 - title: >
-   Marrella; <em>Marella splendens;</em> 520 Ma; Burgess Shale, BC; Collected by Walcott
+   "{{ site.data.images.treasure_47.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-47.jpg
+  background: "{{ site.data.images.treasure_47.src }}"
   href: /treasures/treasure-47
 
 - title: >
-   Cuckoo wasp; <em>Chrysis provancheri;</em> 1981; Whitehorse, YT; Collected by CS Guppy
+   "{{ site.data.images.treasure_48.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-48.jpg
+  background: "{{ site.data.images.treasure_48.src }}"
   href: /treasures/treasure-48
 
 - title: >
-   Ochre cushion; <em>Hypocrea pulvinata;</em> 2008; Observatory Hill, Vancouver Island, BC; Collected by Oluna Ceska
+   "{{ site.data.images.treasure_49.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-49.jpg
+  background: "{{ site.data.images.treasure_49.src }}"
   href: /treasures/treasure-49
 
 - title: >
-   American pygmy shrew; Sorex hoyi; 1931; Chilcotin Lake, BC; Collected by McT-Cowan
+   "{{ site.data.images.treasure_50.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-50.jpg
+  background: "{{ site.data.images.treasure_50.src }}"
   href: /treasures/treasure-50
 
 - title: >
-   Fungi Columbiani: being a second edition of Ellis & Everhart’s North American Fungi; 1894; North America; Collected by Ellis & Everhart
+   "{{ site.data.images.treasure_51.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-51.jpg
+  background: "{{ site.data.images.treasure_51.src }}"
   href: /treasures/treasure-51
 
 - title: >
-   Cololejeunea macounii; 1889; Hastings Mill, Vancouver, BC; Collected by John Macoun
+   "{{ site.data.images.treasure_52.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-52.jpg
+  background: "{{ site.data.images.treasure_52.src }}"
   href: /treasures/treasure-52
 
 - title: >
-   Golden V kelp; <em>Aureophycus aleuticus;</em> 2006; AK; Collected by Mandy Lindeberg
+   "{{ site.data.images.treasure_53.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-53.jpg
+  background: "{{ site.data.images.treasure_53.src }}"
   href: /treasures/treasure-53
 
 - title: >
-   Sea scorpion; Eurypterida; 460 - 248 Ma
+   "{{ site.data.images.treasure_54.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-54.jpg
+  background: "{{ site.data.images.treasure_54.src }}"
   href: /treasures/treasure-54
 
 - title: >
-   Townsend’s vole; <em>Microtus townsendii;</em> 1970s; Collected by Charles Krebs
+   "{{ site.data.images.treasure_55.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-55.jpg
+  background: "{{ site.data.images.treasure_55.src }}"
   href: /treasures/treasure-55
 
 - title: >
-   Green peafowl; <em>Pavo muticus;</em> Domestic; Collected by Plato Mamo
+   "{{ site.data.images.treasure_56.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-56.jpg
+  background: "{{ site.data.images.treasure_56.src }}"
   href: /treasures/treasure-56
 
 - title: >
-   Giant elephant-bird egg; <em>Aepyormis maximus;</em> Madagascar; Collected by Michael C Whitlock
+   "{{ site.data.images.treasure_57.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-57.jpg
+  background: "{{ site.data.images.treasure_57.src }}"
   href: /treasures/treasure-57
 
 - title: >
-   Northern elephant seal; <em>Mirounga angustirostris;</em> 1944; Pine Island, Haida Gwaii, BC; Collected by Ivor Johnson
+   "{{ site.data.images.treasure_58.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-58.jpg
+  background: "{{ site.data.images.treasure_58.src }}"
   href: /treasures/treasure-58
 
 - title: "{{ site.data.images.treasure_59.title }}"
@@ -324,225 +324,225 @@ features:
   href: /treasures/treasure-59
 
 - title: >
-   Coho salmon; <em>Oncorhynchus kisutch</em>
+   "{{ site.data.images.treasure_60.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-60.jpg
+  background: "{{ site.data.images.treasure_60.src }}"
   href: /treasures/treasure-60
 
 - title: >
-   Butter clam; <em>Saxidomus gigantea;</em> BC
+   "{{ site.data.images.treasure_61.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-61.jpg
+  background: "{{ site.data.images.treasure_61.src }}"
   href: /treasures/treasure-61
 
 - title: >
-   Ammonite; <em>Pseudophyllites sp.;</em> 400 Ma; Hornby Island, BC
+   "{{ site.data.images.treasure_62.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-62.jpg
+  background: "{{ site.data.images.treasure_62.src }}"
   href: /treasures/treasure-62
 
 - title: >
-   Attendees of the 50th Anniversary of the Entomological Society of BC; 1951; UBC Vancouver, BC
+   "{{ site.data.images.treasure_63.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-63.jpg
+  background: "{{ site.data.images.treasure_63.src }}"
   href: /treasures/treasure-63
 
 - title: >
-   Corn lily; <em>Veratrum viride;</em> 1900; BC; Collected by John Davidson
+   "{{ site.data.images.treasure_64.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-64.jpg
+  background: "{{ site.data.images.treasure_64.src }}"
   href: /treasures/treasure-64
 
 - title: >
-   Plant bug; <em>Arhyssus rubrovenosus;</em> 2004; Osoyoos, BC; Collected by GGE Scudder
+   "{{ site.data.images.treasure_65.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-65.jpg
+  background: "{{ site.data.images.treasure_65.src }}"
   href: /treasures/treasure-65
 
 - title: >
-   Pacific sphagnum; <em>Sphagnum pacificum;</em> 1999; Vancouver Island, BC; Collected by GK Golinski
+   "{{ site.data.images.treasure_66.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-66.jpg
+  background: "{{ site.data.images.treasure_66.src }}"
   href: /treasures/treasure-66
 
 - title: >
-   Wrinkled bark beetle; <em>Clinidium calcaratum;</em> 1955/2015; UBC Vancouver, BC; Collected by B Hardy/CG Ratzlaff
+   "{{ site.data.images.treasure_67.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-67.jpg
+  background: "{{ site.data.images.treasure_67.src }}"
   href: /treasures/treasure-67
 
 - title: >
-   Rufous hummingbird; <em>Selasphorus rufus;</em> 2014; Collected by Kenneth Racey
+   "{{ site.data.images.treasure_68.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-68.jpg
+  background: "{{ site.data.images.treasure_68.src }}"
   href: /treasures/treasure-68
 
 - title: >
-   Sunflower star; <em>Pycnopodia helianthoides;</em> BC
+   "{{ site.data.images.treasure_69.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-69.jpg
+  background: "{{ site.data.images.treasure_69.src }}"
   href: /treasures/treasure-69
 
 - title: >
-   Starry flounder; <em>Platichthys stellatus;</em> BC
+   "{{ site.data.images.treasure_70.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-70.jpg
+  background: "{{ site.data.images.treasure_70.src }}"
   href: /treasures/treasure-70
 
 - title: >
-   Porifera; Archaeocyatha; 525 Ma
+   "{{ site.data.images.treasure_71.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-71.jpg
+  background: "{{ site.data.images.treasure_71.src }}"
   href: /treasures/treasure-71
 
 - title: >
-   Arctic tumbleweed; <em>Masonhalea richardsonii;</em> 2001; AK; Collected by Talbot & Schofield
+   "{{ site.data.images.treasure_72.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-72.jpg
+  background: "{{ site.data.images.treasure_72.src }}"
   href: /treasures/treasure-72
 
 - title: >
-   The Moore collection; 1980 - 2005; BC; Collected by Huber Moore
+   "{{ site.data.images.treasure_73.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-73.jpg
+  background: "{{ site.data.images.treasure_73.src }}"
   href: /treasures/treasure-73
 
 - title: >
-   Trilobite tracks / nests; Rusophycus / Cruziana; 530 Ma
+   "{{ site.data.images.treasure_74.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-74.jpg
+  background: "{{ site.data.images.treasure_74.src }}"
   href: /treasures/treasure-74
 
 - title: >
-   I’iwi; Vestiaria coccinea; 1899; Keaau, HI; Collected by H W Henshaw
+   "{{ site.data.images.treasure_75.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-75.jpg
+  background: "{{ site.data.images.treasure_75.src }}"
   href: /treasures/treasure-75
 
 - title: >
-   Lesser goldfinch; <em>Spinus psaltria witti;</em> 1963; Islas Tres Marias, Mexico; Collected by Peter Grant
+   "{{ site.data.images.treasure_76.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-76.jpg
+  background: "{{ site.data.images.treasure_76.src }}"
   href: /treasures/treasure-76
 
 - title: >
-   Mountain goat; <em>Oreamnos americana;</em> 1907; Banff, AB; Collected by Major Brooks
+   "{{ site.data.images.treasure_77.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-77.jpg
+  background: "{{ site.data.images.treasure_77.src }}"
   href: /treasures/treasure-77
 
 - title: >
-   Varied Thrush; Ixoreus naevius naevius; 1941; Passage Island, Howe Sound, BC; Collected by McTaggart-Cowan
+   "{{ site.data.images.treasure_78.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-78.jpg
+  background: "{{ site.data.images.treasure_78.src }}"
   href: /treasures/treasure-78
 
 - title: >
-   Oregon spotted frog; <em>Rana pretiosa;</em> 2009
+   "{{ site.data.images.treasure_79.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-79.jpg
+  background: "{{ site.data.images.treasure_79.src }}"
   href: /treasures/treasure-79
 
 - title: >
-   Ichneumon wasp; <em>Megarhyssa macrurus;</em> 1953; Collected by WRM Mason
+   "{{ site.data.images.treasure_80.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-80.jpg
+  background: "{{ site.data.images.treasure_80.src }}"
   href: /treasures/treasure-80
 
 - title: >
-   Baler volute; <em>Melo broderipii;</em> Papua New Guinea; 345 mm length; Collected by Killam
+   "{{ site.data.images.treasure_81.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-81.jpg
+  background: "{{ site.data.images.treasure_81.src }}"
   href: /treasures/treasure-81
 
 - title: >
-   Chain coral; <em>Halysites sp.;</em> 400 Ma
+   "{{ site.data.images.treasure_82.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-82.jpg
+  background: "{{ site.data.images.treasure_82.src }}"
   href: /treasures/treasure-82
 
 - title: >
-   <em>Brotherella canadensis;</em> 1968; Queen Charlotte Islands, BC; Collected by WB Schofield
+   "{{ site.data.images.treasure_83.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-83.jpg
+  background: "{{ site.data.images.treasure_83.src }}"
   href: /treasures/treasure-83
 
 - title: >
-   Tiger lily; <em>Lilium columbianum;</em> 1916; BC; Collected by John Davidson
+   "{{ site.data.images.treasure_84.title }}"
   categories: ["Herbarium"]
-  background: /assets/images/treasure-84.jpg
+  background: "{{ site.data.images.treasure_84.src }}"
   href: /treasures/treasure-84
 
 - title: >
-   Easter island fishes
+   "{{ site.data.images.treasure_85.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-85.jpg
+  background: "{{ site.data.images.treasure_85.src }}"
   href: /treasures/treasure-85
 
 - title: >
-   Cyanobacteria; Marpolia spissa; 520 Ma; Burgess Shale, BC; Collected by Walcott - 1919
+   "{{ site.data.images.treasure_86.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-86.jpg
+  background: "{{ site.data.images.treasure_86.src }}"
   href: /treasures/treasure-86
 
 - title: >
-   <em>Cladina mitis;</em> 1961; Wells Gray, BC; Collected by Teuvo Ahti and Leena Hamet-Ahti
+   "{{ site.data.images.treasure_87.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-87.jpg
+  background: "{{ site.data.images.treasure_87.src }}"
   href: /treasures/treasure-87
 
 - title: >
-   Atlantic horseshoe crab; <em>Limulus polyphemus</em>
+   "{{ site.data.images.treasure_88.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-88.jpg
+  background: "{{ site.data.images.treasure_88.src }}"
   href: /treasures/treasure-88
 
 - title: >
-   Hyracodon; <em>Hyracodon nebraskensis;</em> 32-36 Ma; White River, NE
+   "{{ site.data.images.treasure_89.title }}"
   categories: ["Fossil"]
-  background: /assets/images/treasure-89.jpg
+  background: "{{ site.data.images.treasure_89.src }}"
   href: /treasures/treasure-89
 
 - title: >
-   Dark-winged fungus gnat; <em>Cramptonomyia spenceri; 1979;</em> UBC Vancouver, BC; Collected by A Belshaw
+   "{{ site.data.images.treasure_90.title }}"
   categories: ["Entomology"]
-  background: /assets/images/treasure-90.jpg
+  background: "{{ site.data.images.treasure_90.src }}"
   href: /treasures/treasure-90
 
 - title: >
-   Baby ostrich; <em>Strutio camelus;</em> 1996; Domestic; Collected by D. Hancock
+   "{{ site.data.images.treasure_91.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-91.jpg
+  background: "{{ site.data.images.treasure_91.src }}"
   href: /treasures/treasure-91
 
 - title: >
-   Coelacanth; Coelacanthiformes
+   "{{ site.data.images.treasure_92.title }}"
   categories: ["Fishes", "Fossil"]
-  background: /assets/images/treasure-92.jpg
+  background: "{{ site.data.images.treasure_92.src }}"
   href: /treasures/treasure-92
 
 - title: >
-   Staghorn sculpin; <em>Leptocottus armatus;</em> October, 1955; Japan
+   "{{ site.data.images.treasure_93.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-93.jpg
+  background: "{{ site.data.images.treasure_93.src }}"
   href: /treasures/treasure-93
 
 - title: >
-   Bone-eating worm; <em>Osedax frankpressi</em>
+   "{{ site.data.images.treasure_94.title }}"
   categories: ["Marine Invertebrates"]
-  background: /assets/images/treasure-94.jpg
+  background: "{{ site.data.images.treasure_94.src }}"
   href: /treasures/treasure-94
 
 - title: >
-   Blue whale; <em>Balaenoptera musculus;</em> 1987; Tignish, PEI; Collected by Andrew Trites
+   "{{ site.data.images.treasure_95.title }}"
   categories: ["Tetrapods"]
-  background: /assets/images/treasure-95.jpg
+  background: "{{ site.data.images.treasure_95.src }}"
   href: /treasures/treasure-95
 
 - title: >
-   Chum Salmon; <em>Oncorhynchus keta;</em> Squamish River, BC
+   "{{ site.data.images.treasure_96.title }}"
   categories: ["Fishes"]
-  background: /assets/images/treasure-96.jpg
+  background: "{{ site.data.images.treasure_96.src }}"
   href: /treasures/treasure-96
 
 

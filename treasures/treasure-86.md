@@ -1,11 +1,11 @@
 ---
 title: >
- Cyanobacteria; Marpolia spissa; 520 Ma; Burgess Shale, BC; Collected by Walcott - 1919
+ "{{ site.data.images.treasure_86.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-86.jpg
+background: "{{ site.data.images.treasure_86.src }}"
 categories: ["Fossil"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_86.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

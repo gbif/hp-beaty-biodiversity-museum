@@ -1,9 +1,9 @@
 ---
-title: Blacktip shark jaws; <em>Carcharhinus limbatus</em>
+title: "{{ site.data.images.treasure_23.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-23.jpg
+background: "{{ site.data.images.treasure_23.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_23.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

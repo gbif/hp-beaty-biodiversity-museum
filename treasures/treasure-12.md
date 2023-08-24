@@ -1,9 +1,9 @@
 ---
-title: Hover fly; <em>Sericomyia chalcopyga</em>; 1915; Vancouver, BC
+title: "{{ site.data.images.treasure_12.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-12.jpg
+background: "{{ site.data.images.treasure_12.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_12.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

@@ -1,11 +1,11 @@
 ---
 title: >
- Coho salmon; <em>Oncorhynchus kisutch</em>
+ "{{ site.data.images.treasure_60.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-60.jpg
+background: "{{ site.data.images.treasure_60.src }}"
 categories: ["Fishes"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_60.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

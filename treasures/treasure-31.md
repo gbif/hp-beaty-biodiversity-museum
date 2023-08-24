@@ -1,10 +1,10 @@
 ---
-title: “A breath of the sea” Souvenir of Santa Cruz; 1889; CA; Collected by Emily Brand
+title: "{{ site.data.images.treasure_31.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-31.jpg
+background: "{{ site.data.images.treasure_31.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_31.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

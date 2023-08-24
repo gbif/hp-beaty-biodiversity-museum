@@ -1,10 +1,10 @@
 ---
-title: Common wart-hog; Phacochoerus africanus; 1994; South Africa; Collected by Richard Singletary
+title: "{{ site.data.images.treasure_43.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-43.jpg
+background: "{{ site.data.images.treasure_43.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_43.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

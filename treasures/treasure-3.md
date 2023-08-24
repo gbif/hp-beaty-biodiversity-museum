@@ -1,9 +1,9 @@
 ---
-title: California root borer; <em>Prionus californicus;</em> 1997; Osoyoos, BC; Collected by GGE Scudder
+title: "{{ site.data.images.treasure_3.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-3.jpg
+background: "{{ site.data.images.treasure_3.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_3.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

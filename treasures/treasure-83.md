@@ -1,11 +1,11 @@
 ---
 title: >
- <em>Brotherella canadensis;</em> 1968; Queen Charlotte Islands, BC; Collected by WB Schofield
+ "{{ site.data.images.treasure_83.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-83.jpg
+background: "{{ site.data.images.treasure_83.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_83.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

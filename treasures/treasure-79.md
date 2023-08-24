@@ -1,11 +1,11 @@
 ---
 title: >
- Oregon spotted frog; <em>Rana pretiosa;</em> 2009
+ "{{ site.data.images.treasure_79.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-79.jpg
+background: "{{ site.data.images.treasure_79.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_79.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

@@ -1,11 +1,11 @@
 ---
 title: >
- Arctic tumbleweed; <em>Masonhalea richardsonii;</em> 2001; AK; Collected by Talbot & Schofield
+ "{{ site.data.images.treasure_72.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-72.jpg
+background: "{{ site.data.images.treasure_72.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_72.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

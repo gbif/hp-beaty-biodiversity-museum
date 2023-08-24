@@ -1,11 +1,11 @@
 ---
 title: >
- Tiger lily; <em>Lilium columbianum;</em> 1916; BC; Collected by John Davidson
+ "{{ site.data.images.treasure_84.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-84.jpg
+background: "{{ site.data.images.treasure_84.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_84.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

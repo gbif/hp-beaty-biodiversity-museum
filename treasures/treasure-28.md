@@ -1,10 +1,10 @@
 ---
-title: Northwestern salamander; <em>Ambystoma gracile;</em> 1930; Mountain View Conservation and Breeding Society, Vancouver, BC; Collected by Gertrude M. Smith
+title: "{{ site.data.images.treasure_28.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-28.jpg
+background: "{{ site.data.images.treasure_28.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_28.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

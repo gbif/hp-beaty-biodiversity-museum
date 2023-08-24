@@ -1,11 +1,11 @@
 ---
 title: >
- Baler volute; <em>Melo broderipii;</em> Papua New Guinea; 345 mm length; Collected by Killam
+ "{{ site.data.images.treasure_81.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-81.jpg
+background: "{{ site.data.images.treasure_81.src }}"
 categories: ["Marine Invertebrates"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_81.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

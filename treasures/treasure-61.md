@@ -1,11 +1,11 @@
 ---
 title: >
- Butter clam; <em>Saxidomus gigantea;</em> BC
+ "{{ site.data.images.treasure_61.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-61.jpg
+background: "{{ site.data.images.treasure_61.src }}"
 categories: ["Marine Invertebrates"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_61.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

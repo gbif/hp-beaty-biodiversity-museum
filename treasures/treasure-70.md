@@ -1,11 +1,11 @@
 ---
 title: >
- Starry flounder; <em>Platichthys stellatus;</em> BC
+ "{{ site.data.images.treasure_70.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-70.jpg
+background:  "{{ site.data.images.treasure_70.src }}"
 categories: ["Fishes"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_70.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

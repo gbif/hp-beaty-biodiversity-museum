@@ -1,9 +1,9 @@
 ---
-title: Northern abalone or pinto abalone; <em>Haliotis kamtschatkana</em>
+title: "{{ site.data.images.treasure_19.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-16.jpg
+background: "{{ site.data.images.treasure_19.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_19.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

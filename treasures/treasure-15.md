@@ -1,9 +1,9 @@
 ---
-title: Great green turban; <em>Turbo marmoratus;</em> Indo-Pacific
+title: "{{ site.data.images.treasure_15.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-15.jpg
+background: "{{ site.data.images.treasure_15.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_15.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

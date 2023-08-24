@@ -1,9 +1,9 @@
 ---
-title: <em>Melanotus textilis;</em> 1982; BC; Collected by Paul Kroeger
+title: "{{ site.data.images.treasure_6.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-6.jpg
+background: "{{ site.data.images.treasure_6.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_6.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

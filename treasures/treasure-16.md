@@ -1,9 +1,9 @@
 ---
-title: Great spirit gummy bear; <em>Pseudohydnum gelatinosum;</em> Collected by B Didier
+title: "{{ site.data.images.treasure_16.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-16.jpg
+background: "{{ site.data.images.treasure_16.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_16.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

@@ -1,11 +1,11 @@
 ---
 title: >
- Sea scorpion; Eurypterida; 460 - 248 Ma
+ "{{ site.data.images.treasure_54.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-54.jpg
+background: "{{ site.data.images.treasure_54.src }}"
 categories: ["Fossil"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_54.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

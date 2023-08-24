@@ -1,9 +1,9 @@
 ---
-title: "John Davidson’s field kit; City of Vancouver Archives reference number AM505-S1-: CVA 660-663; 1910; BC; Collected by John Davidson"
+title: "{{ site.data.images.treasure_4.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-4.jpg
+background: "{{ site.data.images.treasure_4.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_4.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

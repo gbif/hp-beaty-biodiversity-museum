@@ -1,10 +1,10 @@
 ---
-title: Dinosaur egg; Possibly Dendroolithus sp.; 70 Ma; China
+title: "{{ site.data.images.treasure_40.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-40.jpg
+background: "{{ site.data.images.treasure_40.src }}"
 categories: ["Fossil"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_40.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

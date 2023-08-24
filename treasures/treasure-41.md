@@ -1,10 +1,10 @@
 ---
-title: Eulachon; Thaleichthys pacificus; Central Coast
+title: "{{ site.data.images.treasure_41.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-41.jpg
+background: "{{ site.data.images.treasure_41.src }}"
 categories: ["Fishes"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_41.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

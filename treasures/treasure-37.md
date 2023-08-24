@@ -1,10 +1,10 @@
 ---
-title: Fingered goblet or vase sponge; <em>Heterochone calyx;</em> July 1, 2010; Between Vancouver Island, BC and Haida Gwaii; 400 feet depth
+title: "{{ site.data.images.treasure_37.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-37.jpg
+background: "{{ site.data.images.treasure_37.src }}"
 categories: ["Marine Invertebrates"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_37.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

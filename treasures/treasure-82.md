@@ -1,11 +1,11 @@
 ---
 title: >
- Chain coral; <em>Halysites sp.;</em> 400 Ma
+ "{{ site.data.images.treasure_82.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-82.jpg
+background: "{{ site.data.images.treasure_82.src }}"
 categories: ["Fossil"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_82.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

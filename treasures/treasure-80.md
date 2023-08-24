@@ -1,11 +1,11 @@
 ---
 title: >
- Ichneumon wasp; <em>Megarhyssa macrurus;</em> 1953; Collected by WRM Mason
+ "{{ site.data.images.treasure_80.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-80.jpg
+background: "{{ site.data.images.treasure_80.src }}"
 categories: ["Entomology"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_80.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

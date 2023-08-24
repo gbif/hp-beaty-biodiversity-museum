@@ -1,9 +1,9 @@
 ---
-title: Paper watercolors and spore prints; Shaggy mane; <em>Coprinus comatus;</em> Early 1900′s; BC; Collected by Albert Hills
+title: "{{ site.data.images.treasure_22.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-21.jpg
+background: "{{ site.data.images.treasure_22.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_22.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

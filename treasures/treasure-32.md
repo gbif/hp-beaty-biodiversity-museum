@@ -1,10 +1,10 @@
 ---
-title: Graptolite; <em>Monograptus</em> sp.; 444 - 416 Ma
+title: "{{ site.data.images.treasure_32.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-32.jpg
+background: "{{ site.data.images.treasure_32.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_32.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

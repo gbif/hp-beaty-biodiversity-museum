@@ -1,10 +1,10 @@
 ---
-title: Crustose coralline algae on wine bottle; Corallinales; 1972; WA; Collected by Phil Lebednik
+title: "{{ site.data.images.treasure_27.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-27.jpg
+background: "{{ site.data.images.treasure_27.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_27.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

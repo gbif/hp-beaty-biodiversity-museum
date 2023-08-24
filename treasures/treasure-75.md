@@ -1,11 +1,11 @@
 ---
 title: >
- I’iwi; <em>Vestiaria coccinea;</em> 1899; Keaau, HI; Collected by H W Henshaw
+ "{{ site.data.images.treasure_75.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-75.jpg
+background: "{{ site.data.images.treasure_75.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_75.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

@@ -1,11 +1,11 @@
 ---
 title: >
- The Moore collection; 1980 - 2005; BC; Collected by Huber Moore
+ "{{ site.data.images.treasure_73.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-73.jpg
+background: "{{ site.data.images.treasure_73.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_73.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

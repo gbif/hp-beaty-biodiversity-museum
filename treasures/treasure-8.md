@@ -1,9 +1,9 @@
 ---
-title: Passenger pigeon; <em>Ectopistes migratorius;</em> ON; Collected by H.J Baker / ROM
+title: "{{ site.data.images.treasure_8.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-8.jpg
+background: "{{ site.data.images.treasure_8.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_8.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

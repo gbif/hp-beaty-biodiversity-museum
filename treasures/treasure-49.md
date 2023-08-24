@@ -1,10 +1,10 @@
 ---
-title: Ochre cushion; Hypocrea pulvinata; 2008; Observatory Hill, Vancouver Island, BC; Collected by Oluna Ceska
+title: "{{ site.data.images.treasure_49.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-49.jpg
+background: "{{ site.data.images.treasure_49.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_49.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

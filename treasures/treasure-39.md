@@ -1,10 +1,10 @@
 ---
-title: Great auk; <em>Pinguinus impennis;</em> Funk Island, NL; Collected by D H Pimlott
+title: "{{ site.data.images.treasure_39.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-39.jpg
+background: "{{ site.data.images.treasure_39.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_39.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

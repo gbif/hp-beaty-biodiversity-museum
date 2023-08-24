@@ -1,9 +1,9 @@
 ---
-title: Speckled dace; <em>Rhinichthys osculus</em>
+title: "{{ site.data.images.treasure_17.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-17.jpg
+background: "{{ site.data.images.treasure_17.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_17.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

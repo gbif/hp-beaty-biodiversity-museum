@@ -1,10 +1,10 @@
 ---
-title: Department of Agriculture, Reference Collection of Economic and Weed Seeds; Dominion of Canada; 1911; Canada
+title: "{{ site.data.images.treasure_44.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-44.jpg
+background: "{{ site.data.images.treasure_44.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_44.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

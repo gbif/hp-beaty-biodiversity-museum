@@ -1,11 +1,11 @@
 ---
 title: >
- Corn lily; Veratrum viride; 1900; BC; Collected by John Davidson
+ "{{ site.data.images.treasure_64.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-64.jpg
+background: "{{ site.data.images.treasure_64.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_64.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

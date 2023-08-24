@@ -1,11 +1,11 @@
 ---
 title: >
- Coelacanth; Coelacanthiformes
+ "{{ site.data.images.treasure_92.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-92.jpg
+background: "{{ site.data.images.treasure_92.src }}"
 categories: ["Fishes", "Fossil"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_92.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

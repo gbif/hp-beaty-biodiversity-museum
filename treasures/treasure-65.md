@@ -1,11 +1,11 @@
 ---
 title: >
- Plant bug; <em>Arhyssus rubrovenosus;</em> 2004; Osoyoos, BC; Collected by GGE Scudder
+ "{{ site.data.images.treasure_65.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-65.jpg
+background: "{{ site.data.images.treasure_65.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_65.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

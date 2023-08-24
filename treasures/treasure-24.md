@@ -1,9 +1,9 @@
 ---
-title: Common paper nautilus; <em>Argonauta argo;</em> warm worldwide seas
+title: "{{ site.data.images.treasure_24.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-24.jpg
+background: "{{ site.data.images.treasure_24.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_24.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

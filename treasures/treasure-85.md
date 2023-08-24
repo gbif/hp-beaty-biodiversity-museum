@@ -1,11 +1,11 @@
 ---
 title: >
- Easter island fishes
+ "{{ site.data.images.treasure_85.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-85.jpg
+background: "{{ site.data.images.treasure_85.src }}"
 categories: ["Fishes"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_85.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

@@ -1,11 +1,11 @@
 ---
 title: >
- Varied Thrush; <em>Ixoreus naevius naevius;</em> 1941; Passage Island, Howe Sound, BC; Collected by McTaggart-Cowan
+ "{{ site.data.images.treasure_78.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-78.jpg
+background: "{{ site.data.images.treasure_78.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_78.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

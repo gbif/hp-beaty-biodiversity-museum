@@ -1,10 +1,10 @@
 ---
-title: Morris the Crested Myna; <em>Acridotheres cristatellus;</em> 2007; Irene and Clint Davy
+title: "{{ site.data.images.treasure_26.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-26.jpg
+background: "{{ site.data.images.treasure_26.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_26.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

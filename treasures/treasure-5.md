@@ -1,9 +1,9 @@
 ---
-title: Man-eating clam; <em>Tridacna gigas;</em> Indo-Pacific; Collected by Killam
+title: "{{ site.data.images.treasure_5.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-5.jpg
+background: "{{ site.data.images.treasure_5.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_5.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

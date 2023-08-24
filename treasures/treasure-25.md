@@ -1,9 +1,9 @@
 ---
-title: Western spotted skunk; <em>Spilogale gracilis;</em> 2013; West Vancouver, BC; Collected by Wildlife Rescue Association Burnaby BC
+title: "{{ site.data.images.treasure_25.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-24.jpg
+background: "{{ site.data.images.treasure_25.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_25.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

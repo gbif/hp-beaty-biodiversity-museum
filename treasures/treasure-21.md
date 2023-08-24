@@ -1,9 +1,9 @@
 ---
-title: Musk Ox; <em>Ovibos moschatus;</em> 1976; NT; Collected by Zonailo Family
+title: "{{ site.data.images.treasure_21.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-21.jpg
+background: "{{ site.data.images.treasure_21.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_21.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

@@ -1,11 +1,11 @@
 ---
 title: >
- Blue whale; <em>Balaenoptera musculus;</em> 1987; Tignish, PEI; Collected by Andrew Trites
+ "{{ site.data.images.treasure_95.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-95.jpg
+background: "{{ site.data.images.treasure_95.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_95.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

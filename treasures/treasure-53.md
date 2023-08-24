@@ -1,11 +1,11 @@
 ---
 title: >
- Golden V kelp; <em>Aureophycus aleuticus;</em> 2006; AK; Collected by Mandy Lindeberg
+ "{{ site.data.images.treasure_53.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-53.jpg
+background: "{{ site.data.images.treasure_53.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_53.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

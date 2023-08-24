@@ -1,10 +1,10 @@
 ---
-title: Krill; Euphausiacea; San Lucas, Baja, CA; Collected by M.H.N
+title: "{{ site.data.images.treasure_1.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-1.jpg
+background: "{{ site.data.images.treasure_1.src }}"
 categories: ["marine invertebrates"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_1.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

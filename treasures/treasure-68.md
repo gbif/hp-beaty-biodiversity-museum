@@ -1,11 +1,11 @@
 ---
 title: >
- Rufous hummingbird; <em>Selasphorus rufus;</em> 2014; Collected by Kenneth Racey
+ "{{ site.data.images.treasure_68.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-68.jpg
+background: "{{ site.data.images.treasure_68.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_68.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

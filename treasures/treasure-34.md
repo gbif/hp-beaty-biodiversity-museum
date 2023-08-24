@@ -1,10 +1,10 @@
 ---
-title: Western red cedar; <em>Thuja plicata;</em> 1950s; BC
+title: "{{ site.data.images.treasure_34.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-34.jpg
+background: "{{ site.data.images.treasure_34.src }}"
 categories: ["Herbarium"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_34.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

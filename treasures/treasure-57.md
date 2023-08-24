@@ -1,11 +1,11 @@
 ---
 title: >
- Giant elephant-bird egg; Aepyormis maximus; Madagascar; Collected by Michael C Whitlock
+ "{{ site.data.images.treasure_57.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-57.jpg
+background: "{{ site.data.images.treasure_57.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_57.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

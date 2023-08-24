@@ -1,11 +1,11 @@
 ---
 title: >
- Attendees of the 50th Anniversary of the Entomological Society of BC; 1951; UBC Vancouver, BC
+ "{{ site.data.images.treasure_63.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-63.jpg
+background: "{{ site.data.images.treasure_63.src }}"
 categories: ["Entomology"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_63.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

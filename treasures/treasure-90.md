@@ -1,11 +1,11 @@
 ---
 title: >
- Dark-winged fungus gnat; Cramptonomyia spenceri; 1979; UBC Vancouver, BC; Collected by A Belshaw
+ "{{ site.data.images.treasure_90.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-90.jpg
+background: "{{ site.data.images.treasure_90.src }}"
 categories: ["Entomology"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+   "{{ site.data.images.treasure_90.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

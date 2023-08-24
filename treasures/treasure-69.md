@@ -1,11 +1,11 @@
 ---
 title: >
- Sunflower star; <em>Pycnopodia helianthoides;</em> BC
+ "{{ site.data.images.treasure_69.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-69.jpg
+background: "{{ site.data.images.treasure_69.src }}"
 categories: ["Marine Invertebrates"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_69.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

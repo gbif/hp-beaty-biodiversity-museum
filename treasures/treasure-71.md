@@ -1,11 +1,11 @@
 ---
 title: >
- Porifera; Archaeocyatha; 525 Ma
+ "{{ site.data.images.treasure_71.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-71.jpg
+background: "{{ site.data.images.treasure_71.src }}"
 categories: ["Fossil"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_71.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

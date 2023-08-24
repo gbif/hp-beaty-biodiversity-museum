@@ -1,9 +1,9 @@
 ---
-title: Saskatoon serviceberry; <em>Amelanchier alnifolia;</em> 1970; BC; Collected by Nancy Turner
+title: "{{ site.data.images.treasure_11.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-11.jpg
+background: "{{ site.data.images.treasure_11.src }}"
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+  "{{ site.data.images.treasure_11.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown

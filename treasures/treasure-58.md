@@ -1,11 +1,11 @@
 ---
 title: >
- Northern elephant seal; <em>Mirounga angustirostris;</em> 1944; Pine Island, Haida Gwaii, BC; Collected by Ivor Johnson
+ "{{ site.data.images.treasure_58.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/treasure-58.jpg
+background: "{{ site.data.images.treasure_58.src }}"
 categories: ["Tetrapods"]
 imageLicense: |
-  [*](http://creativecommons.org/licenses/by-nc-nd/4.0)
+   "{{ site.data.images.treasure_58.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown
