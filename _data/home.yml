@@ -57,15 +57,15 @@ stats:
   title: Our Data
   features:
       # Hard coded value
-    - title: 123
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=b542788f-0dc2-4a2b-b652-fceced449591&country=CA">100,000</span>
       description: Canadian Specimens
       href: /about
       blankTarget: true
-    - title: 456
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=b542788f-0dc2-4a2b-b652-fceced449591">100,000</span>
       description: Total Citations
       href: /about
       blankTarget: true
-    - title: 789
-      description: TB of Total High-Quality Image Data 
+    - title: 37000
+      description: High Quality Images
       href: /about
       blankTarget: true
