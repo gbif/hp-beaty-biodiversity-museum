@@ -5,12 +5,8 @@
 columns:
   - name: Beaty Biodiversity Museum • staging site
   
-    connectIcons: true
-    description: | # Can be Markdown
     
-    links: # optional as well
-    - text: Click here for more information on hosted portals
-      href: https://gbif.org/hosted-portals
+
       
 # EXAMPLE
 #- name: Group name
