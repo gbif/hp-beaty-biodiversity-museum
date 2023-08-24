@@ -1,24 +1,23 @@
 [![Build Status](https://builds.gbif.org/job/hp-beaty-biodiversity-museum/badge/icon)](https://builds.gbif.org/job/hp-beaty-biodiversity-museum/lastBuild/console)
+[![GBIF Hosted Portal](https://docs.gbif.org/style/gbif-hosted-portal.svg)](https://github.com/gbif/hosted-portals)
 
-# Natural history Museum template demo site
+# GBIF Hosted Portal: Beaty Biodiversity Museum 
 
-in progress
+This portal showcases the holdings of the [Beaty Biodiversity Museum](https://beatymuseum.ubc.ca/) that have been uploaded to the Global Biodiversity Informatics Facility (GBIF). This portal is currently under active development in preparation for an initial production release.
 
-# install and start
-See https://jekyllrb.com/ for details on using Jekyll
+## Details on the Hosted Portal Program
+For details on the GBIF Hosted Portal program, you can visit the [gbif website about the project](https://www.gbif.org/hosted-portals)
 
-```
-gem install bundler jekyll
-```
+## Developing Locally
 
-For development start with
-```
-bundle exec jekyll serve
-# OR if you have docker
-docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:4.1.0 jekyll serve
-```
+This site utilizes [jekyll](https://jekyllrb.com/), a blog-aware static site generator written in Ruby. For details on installing Ruby, see the [installation guide](https://www.ruby-lang.org/en/documentation/installation/). For details on getting setup with jekyll see the [installation guide](https://jekyllrb.com/docs/installation/).
 
-To build
-```
-bundle exec jekyll build
-```
+For development, start with:
+`bundle exec jekyll serve`
+
+To build:
+`bundle exec jekyll build`
+
+## Staging Environment
+The staging site for this repository can be found at `https://beaty-biodiversity-museum.hp.gbif-staging.org/`
+
