@@ -24,13 +24,17 @@ var siteConfig = {
       route: '/specimen/search'
     }
   },
+  collection: {
+    availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
+    rootFilter: {
+      institution: 'c7d5c4da-9590-49c2-b87c-f0e7932611a6'
+    }
+  },
   occurrence: {
-    collection: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE']},
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
     highlightedFilters: ['taxonKey', 'verbatimScientificName', 'datasetKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
     defaultTableColumns: ['dataset', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
-    availableCatalogues: ['OCCURRENCE'],
+    availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
     mapSettings: {
       lat: 0,
       lng: 0,
@@ -58,6 +62,7 @@ var siteConfig = {
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
+  availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
   apiKeys: {
     // maptiler: "INSERT_HERE",
     // mapbox: "INSERT_HERE"
