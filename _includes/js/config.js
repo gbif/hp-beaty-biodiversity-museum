@@ -27,7 +27,7 @@ var siteConfig = {
   collection: {
     availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
     rootFilter: {
-      institution: 'c7d5c4da-9590-49c2-b87c-f0e7932611a6'
+      institution: '844b0b5b-63b6-4280-8dd9-421a2e8b2bf5'
     }
   },
   occurrence: {
