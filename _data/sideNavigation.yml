@@ -1,0 +1,31 @@
+guides:
+- grouptitle: Browse Citations
+  content:
+  - sectiontitle: Cowan Tetrapod Collection
+    section:
+    - title: Birds
+      path: /pages/citations/birds
+    - title: Mammals
+      path: /pages/citations/mammals
+    - title: Herpetology
+      path: /pages/citations/herpetology
+  - sectiontitle: Herbarium
+    section:
+    - title: Algae
+      path: /pages/citations/algae
+    - title: Bryophytes
+      path: /pages/citations/bryophytes
+    - title: Fungi
+      path: /pages/citations/fungi
+    - title: Lichen
+      path: /pages/citations/lichen
+    - title: Vascular Plants
+      path: /pages/citations/vascular-plants
+  - title: Spencer Entomology Collection
+    path: /pages/citations/entomology
+  - title: Fish
+    path: /pages/citations/fish
+  - title: Fossils
+    path: /pages/citations/fossils
+  - title: Marine Invertebrates
+    path: /pages/citations/marine-invertebrates
