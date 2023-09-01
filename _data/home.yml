@@ -32,7 +32,7 @@ polarBear:
     [*Masonhalea richardsonii*, 2001](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected by Curtis Bjork, Lichenologist and Botanist at UBC
   cta:
   - text: See all specimens
-    href: /specimen/search?basis_of_record=PRESERVED_SPECIMEN&collectionCode=UBC
+    href: /under_development
 
 
 specimens:
@@ -44,22 +44,19 @@ specimens:
   - title: Green peafowl <em>Pavo muticus</em>
     description: 
     background: assets/images/feature-specimen-1.jpg
-    href: /specimen/search?entity=1291990651
   - title: Giant Pacific octopus <em>Enteroctopus doleini</em>
     description: 
     background: assets/images/feature-specimen-2.jpg
-    href: /specimen/search?entity=2579975003
   - title: Saskatoon serviceberry <em>Amelanchier alnifolia</em>
     description: 
     background: assets/images/feature-specimen-3.jpg
-    href: /specimen/search?entity=1265025119
 stats:
   title: Our Data
   features:
       # Hard coded value
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=b542788f-0dc2-4a2b-b652-fceced449591&country=CA">100,000</span>
       description: Canadian Specimens
-      href: /about
+      href: /specimen/search?country=CA
       blankTarget: true
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=b542788f-0dc2-4a2b-b652-fceced449591">100,000</span>
       description: Total Citations
