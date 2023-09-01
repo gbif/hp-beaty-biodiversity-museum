@@ -1,7 +1,7 @@
 ---
 title: Algae Collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/lep-3a.jpg
+background: /assets/images/algae-collection-photo.jpg
 imageLicense: |
   [*Eulepidotis poirieri* Barbut & Lalanne-Cassou, 2014](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=1020747701) Collected in French Guiana, Marion DEPRAETERE licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
@@ -35,7 +35,16 @@ composition:
         href: /specimen/search?entity=1020748094
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
+**One of the largest macro red algae collections and second-largest assemblage of coralline specimens in North America**
 
-## Feugait nulla
-quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+**Total specimens in collection – 90,000**
+
+Algae are photosynthetic and are a diverse group of aquatic organisms, ranging from single cells to kelps 60 metres long.
+
+The algal or phycological collection at the Beaty Biodiversity Museum includes 90,000 specimens of seaweeds or macroalgae, some dating back to 1812. Much algal diversity also exists at the microscopic scale, but these groups are typically not well-represented in herbaria. A major contributor to our algal collection was Dr. Robert Scagel, a professor in the Department of Botany from 1952 to 1986. When Dr. Scagel was first appointed at UBC, the algal collection took up less than one herbarium case. Under his direction, and with the help of graduate students and post-doctoral researchers, the collection grew to its present size.
+
+The collection is one of the world’s best for Pacific Northwest seaweeds and coralline red algae. The collections focus on the diverse seaweed flora of the northeast Pacific from Oregon to Alaska. Other regions that have good representative collections include California, Mexico, Chile, Australia, New Zealand, Hawaii, Mauritius, East Africa and Japan. Genera with comprehensive representation include: most kelps (especially Alaria, Laminaria, and Saccharina), and common green (Ulva) and red algal genera (Chondracanthus, Mastocarpus, Mazzaella, Palmaria, Porphyra, Prionitis, etc.).
+
+Algal groups other than green, brown and red seaweeds (including Chrysophyta, Cyanophyta, Pyrrophyta, and Xanthophyta) are also represented by a small number of collections. All known species of seaweeds occurring in the region are represented, but less common species are represented by relatively few specimens.
+
+
