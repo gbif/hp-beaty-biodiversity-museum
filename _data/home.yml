@@ -14,11 +14,11 @@ collectionsPreview:
   - title: Cowan Tetrapod Collection
     description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
     background: assets/images/ctc-card-image.jpg
-    href: /collections/cowan-tetrapod-collection
+    href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
   - title: Fish
     description: The fish collection holds over 800,000 specimens and over 50,000 DNA and tissue samples, making it the third largest fish collection in Canada. The collection holds 11 holotype specimens, original specimens that were used to describe new species. It also contains representatives of what may be the youngest fish species on Earth, pairs of stickleback species that evolved only recently in British Columbia's lakes.
     background: assets/images/fish-card-image.jpg
-    href: /collections/fish-collection
+    href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
 
 
 polarBear:
