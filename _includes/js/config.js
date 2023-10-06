@@ -33,7 +33,7 @@ var siteConfig = {
   occurrence: {
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
     highlightedFilters: ['taxonKey', 'verbatimScientificName', 'datasetKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    defaultTableColumns: ['dataset', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
+    availableTableColumns: ['dataset', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
     availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
     mapSettings: {
       lat: 0,
