@@ -1,6 +1,7 @@
 ---
 title: Contact us
 layout: post
+permalink: /contact-us
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/contact-us-image.jpg
 imageLicense: |
