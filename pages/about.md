@@ -2,6 +2,7 @@
 title: About
 klass: about
 layout: post
+permalink: /about
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/about-photo.jpg
 imageLicense: |
