@@ -3,547 +3,547 @@ klass: 100treasuresbg
 description: |
   Here are 100 of our favourite things! 
 features: 
-- title: "{{ site.data.images.treasure_1.title }}"
+- title: "{{ site.data.treasures.treasure_1.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_1.src }}"
-  href: /treasures/treasure-1
-- title: "{{ site.data.images.treasure_2.title }}"
+  background: "{{ site.data.treasures.treasure_1.background }}"
+  href: /100-treasures/treasure-1
+- title: "{{ site.data.treasures.treasure_2.title }}"
   categories: ["Fossils"]
-  background: "{{ site.data.images.treasure_2.src }}"
-  href: /treasures/treasure-2
-- title: "{{ site.data.images.treasure_3.title }}"
+  background: "{{ site.data.treasures.treasure_2.background }}"
+  href: /100-treasures/treasure-2
+- title: "{{ site.data.treasures.treasure_3.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_3.src }}"
-  href: /treasures/treasure-3
+  background: "{{ site.data.treasures.treasure_3.background }}"
+  href: /100-treasures/treasure-3
 - title: >
-   "{{ site.data.images.treasure_4.title }}"
+   "{{ site.data.treasures.treasure_4.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_4.src }}"
-  href: /treasures/treasure-4
+  background: "{{ site.data.treasures.treasure_4.background }}"
+  href: /100-treasures/treasure-4
 - title: >
-   "{{ site.data.images.treasure_5.title }}"
+   "{{ site.data.treasures.treasure_5.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_5.src }}"
-  href: /treasures/treasure-5
+  background: "{{ site.data.treasures.treasure_5.background }}"
+  href: /100-treasures/treasure-5
 - title: >
-   "{{ site.data.images.treasure_6.title }}"
+   "{{ site.data.treasures.treasure_6.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_6.src }}"
-  href: /treasures/treasure-6
+  background: "{{ site.data.treasures.treasure_6.background }}"
+  href: /100-treasures/treasure-6
 - title: >
-   "{{ site.data.images.treasure_7.title }}"
+   "{{ site.data.treasures.treasure_7.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_7.src }}"
-  href: /treasures/treasure-7
+  background: "{{ site.data.treasures.treasure_7.background }}"
+  href: /100-treasures/treasure-7
 - title: >
-   "{{ site.data.images.treasure_8.title }}"
+   "{{ site.data.treasures.treasure_8.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_8.src }}"
-  href: /treasures/treasure-8
+  background: "{{ site.data.treasures.treasure_8.background }}"
+  href: /100-treasures/treasure-8
 - title: >
-   "{{ site.data.images.treasure_10.title }}"
+   "{{ site.data.treasures.treasure_10.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_10.src }}"
-  href: /treasures/treasure-10
+  background: "{{ site.data.treasures.treasure_10.background }}"
+  href: /100-treasures/treasure-10
 - title: >
-   "{{ site.data.images.treasure_11.title }}"
+   "{{ site.data.treasures.treasure_11.title }}"
   categories: ["Herbarium", "Canadian"]
-  background: "{{ site.data.images.treasure_11.src }}"
-  href: /treasures/treasure-11
+  background: "{{ site.data.treasures.treasure_11.background }}"
+  href: /100-treasures/treasure-11
 - title: >
-   "{{ site.data.images.treasure_12.title }}"
+   "{{ site.data.treasures.treasure_12.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_12.src }}"
-  href: /treasures/treasure-12
+  background: "{{ site.data.treasures.treasure_12.background }}"
+  href: /100-treasures/treasure-12
 - title: >
-   "{{ site.data.images.treasure_13.title }}"
+   "{{ site.data.treasures.treasure_13.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_13.src }}"
-  href: /treasures/treasure-13
+  background: "{{ site.data.treasures.treasure_13.background }}"
+  href: /100-treasures/treasure-13
 - title: >
-   "{{ site.data.images.treasure_14.title }}"
+   "{{ site.data.treasures.treasure_14.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_14.src }}"
-  href: /treasures/treasure-14
+  background: "{{ site.data.treasures.treasure_14.background }}"
+  href: /100-treasures/treasure-14
 - title: >
-   "{{ site.data.images.treasure_15.title }}"
+   "{{ site.data.treasures.treasure_15.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_15.src }}"
-  href: /treasures/treasure-15
+  background: "{{ site.data.treasures.treasure_15.background }}"
+  href: /100-treasures/treasure-15
 - title: >
-   "{{ site.data.images.treasure_16.title }}"
+   "{{ site.data.treasures.treasure_16.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_16.src }}"
-  href: /treasures/treasure-16
+  background: "{{ site.data.treasures.treasure_16.background }}"
+  href: /100-treasures/treasure-16
 - title: >
-   "{{ site.data.images.treasure_17.title }}"
+   "{{ site.data.treasures.treasure_17.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_17.src }}"
-  href: /treasures/treasure-17
+  background: "{{ site.data.treasures.treasure_17.background }}"
+  href: /100-treasures/treasure-17
 - title: >
-   "{{ site.data.images.treasure_18.title }}"
+   "{{ site.data.treasures.treasure_18.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_18.src }}"
-  href: /treasures/treasure-18
+  background: "{{ site.data.treasures.treasure_18.background }}"
+  href: /100-treasures/treasure-18
 - title: >
-   "{{ site.data.images.treasure_19.title }}"
+   "{{ site.data.treasures.treasure_19.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_19.src }}"
-  href: /treasures/treasure-19
+  background: "{{ site.data.treasures.treasure_19.background }}"
+  href: /100-treasures/treasure-19
 - title: >
-   "{{ site.data.images.treasure_20.title }}"
+   "{{ site.data.treasures.treasure_20.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_20.src }}"
-  href: /treasures/treasure-20
+  background: "{{ site.data.treasures.treasure_20.background }}"
+  href: /100-treasures/treasure-20
 
 - title: >
-   "{{ site.data.images.treasure_21.title }}"
+   "{{ site.data.treasures.treasure_21.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_21.src }}"
-  href: /treasures/treasure-21
+  background: "{{ site.data.treasures.treasure_21.background }}"
+  href: /100-treasures/treasure-21
 
 - title: >
-   "{{ site.data.images.treasure_22.title }}"
+   "{{ site.data.treasures.treasure_22.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_22.src }}"
-  href: /treasures/treasure-22
+  background: "{{ site.data.treasures.treasure_22.background }}"
+  href: /100-treasures/treasure-22
 
 - title: >
-   "{{ site.data.images.treasure_23.title }}"
+   "{{ site.data.treasures.treasure_23.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_23.src }}"
-  href: /treasures/treasure-23
+  background: "{{ site.data.treasures.treasure_23.background }}"
+  href: /100-treasures/treasure-23
 
 - title: >
-   "{{ site.data.images.treasure_24.title }}"
+   "{{ site.data.treasures.treasure_24.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_24.src }}"
-  href: /treasures/treasure-24
+  background: "{{ site.data.treasures.treasure_24.background }}"
+  href: /100-treasures/treasure-24
 
 - title: >
-   "{{ site.data.images.treasure_25.title }}"
+   "{{ site.data.treasures.treasure_25.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_25.src }}"
-  href: /treasures/treasure-25
+  background: "{{ site.data.treasures.treasure_25.background }}"
+  href: /100-treasures/treasure-25
 
 - title: >
-   "{{ site.data.images.treasure_26.title }}"
+   "{{ site.data.treasures.treasure_26.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_26.src }}"
-  href: /treasures/treasure-26
+  background: "{{ site.data.treasures.treasure_26.background }}"
+  href: /100-treasures/treasure-26
 
 - title: >
-   "{{ site.data.images.treasure_27.title }}"
+   "{{ site.data.treasures.treasure_27.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_27.src }}"
-  href: /treasures/treasure-27
+  background: "{{ site.data.treasures.treasure_27.background }}"
+  href: /100-treasures/treasure-27
 
 - title: >
-   "{{ site.data.images.treasure_28.title }}"
+   "{{ site.data.treasures.treasure_28.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_28.src }}"
-  href: /treasures/treasure-28
+  background: "{{ site.data.treasures.treasure_28.background }}"
+  href: /100-treasures/treasure-28
 
 - title: >
-   "{{ site.data.images.treasure_30.title }}"
+   "{{ site.data.treasures.treasure_30.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_30.src }}"
-  href: /treasures/treasure-30
+  background: "{{ site.data.treasures.treasure_30.background }}"
+  href: /100-treasures/treasure-30
 
 - title: >
-   "{{ site.data.images.treasure_31.title }}"
+   "{{ site.data.treasures.treasure_31.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_31.src }}"
-  href: /treasures/treasure-31
+  background: "{{ site.data.treasures.treasure_31.background }}"
+  href: /100-treasures/treasure-31
 
 - title: >
-   "{{ site.data.images.treasure_32.title }}"
+   "{{ site.data.treasures.treasure_32.title }}"
   categories: ["Fossils"]
-  background: "{{ site.data.images.treasure_32.src }}"
-  href: /treasures/treasure-32
+  background: "{{ site.data.treasures.treasure_32.background }}"
+  href: /100-treasures/treasure-32
 
 - title: >
-   "{{ site.data.images.treasure_33.title }}"
+   "{{ site.data.treasures.treasure_33.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_33.src }}"
-  href: /treasures/treasure-33
+  background: "{{ site.data.treasures.treasure_33.background }}"
+  href: /100-treasures/treasure-33
 
 - title: >
-   "{{ site.data.images.treasure_34.title }}"
+   "{{ site.data.treasures.treasure_34.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_34.src }}"
-  href: /treasures/treasure-34
+  background: "{{ site.data.treasures.treasure_34.background }}"
+  href: /100-treasures/treasure-34
 
 - title: >
-   "{{ site.data.images.treasure_35.title }}"
+   "{{ site.data.treasures.treasure_35.title }}"
   categories: ["Fossils"]
-  background: "{{ site.data.images.treasure_35.src }}"
-  href: /treasures/treasure-35
+  background: "{{ site.data.treasures.treasure_35.background }}"
+  href: /100-treasures/treasure-35
 
 - title: >
-   "{{ site.data.images.treasure_36.title }}"
+   "{{ site.data.treasures.treasure_36.title }}"
   categories: ["Fossils"]
-  background: "{{ site.data.images.treasure_36.src }}"
-  href: /treasures/treasure-36
+  background: "{{ site.data.treasures.treasure_36.background }}"
+  href: /100-treasures/treasure-36
 
 - title: >
-   "{{ site.data.images.treasure_37.title }}"
+   "{{ site.data.treasures.treasure_37.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_37.src }}"
-  href: /treasures/treasure-37
+  background: "{{ site.data.treasures.treasure_37.background }}"
+  href: /100-treasures/treasure-37
 
 - title: >
-   "{{ site.data.images.treasure_38.title }}"
+   "{{ site.data.treasures.treasure_38.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_38.src }}"
-  href: /treasures/treasure-38
+  background: "{{ site.data.treasures.treasure_38.background }}"
+  href: /100-treasures/treasure-38
 
 - title: >
-   "{{ site.data.images.treasure_39.title }}"
+   "{{ site.data.treasures.treasure_39.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_39.src }}"
-  href: /treasures/treasure-39
+  background: "{{ site.data.treasures.treasure_39.background }}"
+  href: /100-treasures/treasure-39
 
 - title: >
-   "{{ site.data.images.treasure_40.title }}"
+   "{{ site.data.treasures.treasure_40.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_40.src }}"
-  href: /treasures/treasure-40
+  background: "{{ site.data.treasures.treasure_40.background }}"
+  href: /100-treasures/treasure-40
 
 - title: >
-   "{{ site.data.images.treasure_41.title }}"
+   "{{ site.data.treasures.treasure_41.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_41.src }}"
-  href: /treasures/treasure-41
+  background: "{{ site.data.treasures.treasure_41.background }}"
+  href: /100-treasures/treasure-41
 
 - title: >
-   "{{ site.data.images.treasure_42.title }}"
+   "{{ site.data.treasures.treasure_42.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_42.src }}"
-  href: /treasures/treasure-42
+  background: "{{ site.data.treasures.treasure_42.background }}"
+  href: /100-treasures/treasure-42
 
 - title: >
-   "{{ site.data.images.treasure_43.title }}"
+   "{{ site.data.treasures.treasure_43.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_43.src }}"
-  href: /treasures/treasure-43
+  background: "{{ site.data.treasures.treasure_43.background }}"
+  href: /100-treasures/treasure-43
 
 - title: >
-   "{{ site.data.images.treasure_44.title }}"
+   "{{ site.data.treasures.treasure_44.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_44.src }}"
-  href: /treasures/treasure-44
+  background: "{{ site.data.treasures.treasure_44.background }}"
+  href: /100-treasures/treasure-44
 
 - title: >
-   "{{ site.data.images.treasure_45.title }}"
+   "{{ site.data.treasures.treasure_45.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_45.src }}"
-  href: /treasures/treasure-45
+  background: "{{ site.data.treasures.treasure_45.background }}"
+  href: /100-treasures/treasure-45
 
 - title: >
-   "{{ site.data.images.treasure_46.title }}"
+   "{{ site.data.treasures.treasure_46.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_46.src }}"
-  href: /treasures/treasure-46
+  background: "{{ site.data.treasures.treasure_46.background }}"
+  href: /100-treasures/treasure-46
 
 - title: >
-   "{{ site.data.images.treasure_47.title }}"
+   "{{ site.data.treasures.treasure_47.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_47.src }}"
-  href: /treasures/treasure-47
+  background: "{{ site.data.treasures.treasure_47.background }}"
+  href: /100-treasures/treasure-47
 
 - title: >
-   "{{ site.data.images.treasure_48.title }}"
+   "{{ site.data.treasures.treasure_48.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_48.src }}"
-  href: /treasures/treasure-48
+  background: "{{ site.data.treasures.treasure_48.background }}"
+  href: /100-treasures/treasure-48
 
 - title: >
-   "{{ site.data.images.treasure_49.title }}"
+   "{{ site.data.treasures.treasure_49.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_49.src }}"
-  href: /treasures/treasure-49
+  background: "{{ site.data.treasures.treasure_49.background }}"
+  href: /100-treasures/treasure-49
 
 - title: >
-   "{{ site.data.images.treasure_50.title }}"
+   "{{ site.data.treasures.treasure_50.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_50.src }}"
-  href: /treasures/treasure-50
+  background: "{{ site.data.treasures.treasure_50.background }}"
+  href: /100-treasures/treasure-50
 
 - title: >
-   "{{ site.data.images.treasure_51.title }}"
+   "{{ site.data.treasures.treasure_51.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_51.src }}"
-  href: /treasures/treasure-51
+  background: "{{ site.data.treasures.treasure_51.background }}"
+  href: /100-treasures/treasure-51
 
 - title: >
-   "{{ site.data.images.treasure_52.title }}"
+   "{{ site.data.treasures.treasure_52.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_52.src }}"
-  href: /treasures/treasure-52
+  background: "{{ site.data.treasures.treasure_52.background }}"
+  href: /100-treasures/treasure-52
 
 - title: >
-   "{{ site.data.images.treasure_53.title }}"
+   "{{ site.data.treasures.treasure_53.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_53.src }}"
-  href: /treasures/treasure-53
+  background: "{{ site.data.treasures.treasure_53.background }}"
+  href: /100-treasures/treasure-53
 
 - title: >
-   "{{ site.data.images.treasure_54.title }}"
+   "{{ site.data.treasures.treasure_54.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_54.src }}"
-  href: /treasures/treasure-54
+  background: "{{ site.data.treasures.treasure_54.background }}"
+  href: /100-treasures/treasure-54
 
 - title: >
-   "{{ site.data.images.treasure_55.title }}"
+   "{{ site.data.treasures.treasure_55.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_55.src }}"
-  href: /treasures/treasure-55
+  background: "{{ site.data.treasures.treasure_55.background }}"
+  href: /100-treasures/treasure-55
 
 - title: >
-   "{{ site.data.images.treasure_56.title }}"
+   "{{ site.data.treasures.treasure_56.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_56.src }}"
-  href: /treasures/treasure-56
+  background: "{{ site.data.treasures.treasure_56.background }}"
+  href: /100-treasures/treasure-56
 
 - title: >
-   "{{ site.data.images.treasure_57.title }}"
+   "{{ site.data.treasures.treasure_57.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_57.src }}"
-  href: /treasures/treasure-57
+  background: "{{ site.data.treasures.treasure_57.background }}"
+  href: /100-treasures/treasure-57
 
 - title: >
-   "{{ site.data.images.treasure_58.title }}"
+   "{{ site.data.treasures.treasure_58.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_58.src }}"
-  href: /treasures/treasure-58
+  background: "{{ site.data.treasures.treasure_58.background }}"
+  href: /100-treasures/treasure-58
 
-- title: "{{ site.data.images.treasure_59.title }}"
+- title: "{{ site.data.treasures.treasure_59.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_59.src }}"
-  href: /treasures/treasure-59
+  background: "{{ site.data.treasures.treasure_59.background }}"
+  href: /100-treasures/treasure-59
 
 - title: >
-   "{{ site.data.images.treasure_60.title }}"
+   "{{ site.data.treasures.treasure_60.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_60.src }}"
-  href: /treasures/treasure-60
+  background: "{{ site.data.treasures.treasure_60.background }}"
+  href: /100-treasures/treasure-60
 
 - title: >
-   "{{ site.data.images.treasure_61.title }}"
+   "{{ site.data.treasures.treasure_61.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_61.src }}"
-  href: /treasures/treasure-61
+  background: "{{ site.data.treasures.treasure_61.background }}"
+  href: /100-treasures/treasure-61
 
 - title: >
-   "{{ site.data.images.treasure_62.title }}"
+   "{{ site.data.treasures.treasure_62.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_62.src }}"
-  href: /treasures/treasure-62
+  background: "{{ site.data.treasures.treasure_62.background }}"
+  href: /100-treasures/treasure-62
 
 - title: >
-   "{{ site.data.images.treasure_63.title }}"
+   "{{ site.data.treasures.treasure_63.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_63.src }}"
-  href: /treasures/treasure-63
+  background: "{{ site.data.treasures.treasure_63.background }}"
+  href: /100-treasures/treasure-63
 
 - title: >
-   "{{ site.data.images.treasure_64.title }}"
+   "{{ site.data.treasures.treasure_64.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_64.src }}"
-  href: /treasures/treasure-64
+  background: "{{ site.data.treasures.treasure_64.background }}"
+  href: /100-treasures/treasure-64
 
 - title: >
-   "{{ site.data.images.treasure_65.title }}"
+   "{{ site.data.treasures.treasure_65.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_65.src }}"
-  href: /treasures/treasure-65
+  background: "{{ site.data.treasures.treasure_65.background }}"
+  href: /100-treasures/treasure-65
 
 - title: >
-   "{{ site.data.images.treasure_66.title }}"
+   "{{ site.data.treasures.treasure_66.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_66.src }}"
-  href: /treasures/treasure-66
+  background: "{{ site.data.treasures.treasure_66.background }}"
+  href: /100-treasures/treasure-66
 
 - title: >
-   "{{ site.data.images.treasure_67.title }}"
+   "{{ site.data.treasures.treasure_67.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_67.src }}"
-  href: /treasures/treasure-67
+  background: "{{ site.data.treasures.treasure_67.background }}"
+  href: /100-treasures/treasure-67
 
 - title: >
-   "{{ site.data.images.treasure_68.title }}"
+   "{{ site.data.treasures.treasure_68.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_68.src }}"
-  href: /treasures/treasure-68
+  background: "{{ site.data.treasures.treasure_68.background }}"
+  href: /100-treasures/treasure-68
 
 - title: >
-   "{{ site.data.images.treasure_69.title }}"
+   "{{ site.data.treasures.treasure_69.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_69.src }}"
-  href: /treasures/treasure-69
+  background: "{{ site.data.treasures.treasure_69.background }}"
+  href: /100-treasures/treasure-69
 
 - title: >
-   "{{ site.data.images.treasure_70.title }}"
+   "{{ site.data.treasures.treasure_70.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_70.src }}"
-  href: /treasures/treasure-70
+  background: "{{ site.data.treasures.treasure_70.background }}"
+  href: /100-treasures/treasure-70
 
 - title: >
-   "{{ site.data.images.treasure_71.title }}"
+   "{{ site.data.treasures.treasure_71.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_71.src }}"
-  href: /treasures/treasure-71
+  background: "{{ site.data.treasures.treasure_71.background }}"
+  href: /100-treasures/treasure-71
 
 - title: >
-   "{{ site.data.images.treasure_72.title }}"
+   "{{ site.data.treasures.treasure_72.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_72.src }}"
-  href: /treasures/treasure-72
+  background: "{{ site.data.treasures.treasure_72.background }}"
+  href: /100-treasures/treasure-72
 
 - title: >
-   "{{ site.data.images.treasure_73.title }}"
+   "{{ site.data.treasures.treasure_73.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_73.src }}"
-  href: /treasures/treasure-73
+  background: "{{ site.data.treasures.treasure_73.background }}"
+  href: /100-treasures/treasure-73
 
 - title: >
-   "{{ site.data.images.treasure_74.title }}"
+   "{{ site.data.treasures.treasure_74.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_74.src }}"
-  href: /treasures/treasure-74
+  background: "{{ site.data.treasures.treasure_74.background }}"
+  href: /100-treasures/treasure-74
 
 - title: >
-   "{{ site.data.images.treasure_75.title }}"
+   "{{ site.data.treasures.treasure_75.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_75.src }}"
-  href: /treasures/treasure-75
+  background: "{{ site.data.treasures.treasure_75.background }}"
+  href: /100-treasures/treasure-75
 
 - title: >
-   "{{ site.data.images.treasure_76.title }}"
+   "{{ site.data.treasures.treasure_76.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_76.src }}"
-  href: /treasures/treasure-76
+  background: "{{ site.data.treasures.treasure_76.background }}"
+  href: /100-treasures/treasure-76
 
 - title: >
-   "{{ site.data.images.treasure_77.title }}"
+   "{{ site.data.treasures.treasure_77.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_77.src }}"
-  href: /treasures/treasure-77
+  background: "{{ site.data.treasures.treasure_77.background }}"
+  href: /100-treasures/treasure-77
 
 - title: >
-   "{{ site.data.images.treasure_78.title }}"
+   "{{ site.data.treasures.treasure_78.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_78.src }}"
-  href: /treasures/treasure-78
+  background: "{{ site.data.treasures.treasure_78.background }}"
+  href: /100-treasures/treasure-78
 
 - title: >
-   "{{ site.data.images.treasure_79.title }}"
+   "{{ site.data.treasures.treasure_79.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_79.src }}"
-  href: /treasures/treasure-79
+  background: "{{ site.data.treasures.treasure_79.background }}"
+  href: /100-treasures/treasure-79
 
 - title: >
-   "{{ site.data.images.treasure_80.title }}"
+   "{{ site.data.treasures.treasure_80.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_80.src }}"
-  href: /treasures/treasure-80
+  background: "{{ site.data.treasures.treasure_80.background }}"
+  href: /100-treasures/treasure-80
 
 - title: >
-   "{{ site.data.images.treasure_81.title }}"
+   "{{ site.data.treasures.treasure_81.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_81.src }}"
-  href: /treasures/treasure-81
+  background: "{{ site.data.treasures.treasure_81.background }}"
+  href: /100-treasures/treasure-81
 
 - title: >
-   "{{ site.data.images.treasure_82.title }}"
+   "{{ site.data.treasures.treasure_82.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_82.src }}"
-  href: /treasures/treasure-82
+  background: "{{ site.data.treasures.treasure_82.background }}"
+  href: /100-treasures/treasure-82
 
 - title: >
-   "{{ site.data.images.treasure_83.title }}"
+   "{{ site.data.treasures.treasure_83.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_83.src }}"
-  href: /treasures/treasure-83
+  background: "{{ site.data.treasures.treasure_83.background }}"
+  href: /100-treasures/treasure-83
 
 - title: >
-   "{{ site.data.images.treasure_84.title }}"
+   "{{ site.data.treasures.treasure_84.title }}"
   categories: ["Herbarium"]
-  background: "{{ site.data.images.treasure_84.src }}"
-  href: /treasures/treasure-84
+  background: "{{ site.data.treasures.treasure_84.background }}"
+  href: /100-treasures/treasure-84
 
 - title: >
-   "{{ site.data.images.treasure_85.title }}"
+   "{{ site.data.treasures.treasure_85.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_85.src }}"
-  href: /treasures/treasure-85
+  background: "{{ site.data.treasures.treasure_85.background }}"
+  href: /100-treasures/treasure-85
 
 - title: >
-   "{{ site.data.images.treasure_86.title }}"
+   "{{ site.data.treasures.treasure_86.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_86.src }}"
-  href: /treasures/treasure-86
+  background: "{{ site.data.treasures.treasure_86.background }}"
+  href: /100-treasures/treasure-86
 
 - title: >
-   "{{ site.data.images.treasure_87.title }}"
+   "{{ site.data.treasures.treasure_87.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_87.src }}"
-  href: /treasures/treasure-87
+  background: "{{ site.data.treasures.treasure_87.background }}"
+  href: /100-treasures/treasure-87
 
 - title: >
-   "{{ site.data.images.treasure_88.title }}"
+   "{{ site.data.treasures.treasure_88.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_88.src }}"
-  href: /treasures/treasure-88
+  background: "{{ site.data.treasures.treasure_88.background }}"
+  href: /100-treasures/treasure-88
 
 - title: >
-   "{{ site.data.images.treasure_89.title }}"
+   "{{ site.data.treasures.treasure_89.title }}"
   categories: ["Fossil"]
-  background: "{{ site.data.images.treasure_89.src }}"
-  href: /treasures/treasure-89
+  background: "{{ site.data.treasures.treasure_89.background }}"
+  href: /100-treasures/treasure-89
 
 - title: >
-   "{{ site.data.images.treasure_90.title }}"
+   "{{ site.data.treasures.treasure_90.title }}"
   categories: ["Entomology"]
-  background: "{{ site.data.images.treasure_90.src }}"
-  href: /treasures/treasure-90
+  background: "{{ site.data.treasures.treasure_90.background }}"
+  href: /100-treasures/treasure-90
 
 - title: >
-   "{{ site.data.images.treasure_91.title }}"
+   "{{ site.data.treasures.treasure_91.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_91.src }}"
-  href: /treasures/treasure-91
+  background: "{{ site.data.treasures.treasure_91.background }}"
+  href: /100-treasures/treasure-91
 
 - title: >
-   "{{ site.data.images.treasure_92.title }}"
+   "{{ site.data.treasures.treasure_92.title }}"
   categories: ["Fishes", "Fossil"]
-  background: "{{ site.data.images.treasure_92.src }}"
-  href: /treasures/treasure-92
+  background: "{{ site.data.treasures.treasure_92.background }}"
+  href: /100-treasures/treasure-92
 
 - title: >
-   "{{ site.data.images.treasure_93.title }}"
+   "{{ site.data.treasures.treasure_93.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_93.src }}"
-  href: /treasures/treasure-93
+  background: "{{ site.data.treasures.treasure_93.background }}"
+  href: /100-treasures/treasure-93
 
 - title: >
-   "{{ site.data.images.treasure_94.title }}"
+   "{{ site.data.treasures.treasure_94.title }}"
   categories: ["Marine Invertebrates"]
-  background: "{{ site.data.images.treasure_94.src }}"
-  href: /treasures/treasure-94
+  background: "{{ site.data.treasures.treasure_94.background }}"
+  href: /100-treasures/treasure-94
 
 - title: >
-   "{{ site.data.images.treasure_95.title }}"
+   "{{ site.data.treasures.treasure_95.title }}"
   categories: ["Tetrapods"]
-  background: "{{ site.data.images.treasure_95.src }}"
-  href: /treasures/treasure-95
+  background: "{{ site.data.treasures.treasure_95.background }}"
+  href: /100-treasures/treasure-95
 
 - title: >
-   "{{ site.data.images.treasure_96.title }}"
+   "{{ site.data.treasures.treasure_96.title }}"
   categories: ["Fishes"]
-  background: "{{ site.data.images.treasure_96.src }}"
-  href: /treasures/treasure-96
+  background: "{{ site.data.treasures.treasure_96.background }}"
+  href: /100-treasures/treasure-96
 
 
 
