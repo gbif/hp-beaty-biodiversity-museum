@@ -1,12 +1,12 @@
 ---
-title: "{{ site.data.images.treasure_42.title }}"
+title: "{{ site.data.treasures.treasure_42.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: "{{ site.data.images.treasure_42.background }}"
+background: "{{ site.data.treasures.treasure_42.background }}"
 imageLicense: |
-  "{{ site.data.images.treasure_42.caption }}"
+  "{{ site.data.treasures.treasure_42.caption }}"
 composition:
   - type: postHeader
   - type: pageMarkdown
 ---
 
-{{ site.data.images.treasure_42.description }}
+{{ site.data.treasures.treasure_42.description }}
