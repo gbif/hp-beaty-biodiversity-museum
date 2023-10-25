@@ -1,9 +1,7 @@
 ---
-title: >
- "{{ site.data.images.treasure_54.title }}"
+title: "{{ site.data.images.treasure_54.title }}"
 # description: Species occurrence data for the United States and U.S. Territories.
-background: "{{ site.data.images.treasure_54.src }}"
-categories: ["Fossil"]
+background: "{{ site.data.images.treasure_54.background }}"
 imageLicense: |
   "{{ site.data.images.treasure_54.caption }}"
 composition:
@@ -11,8 +9,4 @@ composition:
   - type: pageMarkdown
 ---
 
-“Sea scorpion beast
-Ancient king of the ocean
-Lives on at Beaty”
-
-Emily Ooi, Educational Programs Coordinator at Richmond Museum.
+{{ site.data.images.treasure_54.description }}

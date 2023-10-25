@@ -91,6 +91,13 @@ exclude:
   - .netlify.toml
   - .README.md
 
+collections_dir: pages
+
+collections:
+  treasures:
+    output: true
+    permalink: /100-treasures/:name
+
 defaults:
   -
     scope:
