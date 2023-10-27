@@ -74,7 +74,7 @@ var siteConfig = {
     mapbox: "GET_YOUR_OWN__TOKEN"
   },
   maps: {
-    locale: 'en', // we want to show the maps in japanese
+    locale: 'en',
     defaultProjection: 'MERCATOR',
     defaultMapStyle: 'BRIGHT',
     mapStyles: {
