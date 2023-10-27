@@ -6,44 +6,23 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 });
 
 var siteConfig = {
+  version: 2,
   routes: {
-    collectionKey: {
-      route: '/collection/:key',
-      isHref: true,
-      url: ({ key }) => {
-        return `/collection/${key}`;
-      }
-    },
-    collectionSpecimens: {
-      route: '/collection/:key/specimens',
-      url: ({ key }) => `/collection/${key}/specimens`
-    },
-    occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      route: '/specimen/search'
+    enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'datasetSearch', 'datasetKey'], // what widgets do you include on your site. If not included we will link to gbif.org (for showing individual datasets for example)
+    occurrenceSearch: { // you can overwrite individual routes. 
+      route: '/specimen/search' // in this case we want the occurrence search to be available on a url that says specimens instead
     }
   },
-  collection: {
-    availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
-    rootFilter: {
-      institution: 'c7d5c4da-9590-49c2-b87c-f0e7932611a6'
-    }
-  },
+  availableCatalogues: ['COLLECTION', 'DATASET', 'OCCURRENCE'],
   occurrence: {
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'datasetKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    availableTableColumns: ['dataset', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
-    availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
+    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
+    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
     mapSettings: {
       lat: 0,
       lng: 0,
       zoom: 0
     },
-    // You probably need help to configure the scope - so just ask
-    // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
-    // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
-    // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: {
       "type": "in",
       "key": "datasetKey",
@@ -59,26 +38,53 @@ var siteConfig = {
         'df9c8b86-9d36-4e29-91b3-4274dff053e5'
       ]
     },
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
-    // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
   },
-  availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
+  collection: {
+    availableCatalogues: ['COLLECTION', 'OCCURRENCE', 'DATASET'],
+    rootFilter: {
+      institution: 'c7d5c4da-9590-49c2-b87c-f0e7932611a6'
+    }
+  },
+  dataset: {
+    rootFilter: {publishingOrg: 'b542788f-0dc2-4a2b-b652-fceced449591'},
+    highlightedFilters: ['q']
+  },
+  literature: {
+    rootFilter: {
+      predicate: {
+        type: 'or', predicates: [
+          {
+            type: 'in',
+            key: 'countriesOfResearcher',
+            values: ['US', 'UM', 'AS', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI']
+          },
+          {
+            type: 'in',
+            key: 'countriesOfCoverage',
+            values: ['US', 'UM', 'AS', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI']
+          }
+        ]
+      }
+    },
+    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
+  },
   apiKeys: {
-    // maptiler: "INSERT_HERE",
-    // mapbox: "INSERT_HERE"
+    maptiler: "GET_YOUR_OWN_TOKEN", // https://github.com/gbif/hosted-portals/issues/229
+    mapbox: "GET_YOUR_OWN__TOKEN"
   },
   maps: {
-    // locale: 'ja',
+    locale: 'en',
     defaultProjection: 'MERCATOR',
     defaultMapStyle: 'BRIGHT',
     mapStyles: {
       ARCTIC: ['NATURAL', 'BRIGHT'],
       PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
-      MERCATOR: ['NATURAL', 'BRIGHT', 'DARK'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
       ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
     }
   },
-  messages: {
+  messages: { // custom overwrites for the translations, e.g. label the occurrence catalog as a specimen catalog to match our data scope of specimens.
     "catalogues.occurrences": "Specimens"
   }
 };
