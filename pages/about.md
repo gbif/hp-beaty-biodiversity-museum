@@ -53,7 +53,7 @@ The [collections listed on this site](/collection/search) match the collections 
  
 ![collection-icons](/assets/images/about-collections-icons.png)
 
-All collections are managed in the Global Registry of Scientific Collections (or GRSciColl for short). Here they are kept in sync with various resources and identifiers, such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) and the [Global Biodiversity Information Facility (GBIF)](https://gbif.org). All of the identifiers for a collection can be found at the bottom of its respective page, under the heading "Identifiers".
+All collections are managed in the [Global Registry of Scientific Collections](https://scientific-collections.gbif.org/) (or GRSciColl for short). Here they are kept in sync with various resources and identifiers, such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) and the [Global Biodiversity Information Facility (GBIF)](https://gbif.org). All of the identifiers for a collection can be found at the bottom of its respective page, under the heading "Identifiers".
 
 **Collection pages on this site can be used to:**
 - View statistics on the entire collection
