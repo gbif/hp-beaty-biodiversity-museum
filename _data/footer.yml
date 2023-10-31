@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: |
-      [<img src="assets/images/beaty-logo-horizontal.png"/>](https://beatymuseum.ubc.ca)
+      [<img src="/assets/images/beaty-logo-horizontal.png"/>](https://beatymuseum.ubc.ca)
   - name: Contact
     description: | # Can be Markdown
       * 2212 Main Mall
