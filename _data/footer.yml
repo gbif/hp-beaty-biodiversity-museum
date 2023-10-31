@@ -3,11 +3,15 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Beaty Biodiversity Museum • staging site
-  
-    
-
-      
+  - description: |
+      [<img src="assets/images/beaty-logo-horizontal.png"/>](https://beatymuseum.ubc.ca)
+  - name: Contact
+    description: | # Can be Markdown
+      * 2212 Main Mall
+      * Vancouver, Canada, V6T 1Z4
+      * [Main website](https://www.beatymuseum.ubc.ca/)  
+      * [Email us](mailto:info@beatymuseum.ubc.ca)   
+    connectIcons: false  
 # EXAMPLE
 #- name: Group name
 #  description: |
