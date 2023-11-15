@@ -11,7 +11,11 @@ columns:
       * Vancouver, Canada, V6T 1Z4
       * [Main website](https://www.beatymuseum.ubc.ca/)  
       * [Email us](mailto:info@beatymuseum.ubc.ca)   
-    connectIcons: false  
+    connectIcons: false
+  - name: Code
+    description: |
+      * The code for this site is open source under an Apache-2.0 license
+      * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)   
 # EXAMPLE
 #- name: Group name
 #  description: |
