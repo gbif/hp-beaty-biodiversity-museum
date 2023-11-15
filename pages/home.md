@@ -27,7 +27,7 @@ composition:
   - type: features
     data: home.collectionsPreview
   - type: split
-    data: home.polarBear
+    data: home.herbariumCard
   - type: features
     data: home.specimens
 ---

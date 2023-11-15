@@ -21,7 +21,7 @@ collectionsPreview:
     href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
 
 
-polarBear:
+herbariumCard:
   reverse: false
   title: The Herbarium
   description: |      # required
@@ -31,8 +31,8 @@ polarBear:
   imageLicense: |
     [*Masonhalea richardsonii*, 2001](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected by Curtis Bjork, Lichenologist and Botanist at UBC
   cta:
-  - text: See all specimens
-    href: /under_development
+  - text: Go to collection
+    href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
 
 
 specimens:
