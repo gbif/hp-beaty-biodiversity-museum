@@ -54,7 +54,7 @@ stats:
   title: Our Data
   features:
       # Hard coded value
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=b542788f-0dc2-4a2b-b652-fceced449591&country=CA">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&country=CA">100,000</span>
       description: Canadian Specimens
       href: /specimen/search?country=CA
       blankTarget: true
@@ -62,7 +62,7 @@ stats:
       description: Total Citations
       href: /about
       blankTarget: true
-    - title: 37000
-      description: High Quality Images
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&mediaType=stillImage">100,000</span>
+      description: Records with Images
       href: /about
       blankTarget: true
