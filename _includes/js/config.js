@@ -8,7 +8,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 var siteConfig = {
   version: 2,
   routes: {
-    enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'datasetSearch', 'datasetKey'], 
+    enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'datasetSearch', 'datasetKey', 'institutionKey', 'institutionSearch'], 
     alwaysUseHrefs: true,
     occurrenceSearch: { // you can overwrite individual routes. 
       route: '/specimen/search' // in this case we want the occurrence search to be available on a url that says specimens instead
