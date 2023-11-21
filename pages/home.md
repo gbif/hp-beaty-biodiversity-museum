@@ -13,7 +13,7 @@ cta:
     href: /specimen/search
     isPrimary: true
   - text: Collections
-    href: /collection/search
+    href: /collections
 permalink: /
 klass: home
 navbar:
