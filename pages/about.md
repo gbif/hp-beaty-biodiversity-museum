@@ -76,7 +76,7 @@ Downloading a dataset can be done from the `Download` tab on the dataset page. T
 
 # The GBIF Hosted Portal Program
 
-This website exists as a [GBIF hosted portal](https://www.gbif.org/hosted-portals). All of the data on this site is pulled from GBIF records via an API. This means that any record found here can also be found on [gbif.org](https://www.gbif.org) or any other GBIF hosted portal that has our records included in its scope. The Beaty Museum makes considerable effort to keep our GBIF data as up to date as possible, and new records are pushed out on a monthly basis.
+This website exists as a [GBIF hosted portal](https://www.gbif.org/hosted-portals). All of the data on this site is pulled from GBIF records via an API. This means that any record found here can also be found on [gbif.org](https://www.gbif.org) or any other GBIF hosted portal that has our records included in its scope.
 
 # Licenses
 All records hosted on this portal should have a license field attached to them, and in this case that license will apply. Most records are published under the [CC0 1.0 license](https://wiki.creativecommons.org/wiki/CC0_1.0_Universal). For specific licenses inquiries, please contact the staff listed on the dataset page.
