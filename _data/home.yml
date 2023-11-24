@@ -1,55 +1,3 @@
-collectionsPreview:
-  title: Featured collections
-  description: |
-    Among our two million treasured specimens are the third-largest fish collection in Canada and a myriad of fossils, shells, insects, fungi, mammals, birds, reptiles, amphibians, and plants from around BC and across the world. 
-  cta:
-  - text: View all collections
-    href: /collections
-    isPrimary: true
-  features: 
-  - title: Spencer Entomology Collection
-    description: Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon's spectacular insect diversity. Past collectors' particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
-    background: assets/images/sec-card-image.jpg
-    href: /collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
-  - title: Cowan Tetrapod Collection
-    description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
-    background: assets/images/ctc-card-image.jpg
-    href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
-  - title: Fish
-    description: The fish collection holds over 800,000 specimens and over 50,000 DNA and tissue samples, making it the third largest fish collection in Canada. The collection holds 11 holotype specimens, original specimens that were used to describe new species. It also contains representatives of what may be the youngest fish species on Earth, pairs of stickleback species that evolved only recently in British Columbia's lakes.
-    background: assets/images/fish-card-image.jpg
-    href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
-
-
-herbariumCard:
-  reverse: false
-  title: The Herbarium
-  description: |      # required
-    The University of British Columbia Herbarium is the largest in western Canada and is home to over half a million plant specimens from around the world. This collection is critical to the identification, monitoring, and conservation of plant biodiversity in British Columbia, and is an important resource for scientific research and education.
-  # img required
-  background: assets/images/herbarium-card-image.jpg
-  imageLicense: |
-    [*Masonhalea richardsonii*, 2001](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=3311896307) Collected by Curtis Bjork, Lichenologist and Botanist at UBC
-  cta:
-  - text: Go to collection
-    href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
-
-
-specimens:
-  title: Selected specimens
-  klass: specimens
-  description: |
-    Take a peek
-  features: 
-  - title: Green peafowl <em>Pavo muticus</em>
-    description: 
-    background: assets/images/feature-specimen-1.jpg
-  - title: Giant Pacific octopus <em>Enteroctopus doleini</em>
-    description: 
-    background: assets/images/feature-specimen-2.jpg
-  - title: Saskatoon serviceberry <em>Amelanchier alnifolia</em>
-    description: 
-    background: assets/images/feature-specimen-3.jpg
 stats:
   title: Our Data
   features:
@@ -66,3 +14,25 @@ stats:
       description: Records with Images
       href: /about
       blankTarget: true
+
+collectionsPreview:
+  title: Collections
+  description: |
+    Among our two million treasured specimens are the third-largest fish collection in Canada and a myriad of fossils, shells, insects, fungi, mammals, birds, reptiles, amphibians, and plants from around BC and across the world. If you would like to go to a particular dataset (such as Birds, Lichen, or Mammals) click on the red button below instead.
+  cta:
+  - text: View Individual Datasets
+    href: /datasets
+    isPrimary: true
+  features: 
+  - title: Spencer Entomology Collection
+    description: Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon's spectacular insect diversity. Past collectors' particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+    background: assets/images/sec-card-image.jpg
+    href: /collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
+  - title: Cowan Tetrapod Collection
+    description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
+    background: assets/images/ctc-card-image.jpg
+    href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
+  - title: UBC Herbarium
+    description: The University of British Columbia Herbarium is the largest in western Canada and is home to over half a million plant specimens from around the world. This collection is critical to the identification, monitoring, and conservation of plant biodiversity in British Columbia, and is an important resource for scientific research and education.
+    background: assets/images/herbarium-card-image.jpg
+    href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
