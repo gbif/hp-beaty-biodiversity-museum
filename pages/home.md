@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 description: |
-  The Beaty Biodiversity Museum is Vancouver's natural history museum. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&limit=0">1,883</span> objects across <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?institution=c7d5c4da-9590-49c2-b87c-f0e7932611a6">6</span> collections are currently available online, showcasing biodiversity from around the world.
+  The Beaty Biodiversity Museum is Vancouver's natural history museum. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&limit=0">1,883</span> objects across 3 collections are currently available online, showcasing biodiversity from around the world.
 background: /assets/images/hero-image.jpg
 imageLicense: |
   [*No Title* David Gilbar, 2010](https://beaty-biodiversity-museum.hp.gbif-staging.org/specimen/search?entity=2571118608) All Rights Reserved, Beaty Biodiversity Museum
