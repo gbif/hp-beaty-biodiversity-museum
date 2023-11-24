@@ -40,14 +40,14 @@ features:
   - preTitle: Herbarium  # optional
     title: Fungi # required
     description: |      # required
-      This dataset includes all digitized fungi in the UBC collection, encompassing approximately 95% of the collection. 
+      This dataset includes all digitized fungi in the UBC collection, encompassing approximately 95% of the collection. Fungi are organisms with nuclei-containing cells that get their nutrients by breaking down organic material. Lichens are symbiotic associations between certain types of fungi and algae. The fungi are the structure ‘house’ and the algae make the food ‘chief’ by photosynthesizing.
     # img required
     background: /assets/images/fungi-card-image.jpg
     href: /dataset/ca1bcd7e-7387-42f9-81ba-1470db55e3e8
   - preTitle: Herbarium  # optional
     title: Lichen # required
     description: |      # required
-      With 40,000 lichen specimens catalogued to date, the UBC Herbarium houses one of the largest lichen collections in western North America.We have a very solid macrolichen collection, with a strong focus on cyanolichens, especially the genus Peltigera. For this genus, at least, this is certainly the largest collection in North America. 
+      With 40,000 lichen specimens catalogued to date, the UBC Herbarium houses one of the largest lichen collections in western North America. We have a very solid macrolichen collection, with a strong focus on cyanolichens, especially the genus Peltigera. For this genus, at least, this is certainly the largest collection in North America. 
     # img required
     background: /assets/images/lichen-card-image.jpg
     href: /dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649
