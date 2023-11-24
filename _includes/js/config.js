@@ -14,7 +14,7 @@ var siteConfig = {
       route: '/specimen/search' // in this case we want the occurrence search to be available on a url that says specimens instead
     }
   },
-  availableCatalogues: ['COLLECTION', 'DATASET', 'OCCURRENCE'],
+  availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
   occurrence: {
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
     highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
@@ -42,7 +42,7 @@ var siteConfig = {
     occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
   },
   collection: {
-    availableCatalogues: ['COLLECTION', 'OCCURRENCE', 'DATASET'],
+    availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
     rootFilter: {
       institution: 'c7d5c4da-9590-49c2-b87c-f0e7932611a6'
     }
