@@ -16,9 +16,9 @@ var siteConfig = {
   },
   availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
   occurrence: {
-    excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
+    excludedFilters: ['collection', 'occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
+    highlightedFilters: ['q', 'catalogNumber', 'datasetKey', 'taxonKey', 'occurrenceId', 'recordedBy', 'identifiedBy'],
+    defaultTableColumns: ['features', 'catalogNumber', 'datasetKey','locality', 'country', 'year', 'recordedBy', 'identifiedBy'],
     mapSettings: {
       lat: 0,
       lng: 0,
@@ -39,7 +39,7 @@ var siteConfig = {
         'df9c8b86-9d36-4e29-91b3-4274dff053e5'
       ]
     },
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'] // what tabs should be shown
   },
   collection: {
     availableCatalogues: ['COLLECTION', 'OCCURRENCE'],
