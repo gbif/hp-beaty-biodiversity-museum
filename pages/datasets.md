@@ -1,6 +1,8 @@
 ---
 title: Datasets
-description: We publish open data
-permalink: /dataset/search
-layout: dataset
+layout: post
+permalink: /datasets
+composition:
+  - type: features
+    data: datasets
 ---
