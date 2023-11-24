@@ -23,6 +23,13 @@ features:
     # img required
     background: /assets/images/herpetology-card-image.jpg
     href: /dataset/df9c8b86-9d36-4e29-91b3-4274dff053e5
+  - preTitle: Spencer Entomology Collection  # optional
+    title: Entomology # required
+    description: |      # required
+      Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon’s spectacular insect diversity. Past collectors’ particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+    # img required
+    background: /assets/images/sec-card-image.jpg
+    href: /dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8
   - preTitle: Herbarium  # optional
     title: Algae # required
     description: |      # required
