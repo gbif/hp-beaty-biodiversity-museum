@@ -6,7 +6,7 @@ stats:
       description: Canadian Specimens
       href: /specimen/search?country=CA
       blankTarget: true
-    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=b542788f-0dc2-4a2b-b652-fceced449591">100,000</span>
+    - title: 1228
       description: Total Citations
       href: /about
       blankTarget: true
