@@ -26,8 +26,6 @@ composition:
     type: stats
   - type: features
     data: home.collectionsPreview
-  - type: split
-    data: home.herbariumCard
   - type: features
     data: home.specimens
 ---
