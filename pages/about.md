@@ -45,7 +45,7 @@ The top level is the museum, which exists as an institution. The second level in
 
 ## Collections
 
-The [collections listed on this site](/collection/search) match the collections present in the museum. These collections have historical context for the museum and were started by specific curatorial staff. Collections vary widely in size and scope, and as such have varying staffing levels and total record counts. The Beaty museum has six collections in total, they are:
+The [collections listed on this site](/collections) match the collections present in the museum. These collections have historical context for the museum and were started by specific curatorial staff. Collections vary widely in size and scope, and as such have varying staffing levels and total record counts. The Beaty museum has six collections in total, they are:
 
 - The Spencer Entomology Collection
 - The Fish Collection
