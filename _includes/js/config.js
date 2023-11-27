@@ -7,6 +7,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   version: 2,
+  disableInlineTableFilterButtons: true,
   routes: {
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'datasetSearch', 'datasetKey', 'institutionKey', 'institutionSearch'], 
     alwaysUseHrefs: true,
