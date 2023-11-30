@@ -15,7 +15,12 @@ columns:
   - name: Code
     description: |
       * The code for this site is open source under an Apache-2.0 license
-      * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)   
+      * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)
+  - name: Content license
+    description: | 
+      <img src="/assets/icons/cc.png" width="24"/>
+      <img src="/assets/icons/by.png" width="24"/>
+      <img src="/assets/icons/sa.png" width="24"/>
 # EXAMPLE
 #- name: Group name
 #  description: |
