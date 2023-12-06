@@ -2,12 +2,12 @@ stats:
   title: Our Data
   features:
       # Hard coded value
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&country=CA">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&country=CA">400,000</span>
       description: Canadian Specimens
       href: /specimen/search?country=CA
       blankTarget: true
       background: assets/icons/canadian-maple-leaf.svg
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&hasCoordinate=true&hasGeospatialIssue=false">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&hasCoordinate=true&hasGeospatialIssue=false">400,000</span>
       description: Georeferenced Records
       blankTarget: true
       href: /specimen/search?hasCoordinate=true&hasGeospatialIssue=false
@@ -17,7 +17,7 @@ stats:
       href: /about
       blankTarget: true
       background: assets/icons/citations-icon.svg
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&mediaType=stillImage">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&mediaType=stillImage">37,000</span>
       description: Records with Images
       href: /specimen/search?mediaType=StillImage&view=GALLERY
       background: assets/icons/image-icon.svg
