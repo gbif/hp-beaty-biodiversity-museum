@@ -7,10 +7,10 @@ stats:
       href: /specimen/search?country=CA
       blankTarget: true
       background: assets/icons/canadian-maple-leaf.svg
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&hasCoordinate=true&hasGeospatialIssue=false">400,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&hasCoordinate=true">600,000</span>
       description: Georeferenced Records
       blankTarget: true
-      href: /specimen/search?hasCoordinate=true&hasGeospatialIssue=false
+      href: /specimen/search?view=MAP
       background: assets/icons/georeferenced-icon.svg
     - title: 1228
       description: Total Citations
