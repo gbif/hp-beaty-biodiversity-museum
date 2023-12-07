@@ -16,6 +16,7 @@ columns:
     description: |
       * The code for this site is open source under an Apache-2.0 license
       * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)
+      * [Release Notes](https://github.com/gbif/hp-beaty-biodiversity-museum/releases)
   - name: Content license
     description: | 
       <img src="/assets/icons/cc.png" width="24"/>
