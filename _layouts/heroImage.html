@@ -1,9 +1,0 @@
----
-layout: base
-composition:
-  - type: heroImage
-  - type: pageMarkdown
----
-
-{% assign composition = page.composition | default: layout.composition %}
-{% include composition.html composition=composition %}

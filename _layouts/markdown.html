@@ -1,8 +1,0 @@
-{% assign markdownContent = include.markdownContent | default: include.content.markdownContent %}
-{% assign parsedContent = markdownContent | liquify | markdownify %}
-
-<section>
-  <div class="article">
-    {% include blocks/parts/prose.html content=parsedContent %}
-  </div>
-</section>
