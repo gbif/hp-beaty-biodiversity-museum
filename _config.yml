@@ -54,7 +54,7 @@ algae:
   logoAndTitle: false              # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
-    # square: false               # Should corners be square or rounded
+    square: true               # Should corners be square or rounded
     colors:
       primary: "#ED1C24"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#ED1C24"            # What color should links have. Use a HEX code. DEfault is primary color. 
