@@ -33,7 +33,7 @@ collectionsPreview:
     Among our two million treasured specimens are the third-largest fish collection in Canada and a myriad of fossils, shells, insects, fungi, mammals, birds, reptiles, amphibians, and plants from around BC and across the world. If you would like to go to a particular dataset (such as Birds, Lichen, or Mammals) click on the red button below instead.
   cta:
   - text: View Individual Datasets
-    aria: "Got to datasets page"
+    aria: "Go to datasets page"
     href: /datasets
     isPrimary: true
   features: 
