@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,7 +23,7 @@ email: info@beatymuseum.ubc.ca
 description: >- # this means to ignore newlines (until baseurl:)
   The gbif hosted portal for the Beaty Biodiversity Museum
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://beaty-biodiversity-museum.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://collections.beatymuseum.ubc.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
@@ -40,29 +40,27 @@ privacy:
   contactEmail: info@gbif.org
   helpdeskEmail: info@gbif.org
 
-# The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
-siteMeasurements:
-  enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
-  # GA_ID: "UA-xxxxxxx-x" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
-  # termsVersion: "2022-02-16" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+plausible:
+  enabled: true
+  dataDomain: "collections.beatymuseum.ubc.ca"
 
 algae:
-  hideHelper: true                # set to false or delete line  to show feedback during development
+  hideHelper: true # set to false or delete line  to show feedback during development
   rootLang: en
   latestPostLimit: 3
-  logo: /assets/images/beaty-logo-horizontal-white.png  # Logo in navbar, will be displayed with 28px height
-  logoAndTitle: false              # include the title next to the logo
-  archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
+  logo: /assets/images/beaty-logo-horizontal-white.png # Logo in navbar, will be displayed with 28px height
+  logoAndTitle: false # include the title next to the logo
+  archive_permalink: /news/ # Permalink of page using archive.html layout, required when using post categories
   style:
-    square: true               # Should corners be square or rounded
+    square: true # Should corners be square or rounded
     colors:
-      primary: "#ED1C24"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "#ED1C24"            # What color should links have. Use a HEX code. DEfault is primary color. 
-    coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true. 
-  navbar:                         # RELATED TO NAVIGATION BAR
+      primary: "#ED1C24" # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#ED1C24" # What color should links have. Use a HEX code. DEfault is primary color.
+    coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true.
+  navbar: # RELATED TO NAVIGATION BAR
     # brandBackground: "#0f3352"     # Define a custom background for the logo/title in the top navigation bar
-    color: "#cc2229"             # What color should the navbar be?
-    hasWhiteText: true          # Should the text color be white?
+    color: "#cc2229" # What color should the navbar be?
+    hasWhiteText: true # Should the text color be white?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -97,19 +95,17 @@ collections:
     permalink: /100-treasures/:name
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "post"
       lang: en
-  -
-    scope:
+  - scope:
       path: ""
     values:
       lang: en
   #-
-   # scope:
-    #  path: "da/"
-   # values:
-    #  lang: da
+  # scope:
+  #  path: "da/"
+  # values:
+  #  lang: da
