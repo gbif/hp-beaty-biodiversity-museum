@@ -40,10 +40,6 @@ privacy:
   contactEmail: info@gbif.org
   helpdeskEmail: info@gbif.org
 
-plausible:
-  enabled: true
-  dataDomain: "collections.beatymuseum.ubc.ca"
-
 algae:
   hideHelper: true # set to false or delete line  to show feedback during development
   rootLang: en
