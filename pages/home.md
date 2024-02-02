@@ -72,7 +72,7 @@ cta:
   - text: All records
     href: /specimen/search
     isPrimary: true
-  - text: Collections
+  - text: Datasets
     href: /datasets
 permalink: /
 klass: home
