@@ -73,7 +73,7 @@ cta:
     href: /specimen/search
     isPrimary: true
   - text: Collections
-    href: /collections
+    href: /datasets
 permalink: /
 klass: home
 navbar:
