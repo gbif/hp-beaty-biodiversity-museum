@@ -54,6 +54,6 @@ collectionsPreview:
       aria: "Go to the fish collection"
     - title: UBC Herbarium
       description: The University of British Columbia Herbarium is the largest in western Canada and is home to over half a million plant specimens from around the world. This collection is critical to the identification, monitoring, and conservation of plant biodiversity in British Columbia, and is an important resource for scientific research and education.
-      background: assets/images/herbarium-card-image.jpg
+      background: assets/images/vascular-card-image.jpg
       href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
       aria: "Go to the UBC herbarium"
