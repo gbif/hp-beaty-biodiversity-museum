@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 description: |
-  <p role="heading" aria-level="2" class="tagLine">The Beaty Biodiversity Museum is Vancouver's natural history museum. <span role="heading" aria-level="2" data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=07fd0d79-4883-435f-bba1-58fef110cd13&datasetKey=90302970-1bc6-4865-be76-9aef1dd707f9&datasetKey=9c45867f-f77d-42f3-9751-ae16bb7c9bc8&datasetKey=4edd9396-59df-4b01-9e29-dc21a59f9963&datasetKey=628abbe5-dc8d-41e9-a0c7-f05efe282649&datasetKey=ca1bcd7e-7387-42f9-81ba-1470db55e3e8&datasetKey=ba0c046d-52bb-4262-a495-652988c9f3f7&datasetKey=3ad882bb-cd21-4201-8b83-3684bfc6d830&datasetKey=df9c8b86-9d36-4e29-91b3-4274dff053e5&limit=0">701,768</span> objects across 3 collections are currently available online, showcasing biodiversity from around the world.</p>
+  <p role="heading" aria-level="2" class="tagLine">The Beaty Biodiversity Museum is Vancouver's natural history museum. <span role="heading" aria-level="2" data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=07fd0d79-4883-435f-bba1-58fef110cd13&datasetKey=90302970-1bc6-4865-be76-9aef1dd707f9&datasetKey=9c45867f-f77d-42f3-9751-ae16bb7c9bc8&datasetKey=4edd9396-59df-4b01-9e29-dc21a59f9963&datasetKey=628abbe5-dc8d-41e9-a0c7-f05efe282649&datasetKey=ca1bcd7e-7387-42f9-81ba-1470db55e3e8&datasetKey=ba0c046d-52bb-4262-a495-652988c9f3f7&datasetKey=3ad882bb-cd21-4201-8b83-3684bfc6d830&datasetKey=df9c8b86-9d36-4e29-91b3-4274dff053e5&datasetKey=4caf2040-83ad-4fa7-ba13-005bced721eb&limit=0">701,768</span> objects across 4 collections are currently available online, showcasing biodiversity from around the world.</p>
 
     <div class="searchWrapper">
       <!-- Tab links -->
@@ -65,7 +65,7 @@ description: |
     </script>
 background: /assets/images/hero-image.jpg
 imageLicense: |
-    *No Title* David Gilbar, 2010 All Rights Reserved, Beaty Biodiversity Museum
+  *No Title* David Gilbar, 2010 All Rights Reserved, Beaty Biodiversity Museum
 height: 100vh
 parallax: true
 cta:
@@ -77,9 +77,9 @@ cta:
 permalink: /
 klass: home
 navbar:
-    color: transparent
-    hasWhiteText: true
-    floating: true
+  color: transparent
+  hasWhiteText: true
+  floating: true
 composition:
   - type: heroImage # the block type
   - data: home.stats
@@ -89,8 +89,3 @@ composition:
   - type: features
     data: home.specimens
 ---
-
-
- 
-
-
