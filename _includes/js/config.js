@@ -77,7 +77,7 @@ var siteConfig = {
         "4caf2040-83ad-4fa7-ba13-005bced721eb",
       ],
     },
-    occurrenceSearchTabs: ["TABLE", "MAP", "GALLERY", "DATASETS"], // what tabs should be shown
+    occurrenceSearchTabs: ["TABLE", "MAP", "GALLERY", "CLUSTERS", "DASHBOARD"], // what tabs should be shown
   },
   collection: {
     availableCatalogues: ["COLLECTION", "OCCURRENCE"],
