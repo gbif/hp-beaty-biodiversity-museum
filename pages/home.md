@@ -63,16 +63,17 @@ description: |
         evt.currentTarget.className += " active";
       }
     </script>
+    <p class="orSeperator">Or</p>
 background: /assets/images/hero-image.jpg
 imageLicense: |
   *No Title* David Gilbar, 2010 All Rights Reserved, Beaty Biodiversity Museum
 height: 100vh
 parallax: true
 cta:
-  - text: All records
+  - text: Browse all records
     href: /specimen/search
     isPrimary: true
-  - text: Datasets
+  - text: Browse Datasets
     href: /datasets
 permalink: /
 klass: home
