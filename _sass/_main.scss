@@ -1,6 +1,6 @@
 $navbar-breakpoint: 10000px; // always show burger menu
 @import "theme/_main";
-$red: #ED1C24;
+$red: #ed1c24;
 $smoke: #f5f5f5;
 $darkerSmoke: #f6f6f6d0;
 @import "_home";
@@ -18,7 +18,7 @@ $darkerSmoke: #f6f6f6d0;
 }
 
 .navbar-menu {
-  position:absolute;
+  position: absolute;
   right: 0;
   padding: 1rem 2rem;
   z-index: 100;
@@ -58,16 +58,20 @@ $darkerSmoke: #f6f6f6d0;
     // background: $navbar-background-color!important
     &--hasWhiteText {
       .navbar-logo_text {
-        color: $smoke; }
+        color: $smoke;
+      }
       .navbar-burger {
-        color: $smoke; }
-
-         } } }
+        color: $smoke;
+      }
+    }
+  }
+}
 
 .features {
   background: $smoke;
   padding-top: 3rem;
-  padding-bottom: 4rem; }
+  padding-bottom: 4rem;
+}
 
 .feature {
   flex: 0 0 $card-width;
@@ -81,28 +85,38 @@ $darkerSmoke: #f6f6f6d0;
     height: 0;
     width: 100%;
     padding-bottom: 60%;
-  .feature-content {
-    padding: 24px; }
-  .feature-description {
-    color: #021D3D; }
-  .feature-title {
-    margin-top: 0!important; }
+    .feature-content {
+      padding: 24px;
+    }
+    .feature-description {
+      color: #021d3d;
+    }
+    .feature-title {
+      margin-top: 0 !important;
+    }
 
-  .splitBanner {
-  display: flex;
-  max-width: 2000px;
-  margin: auto;
-  background: #3c8a2e;
-  >div {
-    flex: 0 0 50%; }
-  .feature-content {
-    padding: 5rem;
-    font-size: 120%; }
-  &--reverse {
-    flex-direction: row-reverse; }
-  .feature-title {
-    margin-top: 0!important;
-    color: #ffffff; }}}}
+    .splitBanner {
+      display: flex;
+      max-width: 2000px;
+      margin: auto;
+      background: #3c8a2e;
+      > div {
+        flex: 0 0 50%;
+      }
+      .feature-content {
+        padding: 5rem;
+        font-size: 120%;
+      }
+      &--reverse {
+        flex-direction: row-reverse;
+      }
+      .feature-title {
+        margin-top: 0 !important;
+        color: #ffffff;
+      }
+    }
+  }
+}
 
 .floatingHero.home {
   .feature-content {
@@ -120,11 +134,15 @@ $darkerSmoke: #f6f6f6d0;
 }
 
 section {
-  &.features, &.splitBanner, &.textBanner {
-    border-bottom: none; } }
+  &.features,
+  &.splitBanner,
+  &.textBanner {
+    border-bottom: none;
+  }
+}
 
 section.splitBanner {
-background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 section.statistics {
@@ -132,72 +150,96 @@ section.statistics {
 }
 
 @media screen and (max-width: 600px) {
+  .feature-content {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
   .navbar-logo_text {
     display: none;
   }
 }
 
 .footer {
-    background-color: #fafafa;
-    padding: 1.5rem 1.5rem 1.5rem;
+  background-color: #fafafa;
+  padding: 1.5rem 1.5rem 1.5rem;
 }
 
-.content h3, .feature-content h3 {
-    font-size: 1.6em;
-    margin-bottom: 0.6666em;
-    font-family: "Open Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    font-weight: 600;
+.content h3,
+.feature-content h3 {
+  font-size: 1.6em;
+  margin-bottom: 0.6666em;
+  font-family: "Open Sans", BlinkMacSystemFont, -apple-system, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-weight: 600;
 }
 
-@media screen and (max-width: 10000px){
-.navbar--hasWhiteText .navbar-logo_text {
+@media screen and (max-width: 10000px) {
+  .navbar--hasWhiteText .navbar-logo_text {
     color: #ececec;
-    font-family: "Open Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: "Open Sans", BlinkMacSystemFont, -apple-system, "Segoe UI",
+      "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 1.6em;
     font-weight: 800;
   }
 }
 
-@media screen and (max-width: 9999px){
-.navbar-menu {
-    background-color: #ED1C24;
+@media screen and (max-width: 9999px) {
+  .navbar-menu {
+    background-color: #ed1c24;
     padding: 0.5rem 0;
   }
 }
 
-.navbar-item, .navbar-link {
-    color: #fff;
-    display: block;
-    line-height: 1.5;
-    padding: 0.5rem 0.75rem;
-    position: relative;
+.navbar-item,
+.navbar-link {
+  color: #fff;
+  display: block;
+  line-height: 1.5;
+  padding: 0.5rem 0.75rem;
+  position: relative;
 }
 
-a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
-    background-color: #cc2229;
-    color: #fff;
+a.navbar-item:focus,
+a.navbar-item:focus-within,
+a.navbar-item:hover,
+a.navbar-item.is-active,
+.navbar-link:focus,
+.navbar-link:focus-within,
+.navbar-link:hover,
+.navbar-link.is-active {
+  background-color: #cc2229;
+  color: #fff;
 }
 
 .postHeader .feature-img {
-    height: 0;
-    padding-bottom: 40%;
-    width: 100%;
-    margin: auto;
-    border: none;
-    background-color: #eee;
+  height: 0;
+  padding-bottom: 40%;
+  width: 100%;
+  margin: auto;
+  border: none;
+  background-color: #eee;
 }
 
-@media screen and (min-width: 1211px){
-.feature-cards.has-4-elements .feature:nth-child(1) .feature-img .feature-cards.has-4-elements .feature:nth-child(4) .feature-img {
+@media screen and (min-width: 1211px) {
+  .feature-cards.has-4-elements
+    .feature:nth-child(1)
+    .feature-img
+    .feature-cards.has-4-elements
+    .feature:nth-child(4)
+    .feature-img {
     max-height: none;
     height: 100%;
     border-bottom: none;
     border-right: 1px solid #0000000d;
-}
+  }
 
-.feature .feature-img {
+  .feature .feature-img {
     height: 0;
     width: 100%;
     padding-bottom: 60%;
     border-bottom: 1px solid #0000000d;
-}}
+  }
+}
