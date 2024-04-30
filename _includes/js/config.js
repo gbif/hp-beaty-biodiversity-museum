@@ -42,7 +42,7 @@ var siteConfig = {
       "catalogNumber",
       "datasetKey",
       "taxonKey",
-      "occurrenceId",
+      "stateProvince",
       "recordedBy",
       "recordNumber",
       "identifiedBy",
