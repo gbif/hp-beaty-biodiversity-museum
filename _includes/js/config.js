@@ -25,7 +25,7 @@ var siteConfig = {
       route: "/specimen/search", // in this case we want the occurrence search to be available on a url that says specimens instead
     },
   },
-  availableCatalogues: ["COLLECTION", "OCCURRENCE"],
+  availableCatalogues: ["OCCURRENCE"],
   occurrence: {
     excludedFilters: [
       "collection",
