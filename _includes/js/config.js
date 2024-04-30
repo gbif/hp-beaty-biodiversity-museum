@@ -44,6 +44,7 @@ var siteConfig = {
       "taxonKey",
       "occurrenceId",
       "recordedBy",
+      "recordNumber",
       "identifiedBy",
     ],
     defaultTableColumns: [
