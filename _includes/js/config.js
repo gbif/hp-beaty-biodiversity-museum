@@ -41,7 +41,7 @@ var siteConfig = {
       "q",
       "catalogNumber",
       "datasetKey",
-      "taxonKey",
+      "verbatimScientificName",
       "stateProvince",
       "recordedBy",
       "recordNumber",
