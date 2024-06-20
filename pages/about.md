@@ -14,9 +14,6 @@ parallax: true
 
 Within the physical museum, specimens are organized under six collections, which may have smaller organizational components within them. This page will explain how the *digital* components (i.e. the components on this site) are organized.
 
-{: .notification .is-warning}
-**This site is under very active development** and we have released it during this phase to allow for access to the data we do have available as soon as possible. In particular, records for datasets on this site may have been published a few years ago, and some collections do not have data included in the site yet. Some links on this site may be outdated and are in the process of being updated. If you need any assistance, please [contact the curator](https://beatymuseum.ubc.ca/connect/contact/) for the collection in question and we will happily help find the records you need!
-
 ## The Organizational Tree
 
 Below is an overview of how the digital records are organized relative to each other at Beaty. 
