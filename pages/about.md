@@ -32,7 +32,7 @@ Below is an overview of how the digital records are organized relative to each o
     - [Spencer Entomology Collection](/collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203)
        - [Spencer Entomology Collection](/dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8)
     - [Fish Collection](/collection/5aee131f-91dd-4b78-bfee-296f86801b7f)
-       - Fish
+       - [Fish](/dataset/4caf2040-83ad-4fa7-ba13-005bced721eb)
     - [Fossil Collection](/collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7)
        - Fossils
     - [Marine Invertebrate Collection](/collection/403e3c1f-086f-461b-9718-60537ee4ce3c)
