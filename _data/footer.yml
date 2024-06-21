@@ -10,7 +10,7 @@ columns:
       * 2212 Main Mall
       * Vancouver, Canada, V6T 1Z4
       * [Main website](https://www.beatymuseum.ubc.ca/)  
-      * [Email us](mailto:info@beatymuseum.ubc.ca)   
+      * [Email us](mailto:info@beatymuseum.ubc.ca)
     connectIcons: false
   - name: Code
     description: |
@@ -18,11 +18,15 @@ columns:
       * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)
       * [Release Notes](https://github.com/gbif/hp-beaty-biodiversity-museum/releases)
   - name: Content license
-    description: | 
+    description: |
       * Unless otherwise noted:
       * <img src="/assets/icons/cc.png" width="24"/>
         <img src="/assets/icons/by.png" width="24"/>
         <img src="/assets/icons/sa.png" width="24"/>
+  - name: Status
+    iframe: |
+      <iframe src="https://status.beatymuseum.ubc.ca/badge?theme=light" width="250" height="30" frameborder="0" scrolling="no"></iframe>
+
 # EXAMPLE
 #- name: Group name
 #  description: |
