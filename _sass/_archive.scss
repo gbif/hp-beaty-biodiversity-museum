@@ -1,0 +1,24 @@
+.btn-group button {
+  border: 1px solid #ed1c24;
+  background-color: white;
+  text-align: center;
+  color: black;
+  cursor: pointer;
+  float: left;
+  width: 100px;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none;
+}
+
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:hover {
+  background-color: #ed1c24;
+  color: white;
+}

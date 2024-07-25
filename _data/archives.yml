@@ -1,0 +1,111 @@
+- title: "Algae"
+  root: "ubc-algae-specimens"
+  versions:
+    [
+      "14.16",
+      "14.15",
+      "14.14",
+      "14.13",
+      "14.12",
+      "14.11",
+      "14.10",
+      "14.9",
+      "14.8",
+      "14.7",
+      "14.6",
+      "14.5",
+      "14.4",
+      "14.3",
+      "14.2",
+      "14.1",
+      "14.0",
+    ]
+- title: "Birds"
+  root: "ubc_bbm_ctc_birds"
+  versions: ["13.3", "13.2", "13.1"]
+- title: "Bryophytes"
+  root: "ubc-bryophytes"
+  versions:
+    [
+      "6.11",
+      "6.10",
+      "6.9",
+      "6.8",
+      "6.7",
+      "6.6",
+      "6.5",
+      "6.4",
+      "6.3",
+      "6.2",
+      "6.1",
+      "6.0",
+    ]
+- title: "Entomology"
+  root: "ubc-entomology-collections"
+  versions:
+    [
+      "13.9",
+      "13.8",
+      "13.7",
+      "13.6",
+      "13.5",
+      "13.4",
+      "13.3",
+      "13.2",
+      "13.1",
+      "13.0",
+    ]
+- title: "Fish"
+  root: "beaty-museum-fish-collection"
+  versions: ["1.3", "1.2", "1.1", "1.0"]
+- title: "Fungi"
+  root: "ubc-fungi-specimens"
+  versions:
+    [
+      "14.9",
+      "14.8",
+      "14.7",
+      "14.6",
+      "14.5",
+      "14.4",
+      "14.3",
+      "14.2",
+      "14.1",
+      "14.0",
+    ]
+- title: "Lichen"
+  root: "ubc-lichen"
+  versions: ["3.7", "3.6", "3.5", "3.4", "3.3", "3.2", "3.1", "3.0"]
+- title: "Herpetology"
+  root: "ubc_bbm_ctc_herps"
+  versions: ["6.1"]
+- title: "Mammals"
+  root: "ubc_bbm_ctc_mammals"
+  versions: ["5.2", "5.1"]
+- title: "Vascular Plants"
+  root: "ubc-vascular-specimens"
+  versions:
+    [
+      "16.21",
+      "16.20",
+      "16.19",
+      "16.18",
+      "16.17",
+      "16.16",
+      "16.15",
+      "16.14",
+      "16.13",
+      "16.12",
+      "16.11",
+      "16.10",
+      "16.9",
+      "16.8",
+      "16.7",
+      "16.6",
+      "16.5",
+      "16.4",
+      "16.3",
+      "16.2",
+      "16.1",
+      "16.0",
+    ]
