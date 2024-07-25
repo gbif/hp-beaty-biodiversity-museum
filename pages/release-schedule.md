@@ -1,6 +1,6 @@
 ---
 title: 'Release Schedule'
-layout: compose
+layout: post
 permalink: /release-schedule
 ---
 
