@@ -17,6 +17,6 @@ If you are interested in downloading a previous version of a particular dataset,
 # Cowan Tetrapod Collection
 
 | Dataset | Published | Current Version | Next Release |
-| [Birds](dataset/ba0c046d-52bb-4262-a495-652988c9f3f7) | The first of every month | 13.3 | 2024-08-01 |
+| [Birds](dataset/ba0c046d-52bb-4262-a495-652988c9f3f7) | The first of every month | 13.4 | 2024-09-01 |
 
 

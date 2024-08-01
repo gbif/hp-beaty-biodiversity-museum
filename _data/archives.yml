@@ -22,7 +22,7 @@
     ]
 - title: "Birds"
   root: "ubc_bbm_ctc_birds"
-  versions: ["13.3", "13.2", "13.1"]
+  versions: ["13.4", 13.3", "13.2", "13.1"]
 - title: "Bryophytes"
   root: "ubc-bryophytes"
   versions:
