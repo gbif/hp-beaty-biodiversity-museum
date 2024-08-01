@@ -12,6 +12,7 @@ If you are interested in downloading a previous version of a particular dataset,
 
 | Dataset | Published | Current Version | Next Release |
 | [Vascular Plants](dataset/07fd0d79-4883-435f-bba1-58fef110cd13) | Every other Tuesday (bi-weekly) | 16.21 |  2024-08-06 |
+| [Algae](dataset/90302970-1bc6-4865-be76-9aef1dd707f9) | The 1st of every month | 14.16 | 2024-09-01 | 
 | [Bryophytes](dataset/4edd9396-59df-4b01-9e29-dc21a59f9963) | Every other Tuesday (bi-weekly) | 6.11 | 2024-08-06 | 
 
 # Cowan Tetrapod Collection
