@@ -1,0 +1,40 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description: |
+      [<img alt="The Beaty Biodiversity logo" src="/assets/images/beaty-logo-horizontal.png"/>](https://beatymuseum.ubc.ca)
+      [<img alt="Funded by the Government of Canada" src="/assets/logo/funded-by-government-of-canada-en.jpg"/>](https://www.canada.ca/en/canadian-heritage/services/funding/acknowledgement-financial-support.html)
+  - name: Contact
+    description: | # Can be Markdown
+      * 2212 Main Mall
+      * Vancouver, Canada, V6T 1Z4
+      * [Main website](https://www.beatymuseum.ubc.ca/)  
+      * [Email us](mailto:info@beatymuseum.ubc.ca)
+    connectIcons: false
+  - name: Code
+    description: |
+      * The code for this site is open source under an Apache-2.0 license
+      * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)
+      * [Release Notes](https://github.com/gbif/hp-beaty-biodiversity-museum/releases)
+  - name: Content license
+    description: |
+      * Unless otherwise noted:
+      * <img src="/assets/icons/cc.png" width="24"/>
+        <img src="/assets/icons/by.png" width="24"/>
+        <img src="/assets/icons/sa.png" width="24"/>
+  - name: Status
+    iframe: |
+      <iframe src="https://status.beatymuseum.ubc.ca/badge?theme=light" width="250" height="30" frameborder="0" scrolling="no"></iframe>
+
+# EXAMPLE
+#- name: Group name
+#  description: |
+#    An optional description. Can be markdown
+#  links: # optional as well
+#  - text: link title
+#    href: http://example.com
+#  - text: link title 2
+#    href: http://example2.com
+#  connectIcons: true # optional - show social icons (defined in _config.yml)

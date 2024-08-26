@@ -1,0 +1,138 @@
+@import "theme/_main";
+$smoke: #f5f5f5;
+$darkerSmoke: #f6f6f6d0;
+@import "_home";
+// You can add additional styling here
+.navbar-logo .navbar-logo_img {
+  max-height: 3rem;
+  margin-right: 24px;
+}
+
+.home {
+  background: $smoke;
+}
+
+.home.floatingHero {
+  .feature-content {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    max-width: calc(100% - 24px);
+  }
+  .feature-description {
+    font-size: 28px;
+    padding: 0;
+    width: 800px;
+    p {
+      font-weight: 500;
+    }
+    margin: 0;
+    padding: 0;
+  }
+  .feature-img {
+    filter: brightness(0.65);
+  }
+}
+
+.iframe-box {
+  padding: 24px;
+  iframe {
+    @extend .box;
+    width: 100%;
+    max-height: calc(100% - 68px);
+    margin-left: auto; /* Automatic margin from left */
+    margin-right: auto; /* Automatic margin from right */
+    border: 1px solid #00000011;
+    padding: 0;
+  }
+}
+.features {
+  background: $smoke;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+}
+
+.feature {
+  flex: 0 0 $card-width;
+  max-width: 100%;
+  margin: $card-gap;
+  overflow: hidden;
+  box-shadow: none;
+  border: none;
+  background: #ffffff;
+  .feature-img {
+    height: 0;
+    width: 100%;
+    padding-bottom: 60%;
+    .feature-content {
+      padding: 24px;
+    }
+    .feature-description {
+      color: #021d3d;
+    }
+    .feature-title {
+      margin-top: 0 !important;
+    }
+
+    .splitBanner {
+      display: flex;
+      max-width: 2000px;
+      margin: auto;
+      background: #3c8a2e;
+      > div {
+        flex: 0 0 50%;
+      }
+      .feature-content {
+        padding: 5rem;
+        font-size: 120%;
+      }
+      &--reverse {
+        flex-direction: row-reverse;
+      }
+      .feature-title {
+        margin-top: 0 !important;
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+.floatingHero.home {
+  .feature-content {
+    text-align: left;
+    width: 800px;
+    margin: auto;
+  }
+  .feature-description {
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: $smoke;
+  }
+}
+
+section {
+  &.features,
+  &.splitBanner,
+  &.textBanner {
+    border-bottom: none;
+  }
+}
+
+section.splitBanner {
+  background-color: #ffffff;
+}
+
+section.statistics {
+  background-color: #ffffff;
+}
+
+.footer {
+  background-color: #ffffff;
+}
+
+.footer-description img {
+  margin-bottom: 48px;
+}

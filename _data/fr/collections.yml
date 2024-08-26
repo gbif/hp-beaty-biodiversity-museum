@@ -1,0 +1,29 @@
+title: Collections
+klass: collectionsbg
+description: |
+  Welcome to the collections at the Beaty 
+features: 
+- title: Cowan Tetrapod Collection
+  description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
+  background: /assets/images/ctc-card-image.jpg
+  href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
+- title: Spencer Entomology Collection
+  description: Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon's spectacular insect diversity. Past collectors' particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+  background: assets/images/sec-card-image.jpg
+  href: /collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
+- title: Herbarium
+  description: UBC herbarium has over 450,000 of our specimens databased, and some images are available for particular collectors (founder John Davidson and previous director Gerald Straley) and specific groups (type specimens, other previously loaned genera). We share our data with E-Flora BC, Canadensys, BC Conservation Data Centre, Consortium of Pacific Northwest Herbaria, and Global Biodiversity Information Facility.
+  background: assets/images/herbarium-card-image.jpg
+  href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
+- title: Fish Collection
+  description: The Fish Collection of the Beaty Biodiversity Museum, UBC, was begun by Dr. C. McLean Fraser, the first head of UBC’s Department of Zoology. Today, the collection holds over 800,000 specimens and over 50,000 DNA and tissue samples, making it the third-largest fish collection in Canada.
+  background: assets/images/fish-card-image.jpg
+  href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
+- title: Fossil Collection
+  description: The UBC Fossil Collection was started in 1924 by Dr. Merton Yarwood Williams, who was a founding member of what was then UBC’s Department of Geology.
+  background: assets/images/fossil-card-image.jpg
+  href: /collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7
+- title: Marine Invertebrate Collection
+  description: The Marine Invertebrate collection was started in the 1940s with alcohol-preserved specimens collected by Dr. C. McLean Fraser and Dr. Ian McTaggart-Cowan. Primarily used for teaching, the collection eventually grew to several thousand specimens representing the major lineages of invertebrate animals.
+  background: assets/images/marine-invertebrate-card-image.jpg
+  href: /collection/403e3c1f-086f-461b-9718-60537ee4ce3c

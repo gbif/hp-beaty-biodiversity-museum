@@ -1,0 +1,59 @@
+stats:
+  title: Nos données
+  features:
+    # Hard coded value
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&country=CA">400,000</span>
+      description: Spécimens canadiens
+      href: /specimen/search?country=CA
+      aria: "Search for all Canadian Specimens"
+      blankTarget: true
+      background: assets/icons/canadian-maple-leaf.svg
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&hasCoordinate=true">600,000</span>
+      description: Enregistrements géoréférencées
+      blankTarget: true
+      href: /specimen/search?view=MAP
+      aria: "Search for all georeferenced records"
+      background: assets/icons/georeferenced-icon.svg
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?literatureType=JOURNAL&peerReview=true&gbifDatasetKey=4edd9396-59df-4b01-9e29-dc21a59f9963&gbifDatasetKey=07fd0d79-4883-435f-bba1-58fef110cd13&gbifDatasetKey=90302970-1bc6-4865-be76-9aef1dd707f9&gbifDatasetKey=9c45867f-f77d-42f3-9751-ae16bb7c9bc8&gbifDatasetKey=628abbe5-dc8d-41e9-a0c7-f05efe282649&gbifDatasetKey=ca1bcd7e-7387-42f9-81ba-1470db55e3e8&gbifDatasetKey=3ad882bb-cd21-4201-8b83-3684bfc6d830&gbifDatasetKey=ba0c046d-52bb-4262-a495-652988c9f3f7&gbifDatasetKey=df9c8b86-9d36-4e29-91b3-4274dff053e5&gbifDatasetKey=4caf2040-83ad-4fa7-ba13-005bced721eb">1509</span>
+      description: Nombre total de citations
+      href: /about
+      aria: "Goes to the about page for the site"
+      blankTarget: true
+      background: assets/icons/citations-icon.svg
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&mediaType=stillImage">37,000</span>
+      description: Records with Images
+      href: /specimen/search?mediaType=StillImage&view=GALLERY
+      aria: Show all specimens with images in gallery mode
+      background: assets/icons/image-icon.svg
+      blankTarget: true
+
+collectionsPreview:
+  title: Collections
+  description: |
+    Among our two million treasured specimens are the third-largest fish collection in Canada and a myriad of fossils, shells, insects, fungi, mammals, birds, reptiles, amphibians, and plants from around BC and across the world. If you would like to go to a particular dataset (such as Birds, Lichen, or Mammals) click on the red button below instead.
+  cta:
+    - text: View Individual Datasets
+      aria: "Go to datasets page"
+      href: /datasets
+      isPrimary: true
+  features:
+    - title: Cowan Tetrapod Collection
+      description: The Cowan Tetrapod Collection was founded in 1943, but the oldest specimen dates from 1849. With over 40,000 specimens representing over 2,500 species, the collection is the second-largest scientific collection of birds, mammals, reptiles, and amphibians in British Columbia.
+      background: assets/images/bird-card-image.jpg
+      href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
+      aria: "Go to the cowan tetrapod collection"
+    - title: Spencer Entomology Collection
+      description: Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon's spectacular insect diversity. Past collectors' particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+      background: assets/images/sec-card-image.jpg
+      href: /collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
+      aria: "Go to the specimen entomology collection"
+    - title: Fish Collection
+      description: The UBC-BBM Fish Collection (University of British Columbia, Beaty Biodiversity Museum, UBFC), was begun by Dr. C. McLean Fraser in the Department of Zoology in the 1910s. It was officially created in 1945 when the cataloguing was started. It has been managed by different UBC institutes and departments until 2010 when the BBM was created. The computerization started in 1975. The oldest specimen was collected in 1903.
+      background: /assets/images/fish-card-image.jpg
+      href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
+      aria: "Go to the fish collection"
+    - title: UBC Herbarium
+      description: The University of British Columbia Herbarium is the largest in western Canada and is home to over half a million plant specimens from around the world. This collection is critical to the identification, monitoring, and conservation of plant biodiversity in British Columbia, and is an important resource for scientific research and education.
+      background: assets/images/vascular-card-image.jpg
+      href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
+      aria: "Go to the UBC herbarium"
