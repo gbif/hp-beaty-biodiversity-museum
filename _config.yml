@@ -11,6 +11,7 @@
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
+# You should also look at https://hp-theme.gbif-staging.org/documentation-intro for options
 #
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -18,12 +19,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Beaty Biodiversity Museum # the title of your site should go here
+title: Beaty Biodiversity Museum
 email: info@beatymuseum.ubc.ca
 description: >- # this means to ignore newlines (until baseurl:)
-  The gbif hosted portal for the Beaty Biodiversity Museum
+  The Beaty Biodiversity Museum is Vancouver's natural history museum.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://collections.beatymuseum.ubc.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://collections.beatymuseum.ubc.ca"
 
 # Build settings
 theme: minima
@@ -33,30 +34,18 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 
-# for usage in the standard privacy layout
-privacy:
-  name: GBIF
-  domain: gbif.org
-  contactEmail: info@gbif.org
-  helpdeskEmail: info@gbif.org
-
 algae:
-  hideHelper: true # set to false or delete line  to show feedback during development
   rootLang: en
   latestPostLimit: 3
-  logo: /assets/images/beaty-logo-horizontal-white.png # Logo in navbar, will be displayed with 28px height
-  logoAndTitle: false # include the title next to the logo
+  logo: /assets/logo/beaty-logo-horizontal.png
+  logoAndTitle: true # include the title next to the logo
   archive_permalink: /news/ # Permalink of page using archive.html layout, required when using post categories
   style:
-    square: true # Should corners be square or rounded
+    # square: false               # Should corners be square or rounded
     colors:
-      primary: "#ED1C24" # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "#ED1C24" # What color should links have. Use a HEX code. DEfault is primary color.
+      primary: "#ed1c24" # Primary color of your brand. Use HEX code. Used for buttons and links
+      # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color.
     coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true.
-  navbar: # RELATED TO NAVIGATION BAR
-    # brandBackground: "#0f3352"     # Define a custom background for the logo/title in the top navigation bar
-    color: "#cc2229" # What color should the navbar be?
-    hasWhiteText: true # Should the text color be white?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,42 +55,45 @@ algae:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .LICENSE
   - .netlify.toml
   - .README.md
 
-collections_dir: pages
-
-collections:
-  treasures:
-    output: true
-    permalink: /100-treasures/:name
+permalink: pretty # will strip extensions like .html from urls
 
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "post"
+      layout: "page"
       lang: en
+  - scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      permalink: "/post/:year/:slug/" # Use /post/yyyy/{filename}/ as permalink for all posts
   - scope:
       path: ""
     values:
       lang: en
-  #-
-  # scope:
-  #  path: "da/"
-  # values:
-  #  lang: da
+  - scope:
+      path: "fr/"
+    values:
+      lang: fr
+  - scope:
+      path: "_posts/fr/" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/fr/post/:year/:slug/" # Use /post/yyyy/{filename}/ as permalink for all posts

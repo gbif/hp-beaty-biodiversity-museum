@@ -1,19 +1,21 @@
 stats:
+  title: Nos données
   features:
+    # Hard coded value
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&country=CA">400,000</span>
-      description: Canadian Specimens
+      description: Spécimens canadiens
       href: /specimen/search?country=CA
       aria: "Search for all Canadian Specimens"
       blankTarget: true
       background: assets/icons/canadian-maple-leaf.svg
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?institutionCode=BBM&hasCoordinate=true">600,000</span>
-      description: Georeferenced Records
+      description: Enregistrements géoréférencées
       blankTarget: true
       href: /specimen/search?view=MAP
       aria: "Search for all georeferenced records"
       background: assets/icons/georeferenced-icon.svg
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?literatureType=JOURNAL&peerReview=true&gbifDatasetKey=4edd9396-59df-4b01-9e29-dc21a59f9963&gbifDatasetKey=07fd0d79-4883-435f-bba1-58fef110cd13&gbifDatasetKey=90302970-1bc6-4865-be76-9aef1dd707f9&gbifDatasetKey=9c45867f-f77d-42f3-9751-ae16bb7c9bc8&gbifDatasetKey=628abbe5-dc8d-41e9-a0c7-f05efe282649&gbifDatasetKey=ca1bcd7e-7387-42f9-81ba-1470db55e3e8&gbifDatasetKey=3ad882bb-cd21-4201-8b83-3684bfc6d830&gbifDatasetKey=ba0c046d-52bb-4262-a495-652988c9f3f7&gbifDatasetKey=df9c8b86-9d36-4e29-91b3-4274dff053e5&gbifDatasetKey=4caf2040-83ad-4fa7-ba13-005bced721eb">1509</span>
-      description: Total Citations
+      description: Nombre total de citations
       href: /about
       aria: "Goes to the about page for the site"
       blankTarget: true
