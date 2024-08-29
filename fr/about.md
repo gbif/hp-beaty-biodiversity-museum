@@ -1,10 +1,10 @@
 ---
-title: About
+title: À propos
 layout: page
 permalink: /fr/about
 lang: fr
 lang-ref: about
-description: Information about the digital structure of the museum, and how this site is organized.
+description: Renseignements sur la structure numérique du musée et l’organisation de ce site.
 background: /assets/images/about-image.jpg
 imageLicense: Beaty Biodiversity Museum CC BY-NC-SA 2.0 DEED
 toc: true
@@ -12,13 +12,13 @@ mobiletoc: true
 parallax: true
 ---
 
-# The Structure of the Beaty Biodiversity Museum
+# La structure du Beaty Biodiversity Museum
 
-Within the physical museum, specimens are organized under six collections, which may have smaller organizational components within them. This page will explain how the *digital* components (i.e. the components on this site) are organized.
+Dans le musée physique, les spécimens sont classés dans six collections différentes, qui peuvent comprendre de plus petits éléments organisationnels. Cette page explique comment sont organisés les éléments numériques (c.-à-d. les éléments du site).
 
-## The Organizational Tree
+## Organigramme
 
-Below is an overview of how the digital records are organized relative to each other at Beaty. 
+Voici une vue d’ensemble de l’organisation des fiches du Beaty.
 
 - [Beaty Biodiversity Museum](/institution/c7d5c4da-9590-49c2-b87c-f0e7932611a6)
     - [UBC Herbarium](/collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0)
@@ -40,42 +40,43 @@ Below is an overview of how the digital records are organized relative to each o
     - [Marine Invertebrate Collection](/collection/403e3c1f-086f-461b-9718-60537ee4ce3c)
        - Marine Invertebrates
 
-The top level is the museum, which exists as an institution. The second level in the nesting are the collections, and the third level represent datasets. Records can be distinguished through either the UUID or [Darwin Core Triplets](https://dwc.tdwg.org/rdf/). Darwin Core Triplets follow the format `Institution_Code - Collection_Code - Catalogue Number`. For example, a record within the mammals dataset would be represented as `BBM-CTC-M000001`. When citing records, **please use persistent identifiers** such as the UUID or DOI rather than darwin triplets or catalogue numbers in isolation. The Museum commits to maintaining consistent catalogue numbers whenever possible, but does not make an absolute guarantee for their persistance or permanence. If you have an identifier that is not working as expected in finding a record, please [contact us](/contact-us) and we can assist you.
+Le niveau supérieur de l’organigramme est le musée, qui existe en tant qu’établissement. Les éléments du deuxième niveau représentent les collections, et ceux du troisième niveau représentent les ensembles de données. Les fiches se différencient les unes des autres par des UUID ou des triplets Darwin Core. Les triplets Darwin Core suivent le format `Code d’établissement - Code de collection - Numéro de catalogue`. Par exemple, une fiche dans l’ensemble de données Mammifères serait représentée par le code `BBM-CTC-M000001`. Lorsque vous citez une fiche, **veuillez utiliser des codes d’identification consistants** comme des UUID ou des DOI plutôt que des triplets Darwin ou des numéros de catalogue à eux seuls. Le musée s’engage à maintenir des numéros de catalogue consistants lorsque possible, mais ne garantit pas leur persistance ni leur permanence. Si un code d’identification ne fonctionne pas comme prévu lors d’une recherche, contactez-nous et nous pourrons vous aider.
 
 ## Collections
 
-The [collections listed on this site](/collections) match the collections present in the museum. These collections have historical context for the museum and were started by specific curatorial staff. Collections vary widely in size and scope, and as such have varying staffing levels and total record counts. The Beaty museum has six collections in total, they are:
+[Les collections répertoriées sur ce site](/fr/collections) correspondent aux collections qui se trouvent au Beaty. Ces collections s’inscrivent dans un contexte historique pour le musée et ont été lancées par des conservateurs spécialisés. La taille et la portée de chaque collection varient grandement, tout comme, par conséquent, leur dotation en personnel et leur quantité totale de fiches. Le Beaty abrite six collections
 
-- The Spencer Entomology Collection
-- The Fish Collection
-- The Fossil Collection
-- The UBC Herbarium
-- The Marine Invertebrate Collection
-- The Cowan Tetrapod Collection
+- La collection entomologique Spencer
+- La collection de poissons
+- La collection de fossiles
+- L’herbier de l’UBC
+- La collection d’invertébrés marins
+- La collection de tétrapodes Cowan
  
 ![collection-icons](/assets/images/about-collections-icons.png)
 
-All collections are managed in the [Global Registry of Scientific Collections](https://scientific-collections.gbif.org/) (or GRSciColl for short). Here they are kept in sync with various resources and identifiers, such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) and the [Global Biodiversity Information Facility (GBIF)](https://gbif.org). All of the identifiers for a collection can be found at the bottom of its respective page, under the heading "Identifiers".
+Toutes les collections sont gérées dans le [Global Registry of Scientific Collections](https://scientific-collections.gbif.org) (aussi appelé GRSciColl). Elles peuvent ainsi rester synchronisées avec différentes ressources et différents codes d’identification, comme [l’Index Herbariorum](https://sweetgum.nybg.org/science/ih) et le [Global Biodiversity Information Facility (GBIF)](https://gbif.org). Tous les codes d’identification des spécimens d’une collection se trouvent au bas de sa page respective, sous la rubrique « codes d’identification ».
 
-**Collection pages on this site can be used to:**
-- View statistics on the entire collection
-- Get high level contact and persistent identifiers in a scope that matches what is present at the physical museum.
+**Les pages des collections de ce site peuvent être utilisées pour:** 
+- Voir les statistiques de la collection entière.
+- Avoir un contact de haut niveau avec des spécimens et des codes d’identification consistants correspondant aux objets présents au musée.
 
-Critically, "collections" *do not* directly hold any data. Rather, the data is held within datasets, which are explained below.
+De façon critique, les « collections » ne contiennent pas de données. Celles-ci sont plutôt stockées dans des ensembles de données, expliqués ci-dessous.
 
 ## Datasets
 
-Within each collection, there is at least one dataset. Datasets are where information is further sub-cateogorized, made available for download, and assigned a [Digital Object Identifier (DOI)](https://www.doi.org/the-identifier/what-is-a-doi/). When you download specimen records as part of a dataset, you will receive a citation for that dataset *as it was at the point in time when you downloaded it*. This is critical, as datasets evolve over time and referencing particular versions of datasets means that research maintains reproducibility. The Beaty Museum releases updates to datasets at regular intervals, and these are then pushed through various systems until they are ultimately available here to end users. As mentioned above, for a specimen to exist on this site, it *must* exist within a dataset.
+Chaque collection contient au moins un ensemble de données, où les données sont sous-catégorisées davantage, téléchargeables, et possèdent un code d’identification d’objet numérique, ou DOI. Chaque téléchargement de fiche s’accompagne d’une référence pour son ensemble de données tel qu’il était au moment du téléchargement. Cette référence est essentielle, car les ensembles de données évoluent avec le temps, et le fait de référencer des versions particulières signifie que la recherche maintient une reproductibilité. Le Beaty publie des mises à jour d’ensembles de données à intervalles réguliers, et ces mises à jour passent par plusieurs systèmes avant d’être mises à la disposition des utilisateurs finaux ici. Pour qu’un spécimen existe sur ce site, il doit exister dans un ensemble de données.
 
-**Dataset pages on this site can be used to:**
-- Download specimens in bulk and have a citation for that point of download
-- See citations that have been made for specimens contained within the dataset
+**Les pages d’ensembles de données de ce site peuvent être utilisées pour:**
+- Télécharger en grande quantité des fiches accompagnées d’une référence indiquant le moment du téléchargement.
+- Voir les références ayant été faites pour les spécimens contenus dans l’ensemble de données.
 
-Downloading a dataset can be done from the `Download` tab on the dataset page. The appropriate citation for the dataset can be obtained at the bottom of the `About` tab on the dataset page.
+Vous pouvez télécharger un ensemble de données via l’onglet `Télécharger` sur la page de l’ensemble de données. La référence appropriée se trouve au bas de l’onglet À propos sur la page de l’ensemble de données
 
-# The GBIF Hosted Portal Program
+# Programme de portails hébergés par GBIF
 
-This website exists as a [GBIF hosted portal](https://www.gbif.org/hosted-portals). All of the data on this site is pulled from GBIF records via an API. This means that any record found here can also be found on [gbif.org](https://www.gbif.org) or any other GBIF hosted portal that has our records included in its scope.
+Ce site est un [portail hébergé par GBIF](https://www.gbif.org/hosted-portals). Toutes les données sont tirées de fiches GBIF via une API. Toute fiche trouvée ici se trouve donc également sur [gbif.org](https://www.gbif.org) ou sur tout autre portail hébergé par GBIF incluant nos fiches dans l’ensemble de son catalogue.
 
-# Licenses
-All records hosted on this portal should have a license field attached to them, and in this case that license will apply. Most records are published under the [CC0 1.0 license](https://wiki.creativecommons.org/wiki/CC0_1.0_Universal). For specific licenses inquiries, please contact the staff listed on the dataset page.
+# Licences
+
+Toutes les fiches hébergées sur ce portail doivent inclure un champ dédié à la licence, et cette licence s’applique lorsque tel est le cas. La plupart des fiches sont publiées sous la licence [CC0 1.0](https://wiki.creativecommons.org/wiki/CC0_1.0_Universal). Pour toute demande relative aux licences, contactez le personnel figurant sur la page de l’ensemble de données.
