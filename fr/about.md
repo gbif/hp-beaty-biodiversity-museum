@@ -21,24 +21,24 @@ Dans le musée physique, les spécimens sont classés dans six collections diff�
 Voici une vue d’ensemble de l’organisation des fiches du Beaty.
 
 - [Beaty Biodiversity Museum](/institution/c7d5c4da-9590-49c2-b87c-f0e7932611a6)
-    - [UBC Herbarium](/collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0)
-       - [Algae](/dataset/90302970-1bc6-4865-be76-9aef1dd707f9)
+    - [L’herbier de l’UBC](/collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0)
+       - [Algues](/dataset/90302970-1bc6-4865-be76-9aef1dd707f9)
        - [Bryophytes](/dataset/4edd9396-59df-4b01-9e29-dc21a59f9963)
-       - [Fungi](/dataset/ca1bcd7e-7387-42f9-81ba-1470db55e3e8)
-       - [Lichen](/dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649)
-       - [Vascular Plants](/dataset/07fd0d79-4883-435f-bba1-58fef110cd13)
-    - [Cowan Tetrapod Collection](/collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e)
-       - [Birds](/dataset/ba0c046d-52bb-4262-a495-652988c9f3f7)
-       - [Herpetology](/dataset/df9c8b86-9d36-4e29-91b3-4274dff053e5)
-       - [Mammals](/dataset/3ad882bb-cd21-4201-8b83-3684bfc6d830)
-    - [Spencer Entomology Collection](/collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203)
-       - [Spencer Entomology Collection](/dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8)
-    - [Fish Collection](/collection/5aee131f-91dd-4b78-bfee-296f86801b7f)
-       - [Fish](/dataset/4caf2040-83ad-4fa7-ba13-005bced721eb)
-    - [Fossil Collection](/collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7)
-       - Fossils
-    - [Marine Invertebrate Collection](/collection/403e3c1f-086f-461b-9718-60537ee4ce3c)
-       - Marine Invertebrates
+       - [Champignons](/dataset/ca1bcd7e-7387-42f9-81ba-1470db55e3e8)
+       - [Lichens](/dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649)
+       - [Plantes vasculaires](/dataset/07fd0d79-4883-435f-bba1-58fef110cd13)
+    - [La collection de tétrapodes Cowan](/collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e)
+       - [Oiseaux](/dataset/ba0c046d-52bb-4262-a495-652988c9f3f7)
+       - [Herpétologie](/dataset/df9c8b86-9d36-4e29-91b3-4274dff053e5)
+       - [Mammifères](/dataset/3ad882bb-cd21-4201-8b83-3684bfc6d830)
+    - [La collection entomologique Spencer](/collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203)
+       - [La collection entomologique Spencer](/dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8)
+    - [La collection de poissons](/collection/5aee131f-91dd-4b78-bfee-296f86801b7f)
+       - [Poissons](/dataset/4caf2040-83ad-4fa7-ba13-005bced721eb)
+    - [La collection de fossiles](/collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7)
+       - Fossiles
+    - [La collection d’invertébrés marins](/collection/403e3c1f-086f-461b-9718-60537ee4ce3c)
+       - D’invertébrés marins 
 
 Le niveau supérieur de l’organigramme est le musée, qui existe en tant qu’établissement. Les éléments du deuxième niveau représentent les collections, et ceux du troisième niveau représentent les ensembles de données. Les fiches se différencient les unes des autres par des UUID ou des triplets Darwin Core. Les triplets Darwin Core suivent le format `Code d’établissement - Code de collection - Numéro de catalogue`. Par exemple, une fiche dans l’ensemble de données Mammifères serait représentée par le code `BBM-CTC-M000001`. Lorsque vous citez une fiche, **veuillez utiliser des codes d’identification consistants** comme des UUID ou des DOI plutôt que des triplets Darwin ou des numéros de catalogue à eux seuls. Le musée s’engage à maintenir des numéros de catalogue consistants lorsque possible, mais ne garantit pas leur persistance ni leur permanence. Si un code d’identification ne fonctionne pas comme prévu lors d’une recherche, contactez-nous et nous pourrons vous aider.
 
