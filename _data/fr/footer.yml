@@ -6,25 +6,25 @@ columns:
   - description: |
       [<img alt="The Beaty Biodiversity logo" src="/assets/images/beaty-logo-horizontal.png"/>](https://beatymuseum.ubc.ca)
       <img alt="Funded by the Government of Canada" src="/assets/logo/funded-by-government-of-canada-fr.jpg"/>
-  - name: Contact
+  - name: Coordonnées
     description: | # Can be Markdown
       * 2212 Main Mall
       * Vancouver, Canada, V6T 1Z4
-      * [Main website](https://www.beatymuseum.ubc.ca/)  
-      * [Email us](mailto:info@beatymuseum.ubc.ca)
+      * [Site principal](https://www.beatymuseum.ubc.ca/)  
+      * [Nous écrire](mailto:info@beatymuseum.ubc.ca)
     connectIcons: false
   - name: Code
     description: |
-      * The code for this site is open source under an Apache-2.0 license
+      * Ce site est programmé en code ouvert sous licence libre Apache 2.0
       * [Code](https://github.com/gbif/hp-beaty-biodiversity-museum)
-      * [Release Notes](https://github.com/gbif/hp-beaty-biodiversity-museum/releases)
-  - name: Content license
+      * [Notes de version](https://github.com/gbif/hp-beaty-biodiversity-museum/releases)
+  - name: Licence de contenu
     description: |
-      * Unless otherwise noted:
+      * Sauf indication contraire
       * <img src="/assets/icons/cc.png" width="24"/>
         <img src="/assets/icons/by.png" width="24"/>
         <img src="/assets/icons/sa.png" width="24"/>
-  - name: Status
+  - name: État
     iframe: |
       <iframe src="https://status.beatymuseum.ubc.ca/badge?theme=light" width="250" height="30" frameborder="0" scrolling="no"></iframe>
 
