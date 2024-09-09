@@ -9,7 +9,7 @@ permalink: /fr/archive
 
 Pour télécharger une version antérieure, cliquez sur le bouton approprié. Cette opération ouvrira la page IPT de cette version, qui contiendra les liens de téléchargement pour les données en format DwC-A, et Metadata en EML ou RTF.
 
-{% for archive in site.data.archives %}
+{% for archive in site.data.fr.archives %}
 <h1>
 {{ archive.title }}
 </h1>
