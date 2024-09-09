@@ -15,7 +15,7 @@ description: |
 
       <!-- Tab content -->
       <div id="searchTab_name" class="tabcontent" style="display: block;">
-        <form action="/specimen/search" method="GET">
+        <form action="/fr/specimen/search" method="GET">
           <input id="home_specimen_input" name="q" class="input" type="text" placeholder="Essayer Vulpes vulpes" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query">
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -26,7 +26,7 @@ description: |
       </div>
 
       <div id="searchTab_catalogNumber" class="tabcontent">
-        <form action="/specimen/search" method="GET">
+        <form action="/fr/specimen/search" method="GET">
           <input id="catalogNumber" name="catalogNumber" class="input" type="text" placeholder="Essayer M000001 ou V1" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query" >
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
