@@ -3,38 +3,38 @@
 - text: Collections
   menu:
     - text: Collection de tétrapodes Cowan
-      href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
+      href: /fr/collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
     - text: Collection de poissons
-      href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
+      href: /fr/collection/5aee131f-91dd-4b78-bfee-296f86801b7f
     - text: Collection de fossiles
-      href: /collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7
+      href: /fr/collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7
     - text: Herbier de l'UBC
-      href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
+      href: /fr/collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
     - text: Collection d'invertébrés marins
-      href: /collection/403e3c1f-086f-461b-9718-60537ee4ce3c
+      href: /fr/collection/403e3c1f-086f-461b-9718-60537ee4ce3c
     - text: Collection entomologique Spencer
-      href: /collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
+      href: /fr/collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
 - text: Ensembles de données
   menu:
     - text: Algues
-      href: /dataset/90302970-1bc6-4865-be76-9aef1dd707f9
+      href: /fr/dataset/90302970-1bc6-4865-be76-9aef1dd707f9
     - text: Oiseaux
-      href: /dataset/ba0c046d-52bb-4262-a495-652988c9f3f7
+      href: /fr/dataset/ba0c046d-52bb-4262-a495-652988c9f3f7
     - text: Bryophytes
-      href: /dataset/4edd9396-59df-4b01-9e29-dc21a59f9963
+      href: /fr/dataset/4edd9396-59df-4b01-9e29-dc21a59f9963
     - text: Entomologie
-      href: /dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8
+      href: /fr/dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8
     - text: Poisson
-      href: /dataset/4caf2040-83ad-4fa7-ba13-005bced721eb
+      href: /fr/dataset/4caf2040-83ad-4fa7-ba13-005bced721eb
     - text: Champignons
-      href: /dataset/ca1bcd7e-7387-42f9-81ba-1470db55e3e8
+      href: /fr/dataset/ca1bcd7e-7387-42f9-81ba-1470db55e3e8
     - text: Herpétologie
-      href: /dataset/df9c8b86-9d36-4e29-91b3-4274dff053e5
+      href: /fr/dataset/df9c8b86-9d36-4e29-91b3-4274dff053e5
     - text: Lichen
-      href: /dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649
+      href: /fr/dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649
     - text: Plantes vasculaires
-      href: /dataset/07fd0d79-4883-435f-bba1-58fef110cd13
+      href: /fr/dataset/07fd0d79-4883-435f-bba1-58fef110cd13
 - text: Spécimens
-  href: /specimen/search
+  href: /fr/specimen/search
 - text: Nous contacter
   href: https://beatymuseum.ubc.ca/contact

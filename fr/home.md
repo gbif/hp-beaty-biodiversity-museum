@@ -80,10 +80,10 @@ cta:
 permalink: /fr
 composition:
   - type: heroImage # the block type
-  - data: home.stats
+  - data: fr.home.stats
     type: stats
   - type: features
-    data: home.collectionsPreview
+    data: fr.home.collectionsPreview
 ---
 
 

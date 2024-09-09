@@ -6,5 +6,5 @@ language: fr
 language-ref: collections
 composition:
   - type: features
-    data: collections
+    data: fr.collections
 ---

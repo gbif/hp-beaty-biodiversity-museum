@@ -6,5 +6,5 @@ lang-ref: datasets
 permalink: /fr/datasets
 composition:
   - type: features
-    data: datasets
+    data: fr.datasets
 ---

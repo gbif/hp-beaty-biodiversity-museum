@@ -1,72 +1,72 @@
-title: Datasets
+title: Ensembles de données
 description: |
-  Individual subunits of collections at the museum. Datasets allow you to download and cite data.
+  Sous-unités des collections du musée. Les ensembles de données vous permettent de télécharger et de citer des données.
 features:
-  - preTitle: Cowan Tetrapod Collection # optional
-    title: Birds # required
+  - preTitle: Collection de tétrapodes Cowan # optional
+    title: Oiseaux
     description: | # required
-      The Cowan Tetrapod Collection avian holdings of 1,803 species represent 160 families is comprised of over 16,500 study skins, 820 skeletons, 600 mounts, and 7,735 egg clutches.
+      Les spécimens aviaires de la collection de tétrapodes Cowan représentent 1 803 espèces provenant de 160 familles différentes. La collection compte plus de 16 500 peaux d’étude, 820 squelettes, 600 taxidermies, et 7 735 couvées d’œufs.
     # img required
     background: /assets/images/bird-card-image.jpg
     href: /dataset/ba0c046d-52bb-4262-a495-652988c9f3f7
-  - preTitle: Cowan Tetrapod Collection # optional
-    title: Mammals # required
+  - preTitle: Collection de tétrapodes Cowan # optional
+    title: Mammifères # required
     description: | # required
-      The Cowan Tetrapod Collection mammal holdings of 540 species in 95 families is comprised of over 20,000 specimens. Global in scope, the collection is especially strong in specimens collected from Western Canada and southern Africa.
+      Les spécimens mammifères de la collection de tétrapodes Cowan représentent 540 espèces provenant de 95 familles différentes. Cette collection de portée globale est particulièrement riche en spécimens recueillis dans l’Ouest canadien et en Afrique australe.
     # img required
     background: /assets/images/mammals-card-image.jpg
     href: /dataset/3ad882bb-cd21-4201-8b83-3684bfc6d830
-  - preTitle: Cowan Tetrapod Collection # optional
-    title: Herpetology # required
+  - preTitle: Collection de tétrapodes Cowan # optional
+    title: Herpétologie
     description: | # required
-      The Cowan Tetrapod Collection herpetology holdings of 206 species is principally a North American synoptic collection. 84% of the living species known to occur in British Columbia are represented.
+      Le catalogue herpétologique de la collection de tétrapodes Cowan, principalement synoptique de l’Amérique du Nord, est constitué de 206 espèces différentes, parmi lesquelles sont représentées 84 % des espèces vivantes connues en Colombie-Britannique.
     # img required
     background: /assets/images/herpetology-card-image.jpg
     href: /dataset/df9c8b86-9d36-4e29-91b3-4274dff053e5
-  - preTitle: Spencer Entomology Collection # optional
-    title: Entomology # required
+  - preTitle: Collection entomologique Spencer
+    title: Entomologie
     description: | # required
-      Over half a million pinned specimens, 75,000 alcohol-preserved specimens and 25,000 specimens on slides showcase BC and the Yukon’s spectacular insect diversity. Past collectors’ particular projects have shaped the collection, and have resulted in particularly strong holdings of Hemiptera (true bugs), Odonata (dragonflies and damselflies), Siphonaptera (fleas) and Anoplura and Mallophaga (lice).
+      Plus d’un demi-million de spécimens épinglés, 75 000 spécimens préservés dans l’alcool et 25 000 spécimens sur lames mettent en valeur la diversité spectaculaire d’insectes de la Colombie-Britannique et du Yukon. Les projets particuliers d’anciens collectionneurs ont façonné la collection, engendrant la création de catalogues particulièrement riches d’Hemiptera (vrais insectes), d’Odonata (libellules et demoiselles), de Siphonaptera (puces) et d’Anoplura et de Mallophaga (poux).
     background: /assets/images/sec-card-image.jpg
     href: /dataset/9c45867f-f77d-42f3-9751-ae16bb7c9bc8
-  - preTitle: Fish Collection
-    title: Fish
+  - preTitle: Collection de poissons
+    title: Poissons
     description: |
-      The UBC-BBM Fish Collection (University of British Columbia, Beaty Biodiversity Museum, UBFC), was begun by Dr. C. McLean Fraser in the Department of Zoology in the 1910s. It was officially created in 1945 when the cataloguing was started. It has been managed by different UBC institutes and departments until 2010 when the BBM was created. The computerization started in 1975. The oldest specimen was collected in 1903.
+      La collection de poissons de l’Université de la Colombie-Britannique et du Beaty Biodiversity Museum a été établie dans les années 1910 par le Dr C. McLean Fraser au département de Zoologie. Sa création officielle voit le jour en 1945 lorsque débute le catalogage. Elle a été gérée par différents instituts et départements de l’Université de la Colombie-Britannique jusqu’à l’ouverture du Beaty Biodiversity Museum en 2010. L’informatisation a débuté en 1975. Le plus ancien spécimen a été recueilli en 1903.
     background: /assets/images/fish-card-image.jpg
     href: /dataset/4caf2040-83ad-4fa7-ba13-005bced721eb
-  - preTitle: Herbarium # optional
-    title: Algae # required
+  - preTitle: Herbier de l’UBC
+    title: Algues # required
     description: | # required
-      This dataset includes all digitized algae in the UBC collection, encompassing approximately 80% of the collection. The algal collection is composed of mainly macroscopic algae, with significant representation of seaweeds of the Northeast Pacific Ocean. The collection also includes packages of organisms such as diatoms, dinoflagellates, and water moulds. Some blue-green algae are also represented.
+      Cet ensemble de données comprend toutes les algues numérisées de la collection de l’UBC, représentant environ 80 % de celle-ci. La collection algale est composée principalement d’algues macroscopiques, incluant une quantité importante d’algues du Pacifique nord-est. Elle comprend aussi des diatomées, des dinoflagellés et des oomycètes, ainsi que quelques cyanobactéries.
     # img required
     background: /assets/images/algae-card-image.jpg
     href: /dataset/90302970-1bc6-4865-be76-9aef1dd707f9
-  - preTitle: Herbarium # optional
+  - preTitle: Herbier de l’UBC
     title: Bryophytes # required
     description: | # required
-      The UBC bryophyte collection houses mosses, liverworts, and hornworts and is a tribute to the career of Dr. Wilf Schofield, who came to UBC in 1960. Professor Schofield was the first bryologist hired at a Canadian university. When he started at UBC, the collection included roughly 3,000 specimens. As a result of Dr. Schofield’s efforts and those of his students and post-doctoral researchers, the collection has grown to over 250,000 specimens, a considerable legacy.
+      La collection de bryophytes de l’UBC inclut des mousses, des hépatiques et des anthocéros et témoigne de la fructueuse carrière du Dr Wilf Schofield, arrivé à l’UBC en 1960 en tant que premier bryologue embauché dans une université canadienne. À ses débuts à l’UBC, la collection comptait environ 3 000 spécimens. Grâce aux efforts du Dr Schofield et de ses étudiants et ses chercheurs postdoctoraux, la collection compte aujourd’hui plus de 250 000 spécimens, un héritage considérable.
     # img required
     background: /assets/images/bryophytes-card-image.jpg
     href: /dataset/4edd9396-59df-4b01-9e29-dc21a59f9963
-  - preTitle: Herbarium # optional
-    title: Fungi # required
+  - preTitle: Herbier de l’UBC
+    title: Champignons # required
     description: | # required
-      This dataset includes all digitized fungi in the UBC collection, encompassing approximately 95% of the collection. Fungi are organisms with nuclei-containing cells that get their nutrients by breaking down organic material. Lichens are symbiotic associations between certain types of fungi and algae. The fungi are the structure ‘house’ and the algae make the food ‘chief’ by photosynthesizing.
+      Cet ensemble de données inclut tous les champignons numérisés de la collection de l’UBC, représentant environ 95 % de celle-ci. Les champignons sont des organismes dont les cellules contiennent des noyaux et qui absorbent leurs nutriments en décomposant les matières organiques. Les lichens sont des associations symbiotiques entre certains types de champignons et d’algues. Les champignons sont la « maison » structure et les algues font de la nourriture le « chef » en photosynthétisant.
     # img required
     background: /assets/images/fungi-card-image.jpg
     href: /dataset/ca1bcd7e-7387-42f9-81ba-1470db55e3e8
-  - preTitle: Herbarium # optional
-    title: Lichen # required
+  - preTitle: Herbier de l’UBC
+    title: Lichens # required
     description: | # required
-      With 40,000 lichen specimens catalogued to date, the UBC Herbarium houses one of the largest lichen collections in western North America. We have a very solid macrolichen collection, with a strong focus on cyanolichens, especially the genus Peltigera. For this genus, at least, this is certainly the largest collection in North America.
+      Avec 40 000 spécimens catalogués à ce jour, l’herbier de l’UBC abrite l’une des plus grandes collections de lichens dans l’ouest de l’Amérique du Nord. Nous avons une collection substantielle de macrolichens, avec une forte concentration de cyanolichens, surtout du genre Peltigera. Il s’agit certainement de la plus grande collection d’organismes de ce genre en Amérique du Nord.
     # img required
     background: /assets/images/lichen-card-image.jpg
     href: /dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649
-  - preTitle: Herbarium # optional
-    title: Vascular Plants # required
+  - preTitle: Herbier de l’UBC
+    title: Plantes vasculaires
     description: | # required
-      This dataset includes all digitized vascular plants in the UBC collection, encompassing approximately 68% of the collection. The UBC Herbarium has one of the world's largest collections of British Columbia vascular plants and is worldwide in scope. At present, the collection includes more than 235,000 accessioned specimens.
+      Cet ensemble de données comprend toutes les plantes vasculaires numérisées de la collection de l’UBC, représentant environ 68 % de ses spécimens. L’herbier de l’UBC abrite l’une des plus grandes collections mondiales de plantes vasculaires de Colombie-Britannique. La collection de portée mondiale compte actuellement plus de 235 000 spécimens répertoriés.
     # img required
     background: /assets/images/vascular-card-image.jpg
     href: /dataset/07fd0d79-4883-435f-bba1-58fef110cd13
