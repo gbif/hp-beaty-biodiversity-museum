@@ -34,26 +34,26 @@ collectionsPreview:
   cta:
     - text: Ensembles de données
       aria: "Go to datasets page"
-      href: /datasets
+      href: /fr/datasets
       isPrimary: true
   features:
     - title: Collection de tétrapodes Cowan
       description: La collection de tétrapodes Cowan a été fondée en 1943, mais le plus ancien spécimen date de 1849. Avec plus de 40 000 spécimens représentant plus de 2 500 espèces, elle est la deuxième collection scientifique d’oiseaux, de mammifères, de reptiles et d’amphibiens en Colombie-Britannique.
       background: assets/images/bird-card-image.jpg
-      href: /collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
+      href: /fr/collection/3b2ad644-b3e4-4ac9-a57f-23be3f86ed0e
       aria: "Go to the cowan tetrapod collection"
     - title: Collection entomologique Spencer
       description: Plus d’un demi-million de spécimens épinglés, 75 000 spécimens préservés dans l’alcool et 25 000 spécimens sur lames mettent en valeur la diversité spectaculaire d’insectes de la Colombie-Britannique et du Yukon. Les projets particuliers d’anciens collectionneurs ont façonné la collection, engendrant la création de catalogues particulièrement riches d’Hemiptera (vrais insectes), d’Odonata (libellules et demoiselles), de Siphonaptera (puces) et d’Anoplura et de Mallophaga (poux).
       background: assets/images/sec-card-image.jpg
-      href: /collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
+      href: /fr/collection/8f5f5b6f-28c6-44b4-8f21-98c55eaae203
       aria: "Go to the specimen entomology collection"
     - title: Collection de poissons
       description: La collection de poissons de l’Université de la Colombie-Britannique et du Beaty Biodiversity Museum a été établie dans les années 1910 par le Dr C. McLean Fraser au département de Zoologie. Sa création officielle voit le jour en 1945 lorsque débute le catalogage. Elle a été gérée par différents instituts et départements de l’Université de la Colombie-Britannique jusqu’à l’ouverture du Beaty Biodiversity Museum en 2010. L’informatisation a débuté en 1975. Le plus ancien spécimen a été recueilli en 1903.
       background: /assets/images/fish-card-image.jpg
-      href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
+      href: /fr/collection/5aee131f-91dd-4b78-bfee-296f86801b7f
       aria: "Go to the fish collection"
     - title: Herbier de l’UBC
       description: L’herbier de l’UBC est le plus important de l’Ouest canadien et abrite plus d’un demi-million de spécimens végétaux provenant du monde entier. Cette collection est essentielle pour l’identification, l’observation et la conservation de la biodiversité végétale en Colombie-Britannique, et constitue une ressource importante pour la recherche scientifique et l’éducation.
       background: assets/images/vascular-card-image.jpg
-      href: /collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
+      href: /fr/collection/b44fcb7f-1227-4fa3-8ed2-de27aabb06e0
       aria: "Go to the UBC herbarium"
