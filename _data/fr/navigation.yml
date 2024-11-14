@@ -1,5 +1,3 @@
-- text: À propos
-  href: /fr/about
 - text: Collections
   menu:
     - text: Collection de tétrapodes Cowan
@@ -36,7 +34,7 @@
       href: /fr/specimen/search?datasetKey=3ad882bb-cd21-4201-8b83-3684bfc6d830
     - text: Plantes vasculaires
       href: /fr/specimen/search?datasetKey=07fd0d79-4883-435f-bba1-58fef110cd13
-- text: Spécimens
+- text: Tous les Spécimens
   href: /fr/specimen/search
 - text: Nous contacter
   href: https://beatymuseum.ubc.ca/contact

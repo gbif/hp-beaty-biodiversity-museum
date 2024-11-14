@@ -10,13 +10,25 @@ description: |
       <div class="tab">
         <button class="tablinks active" onclick="openTab(event, 'searchTab_name')">
           Recherche générale</button>
+        <button class="tablinks " onclick="openTab(event, 'searchTab_scientificName')">Recherche par nom scientifique</button>
         <button class="tablinks " onclick="openTab(event, 'searchTab_catalogNumber')">Recherche par numéro de catalogue</button>
       </div>
 
       <!-- Tab content -->
       <div id="searchTab_name" class="tabcontent" style="display: block;">
-        <form action="/fr/specimen/search" method="GET">
-          <input id="home_specimen_input" name="q" class="input" type="text" placeholder="Essayer Vulpes vulpes" style="width: 100%;">
+        <form action="/specimen/search" method="GET">
+          <input id="home_specimen_input" name="q" class="input" type="text" placeholder="Essayez Vancouver" style="width: 100%;">
+          <button type="submit" class="button is-ghost" aria-label="submit the search query">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+            </svg>
+          </button>
+        </form>
+      </div>
+
+      <div id="searchTab_scientificName" class="tabcontent">
+        <form action="/specimen/search" method="GET">
+          <input id="verbatimScientificName" name="verbatimScientificName" class="input" type="text" placeholder="Doit être Genus + species ou Genus*" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query">
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
             <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
@@ -26,8 +38,8 @@ description: |
       </div>
 
       <div id="searchTab_catalogNumber" class="tabcontent">
-        <form action="/fr/specimen/search" method="GET">
-          <input id="catalogNumber" name="catalogNumber" class="input" type="text" placeholder="Essayer M000001 ou V1" style="width: 100%;">
+        <form action="/specimen/search" method="GET">
+          <input id="catalogNumber" name="catalogNumber" class="input" type="text" placeholder="Essayer M000001 or V000001" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query" >
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
             <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
@@ -35,7 +47,36 @@ description: |
           </button>
         </form>
       </div>
+  </div>
+
+  <p class="orSeperator">Ou</p>
+  <div>
+    <div class="heroButton">
+        <a href="/specimen/search">Parcourir toutes les fiches</a>
     </div>
+    <div id="helpButton" class="heroButton">
+        A propos des termes du filtre
+    </div>
+    </div>
+    <div id="myModal" class="modal">
+    <div class="help-content">
+        <span class="close">&times;</span>
+    <h4>Les filtres de recherche suivants sont utiles pour parcourir les enregistrements dans la vue en tableau</h4>
+    <ol>
+    <li>
+    Nom scientifique : L'utilisation de ce filtre de recherche permet de faire apparaître des suggestions au fur et à mesure de la saisie. Notez que les suggestions concernent l'ensemble de l'arbre de vie, et pas seulement l'ensemble de données dans lequel vous effectuez votre recherche.
+    </li>
+    <li>
+    Nom scientifique Verbatim : Utilisez une recherche textuelle portant spécifiquement sur le nom scientifique. Aucune suggestion n'apparaîtra et vous pouvez utiliser les caractères génériques * et ?. <strong>Le nom scientifique textuel est celui qui est utilisé dans la boîte de recherche ci-dessus.</strong>
+        </li>
+    <li>
+    Recherche textuelle : Recherche dans tous les champs. Les caractères génériques <i>ne sont pas pris en charge</i>. Les mots sont recherchés indépendamment les uns des autres. Ainsi, Bob Smith renverra tous les enregistrements contenant Bob ou Smith. Ce filtre s'appliquant à tous les champs, les résultats peuvent être plus larges que prévu.
+    </li>
+    </ol>
+    <p>Intéressé par d'autres filtres de recherche? Cliquez <a href="https://beatybiodiversitymuseum.github.io/data-documentation/reference/filter-terms">ici</a> pour obtenir une liste complète de toutes les options de filtrage et de leur fonction.</p>
+    </div>
+    </div>
+
     <script>
       window.setTimeout(function() {
         let a = document.getElementById('headline-offset');
@@ -63,20 +104,35 @@ description: |
         document.getElementById(tabName).style.display = "block";
         evt.currentTarget.className += " active";
       }
+      var modal = document.getElementById("myModal");
+
+      var btn = document.getElementById("helpButton");
+
+      var span = document.getElementsByClassName("close")[0];
+
+      btn.onclick = function() {
+        modal.style.display = "block";
+      }
+
+      span.onclick = function() {
+        modal.style.display = "none";
+      }
+
+      window.onclick = function(event) {
+        if (event.target == modal) {
+          modal.style.display = "none";
+        }
+      }
     </script>
-    <p class="orSeperator">Ou</p>
+
+        
+    
 background: /assets/images/hero-image.jpg
 imageLicense: |
   <em>Sanguinaria canadensis</em> L. Photo by Suzanne Labbé via [iNaturalist](https://www.gbif.org/occurrence/3764124042)
 height: 100vh
 parallax: true
 klass: home
-cta:
-  - text: Parcourir toutes les fiches
-    href: /fr/specimen/search/
-    isPrimary: true
-  - text: Ensembles de données
-    href: /fr/datasets
 permalink: /fr
 composition:
   - type: heroImage # the block type
