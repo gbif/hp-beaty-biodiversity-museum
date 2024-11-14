@@ -66,7 +66,7 @@ description: |
   Scientific Name: Using this search filter will enable suggestions to appear as you type. Note that the suggestions are for all of the tree of life, not just the dataset you are searching in.
   </li>
   <li>
-  Verbatim Scientific Name: Use a text search specifically on scientific name. No suggestions will appear, and you may use * and ? wildcards. <strong>Verbatim scientific name is what is used in the search box above.</strong>
+  Verbatim Scientific Name: Use a text search specifically on scientific name. No suggestions will appear, and you may use * and ? wildcards.
   </li>
   <li>
   Text search: Search across all fields. Wildcards are <i>not</i> supported. Words are searched independently, so Bob Smith will return all records that have either Bob or Smith. Because this filter works across all fields, results may be broader than expected.

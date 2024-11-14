@@ -67,7 +67,7 @@ description: |
     Nom scientifique : L'utilisation de ce filtre de recherche permet de faire apparaître des suggestions au fur et à mesure de la saisie. Notez que les suggestions concernent l'ensemble de l'arbre de vie, et pas seulement l'ensemble de données dans lequel vous effectuez votre recherche.
     </li>
     <li>
-    Nom scientifique Verbatim : Utilisez une recherche textuelle portant spécifiquement sur le nom scientifique. Aucune suggestion n'apparaîtra et vous pouvez utiliser les caractères génériques * et ?. <strong>Le nom scientifique textuel est celui qui est utilisé dans la boîte de recherche ci-dessus.</strong>
+    Nom scientifique Verbatim : Utilisez une recherche textuelle portant spécifiquement sur le nom scientifique. Aucune suggestion n'apparaîtra et vous pouvez utiliser les caractères génériques * et ?. 
         </li>
     <li>
     Recherche textuelle : Recherche dans tous les champs. Les caractères génériques <i>ne sont pas pris en charge</i>. Les mots sont recherchés indépendamment les uns des autres. Ainsi, Bob Smith renverra tous les enregistrements contenant Bob ou Smith. Ce filtre s'appliquant à tous les champs, les résultats peuvent être plus larges que prévu.
