@@ -52,7 +52,7 @@ description: |
   <p class="orSeperator">Ou</p>
   <div>
     <div class="heroButton">
-        <a href="/specimen/search">Parcourir toutes les fiches</a>
+        <a href="/fr/specimen/search">Parcourir toutes les fiches</a>
     </div>
     <div id="helpButton" class="heroButton">
         A propos des termes du filtre
