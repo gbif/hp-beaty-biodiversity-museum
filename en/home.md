@@ -28,7 +28,7 @@ description: |
 
       <div id="searchTab_scientificName" class="tabcontent">
         <form action="/specimen/search" method="GET">
-          <input id="verbatimScientificName" name="verbatimScientificName" class="input" type="text" placeholder="Try Vulpes vulpes" style="width: 100%;">
+          <input id="verbatimScientificName" name="verbatimScientificName" class="input" type="text" placeholder="Must be Genus + species" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query">
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
             <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
@@ -39,7 +39,7 @@ description: |
 
       <div id="searchTab_catalogNumber" class="tabcontent">
         <form action="/specimen/search" method="GET">
-          <input id="catalogNumber" name="catalogNumber" class="input" type="text" placeholder="Try M000001 or V1" style="width: 100%;">
+          <input id="catalogNumber" name="catalogNumber" class="input" type="text" placeholder="Try M000001 or V000001" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query" >
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
             <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
@@ -51,7 +51,7 @@ description: |
   <p class="orSeperator">Or</p>
   <div>
   <div class="heroButton">
-      Browse all records
+      <a href="/specimen/search">Browse all records</a>
   </div>
   <div id="helpButton" class="heroButton">
       About filter terms
@@ -66,13 +66,13 @@ description: |
   Scientific Name: Using this search filter will enable suggestions to appear as you type. Note that the suggestions are for all of the tree of life, not just the dataset you are searching in.
   </li>
   <li>
-  Verbatim Scientific Name: Use a text search specifically on scientific name. No suggestions will appear, and you may use * and ? wildcards.
+  Verbatim Scientific Name: Use a text search specifically on scientific name. No suggestions will appear, and you may use * and ? wildcards. <strong>Verbatim scientific name is what is used in the search box above.</strong>
   </li>
   <li>
   Text search: Search across all fields. Wildcards (* and ?) are supported. Words are searched independently, so Bob Smith will return all records that have either Bob or Smith. Because this filter works across all fields, results may be broader than expected.
   </li>
   </ol>
-  <p>Interested in more search filters? Click <a href="https://beatybiodiversitymuseum.github.io/data-documentation/portal/filter-terms">here</a> for a full list of all filter options and what they do.</p>
+  <p>Interested in more search filters? Click <a href="https://beatybiodiversitymuseum.github.io/data-documentation/reference/filter-terms">here</a> for a full list of all filter options and what they do.</p>
   </div>
   </div>
   <script>
