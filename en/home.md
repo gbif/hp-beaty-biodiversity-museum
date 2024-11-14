@@ -9,14 +9,26 @@ description: |
       <!-- Tab links -->
       <div class="tab">
         <button class="tablinks active" onclick="openTab(event, 'searchTab_name')">
-          General search</button>
+          General Search</button>
+        <button class="tablinks " onclick="openTab(event, 'searchTab_scientificName')">Search by Scientific Name</button>
         <button class="tablinks " onclick="openTab(event, 'searchTab_catalogNumber')">Search by Catalogue Number</button>
       </div>
 
       <!-- Tab content -->
       <div id="searchTab_name" class="tabcontent" style="display: block;">
         <form action="/specimen/search" method="GET">
-          <input id="home_specimen_input" name="q" class="input" type="text" placeholder="Try Vulpes vulpes" style="width: 100%;">
+          <input id="home_specimen_input" name="q" class="input" type="text" placeholder="Try Vancouver" style="width: 100%;">
+          <button type="submit" class="button is-ghost" aria-label="submit the search query">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+            </svg>
+          </button>
+        </form>
+      </div>
+
+      <div id="searchTab_scientificName" class="tabcontent">
+        <form action="/specimen/search" method="GET">
+          <input id="verbatimScientificName" name="verbatimScientificName" class="input" type="text" placeholder="Try Vulpes vulpes" style="width: 100%;">
           <button type="submit" class="button is-ghost" aria-label="submit the search query">
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
             <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
@@ -35,8 +47,35 @@ description: |
           </button>
         </form>
       </div>
-    </div>
-    <script>
+  </div>
+  <p class="orSeperator">Or</p>
+  <div>
+  <div class="heroButton">
+      Browse all records
+  </div>
+  <div id="helpButton" class="heroButton">
+      About filter terms
+  </div>
+  </div>
+  <div id="myModal" class="modal">
+  <div class="help-content">
+      <span class="close">&times;</span>
+  <h4>The following search filters are helpful when browsing records in the table view</h4>
+  <ol>
+  <li>
+  Scientific Name: Using this search filter will enable suggestions to appear as you type. Note that the suggestions are for all of the tree of life, not just the dataset you are searching in.
+  </li>
+  <li>
+  Verbatim Scientific Name: Use a text search specifically on scientific name. No suggestions will appear, and you may use * and ? wildcards.
+  </li>
+  <li>
+  Text search: Search across all fields. Wildcards (* and ?) are supported. Words are searched independently, so Bob Smith will return all records that have either Bob or Smith. Because this filter works across all fields, results may be broader than expected.
+  </li>
+  </ol>
+  <p>Interested in more search filters? Click <a href="https://beatybiodiversitymuseum.github.io/data-documentation/portal/filter-terms">here</a> for a full list of all filter options and what they do.</p>
+  </div>
+  </div>
+  <script>
       window.setTimeout(function() {
         let a = document.getElementById('headline-offset');
         if (a !== undefined && a !== null) {
@@ -63,20 +102,33 @@ description: |
         document.getElementById(tabName).style.display = "block";
         evt.currentTarget.className += " active";
       }
-    </script>
-    <p class="orSeperator">Or</p>
+      var modal = document.getElementById("myModal");
+
+      var btn = document.getElementById("helpButton");
+
+      var span = document.getElementsByClassName("close")[0];
+
+      btn.onclick = function() {
+        modal.style.display = "block";
+      }
+
+      span.onclick = function() {
+        modal.style.display = "none";
+      }
+
+      window.onclick = function(event) {
+        if (event.target == modal) {
+          modal.style.display = "none";
+        }
+      }
+  </script>
+
 background: /assets/images/hero-image.jpg
 imageLicense: |
   <em>Sanguinaria canadensis</em> L. Photo by Suzanne Labbé via [iNaturalist](https://www.gbif.org/occurrence/3764124042)
 height: 100vh
 parallax: true
 klass: home
-cta:
-  - text: Browse all records 
-    href: /specimen/search/
-    isPrimary: true
-  - text: Datasets
-    href: /datasets
 permalink: /
 composition:
   - type: heroImage # the block type
