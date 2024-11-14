@@ -69,7 +69,7 @@ description: |
   Verbatim Scientific Name: Use a text search specifically on scientific name. No suggestions will appear, and you may use * and ? wildcards. <strong>Verbatim scientific name is what is used in the search box above.</strong>
   </li>
   <li>
-  Text search: Search across all fields. Wildcards (* and ?) are supported. Words are searched independently, so Bob Smith will return all records that have either Bob or Smith. Because this filter works across all fields, results may be broader than expected.
+  Text search: Search across all fields. Wildcards are <i>not</i> supported. Words are searched independently, so Bob Smith will return all records that have either Bob or Smith. Because this filter works across all fields, results may be broader than expected.
   </li>
   </ol>
   <p>Interested in more search filters? Click <a href="https://beatybiodiversitymuseum.github.io/data-documentation/reference/filter-terms">here</a> for a full list of all filter options and what they do.</p>
