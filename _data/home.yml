@@ -50,6 +50,11 @@ collectionsPreview:
       background: /assets/images/fish-card-image.jpg
       href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
       aria: "Go to the fish collection"
+    - title: Fossils
+      description: The UBC Fossil Collection was started in 1924 by Dr. Merton Yarwood Williams, who was a founding member of what was then UBC’s Department of Geology. The collection began with the purchase of specimens from W.J. Sutton, a local mining engineer. It expanded substantially in the 1970s and 1980s with the curatorial efforts of Joe Nagel, curator from 1971 to 1995. The Fossil Collection then became part of the Pacific Museum of Earth, Department of Earth, Ocean and Atmospheric Sciences, UBC, and now resides in the Beaty Biodiversity Museum at UBC.
+      background: assets/images/fossil-card-image.jpg
+      href: /collection/1fcf0cb0-aa26-40d0-8311-fb4b6f2050f7
+      aria: "Go to Fossil Collection"
     - title: UBC Herbarium
       description: The University of British Columbia Herbarium is the largest in western Canada and is home to over half a million plant specimens from around the world. This collection is critical to the identification, monitoring, and conservation of plant biodiversity in British Columbia, and is an important resource for scientific research and education.
       background: assets/images/vascular-card-image.jpg

@@ -63,6 +63,12 @@ features:
     # img required
     background: /assets/images/lichen-card-image.jpg
     href: /dataset/628abbe5-dc8d-41e9-a0c7-f05efe282649
+  - preTitle: Paleontology
+    title: Fossils
+    description: |
+      This dataset includes a small fraction of the total collection, which is now being digitized. More specimens will be added to this dataset as they become available.
+    background: /assets/images/fossil-card-image.jpg
+    href: /dataset/86e3e77d-8fc7-432f-8835-efe87f7248b3
   - preTitle: Herbarium # optional
     title: Vascular Plants # required
     description: | # required
