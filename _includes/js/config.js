@@ -84,6 +84,7 @@ var siteConfig = {
         "df9c8b86-9d36-4e29-91b3-4274dff053e5",
         "4caf2040-83ad-4fa7-ba13-005bced721eb",
         "86e3e77d-8fc7-432f-8835-efe87f7248b3",
+        "6045cef2-ae1b-486f-a321-6466f3130c10",
       ],
     },
     occurrenceSearchTabs: ["TABLE", "MAP", "GALLERY", "CLUSTERS", "DASHBOARD"], // what tabs should be shown
