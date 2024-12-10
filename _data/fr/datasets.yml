@@ -69,10 +69,14 @@ features:
       Cet ensemble de données ne comprend qu'une petite partie de la collection totale, qui est actuellement en cours de numérisation. D'autres spécimens seront ajoutés à ce jeu de données dès qu'ils seront disponibles.
     background: /assets/images/fossil-card-image.jpg
     href: /dataset/86e3e77d-8fc7-432f-8835-efe87f7248b3
+  - preTitle: Collection d’invertébrés marins
+    title: Collection d’invertébrés marins
+    description: La collection d’invertébrés marins a été lancée dans les années 1940 avec des spécimens préservés dans l’alcool recueillis par le Dr C. McLean Fraser et le Dr Ian McTaggart-Cowan, et était principalement utilisée pour l’enseignement. Elle compte aujourd’hui des milliers de spécimens représentant les grandes familles d’animaux invertébrés.
+    background: assets/images/marine-invertebrate-card-image.jpg
+    href: /dataset/6045cef2-ae1b-486f-a321-6466f3130c10
   - preTitle: Herbier de l’UBC
     title: Plantes vasculaires
-    description: | # required
+    description: |
       Cet ensemble de données comprend toutes les plantes vasculaires numérisées de la collection de l’UBC, représentant environ 68 % de ses spécimens. L’herbier de l’UBC abrite l’une des plus grandes collections mondiales de plantes vasculaires de Colombie-Britannique. La collection de portée mondiale compte actuellement plus de 235 000 spécimens répertoriés.
-    # img required
     background: /assets/images/vascular-card-image.jpg
     href: /dataset/07fd0d79-4883-435f-bba1-58fef110cd13

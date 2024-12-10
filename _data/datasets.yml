@@ -69,9 +69,15 @@ features:
       This dataset includes a small fraction of the total collection, which is now being digitized. More specimens will be added to this dataset as they become available.
     background: /assets/images/fossil-card-image.jpg
     href: /dataset/86e3e77d-8fc7-432f-8835-efe87f7248b3
-  - preTitle: Herbarium # optional
-    title: Vascular Plants # required
-    description: | # required
+  - preTitle: Marine Invertebrates
+    title: Marine Invertebrates
+    description: |
+      The Marine Invertebrate collection of the University of British Columbia was started in the 1940s with alcohol-preserved specimens collected by Dr. C. McLean Fraser and Dr. Ian McTaggart-Cowan. Primarily used for teaching, the collection eventually grew to several thousand specimens representing the major lineages of invertebrate animals.
+    background: /assets/images/marine-invertebrate-card-image.jpg
+    href: /dataset/6045cef2-ae1b-486f-a321-6466f3130c10
+  - preTitle: Herbarium
+    title: Vascular Plants
+    description: |
       This dataset includes all digitized vascular plants in the UBC collection, encompassing approximately 68% of the collection. The UBC Herbarium has one of the world's largest collections of British Columbia vascular plants and is worldwide in scope. At present, the collection includes more than 235,000 accessioned specimens.
     # img required
     background: /assets/images/vascular-card-image.jpg
