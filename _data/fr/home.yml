@@ -52,6 +52,11 @@ collectionsPreview:
       background: /assets/images/fish-card-image.jpg
       href: /fr/collection/5aee131f-91dd-4b78-bfee-296f86801b7f
       aria: "Go to the fish collection"
+    - title: Collection d’invertébrés marins
+      description: La collection d’invertébrés marins a été lancée dans les années 1940 avec des spécimens préservés dans l’alcool recueillis par le Dr C. McLean Fraser et le Dr Ian McTaggart-Cowan, et était principalement utilisée pour l’enseignement. Elle compte aujourd’hui des milliers de spécimens représentant les grandes familles d’animaux invertébrés.
+      background: /assets/images/marine-invertebrate-card-image.jpg
+      href: /fr/collection/403e3c1f-086f-461b-9718-60537ee4ce3c
+      aria: "Go to Marine Invertebrate Collection"
     - title: Paléontologie
       description: La collection de fossiles de l'UBC a été créée en 1924 par le Dr Merton Yarwood Williams, membre fondateur de ce qui était alors le département de géologie de l'UBC. La collection a commencé par l'achat de spécimens à W.J. Sutton, un ingénieur minier local. Elle s'est considérablement développée dans les années 1970 et 1980 grâce aux efforts de Joe Nagel, conservateur de 1971 à 1995. La collection de fossiles a ensuite été intégrée au Pacific Museum of Earth, Department of Earth, Ocean and Atmospheric Sciences, UBC, et se trouve aujourd'hui au Beaty Biodiversity Museum de l'UBC.
       background: assets/images/fossil-card-image.jpg

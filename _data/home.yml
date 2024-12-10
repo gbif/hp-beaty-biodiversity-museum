@@ -50,6 +50,11 @@ collectionsPreview:
       background: /assets/images/fish-card-image.jpg
       href: /collection/5aee131f-91dd-4b78-bfee-296f86801b7f
       aria: "Go to the fish collection"
+    - title: Marine Invertebrate Collection
+      description: The Marine Invertebrate collection was started in the 1940s with alcohol-preserved specimens collected by Dr. C. McLean Fraser and Dr. Ian McTaggart-Cowan. Primarily used for teaching, the collection eventually grew to several thousand specimens representing the major lineages of invertebrate animals.
+      background: /assets/images/marine-invertebrate-card-image.jpg
+      href: /collection/403e3c1f-086f-461b-9718-60537ee4ce3c
+      aria: "Go to the Marine Invertebrate Collection"
     - title: Fossils
       description: The UBC Fossil Collection was started in 1924 by Dr. Merton Yarwood Williams, who was a founding member of what was then UBC’s Department of Geology. The collection began with the purchase of specimens from W.J. Sutton, a local mining engineer. It expanded substantially in the 1970s and 1980s with the curatorial efforts of Joe Nagel, curator from 1971 to 1995. The Fossil Collection then became part of the Pacific Museum of Earth, Department of Earth, Ocean and Atmospheric Sciences, UBC, and now resides in the Beaty Biodiversity Museum at UBC.
       background: assets/images/fossil-card-image.jpg
