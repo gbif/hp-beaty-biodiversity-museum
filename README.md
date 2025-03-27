@@ -3,7 +3,7 @@
 
 # GBIF Hosted Portal: Beaty Biodiversity Museum 
 
-This portal showcases the holdings of the [Beaty Biodiversity Museum](https://beatymuseum.ubc.ca/) that have been uploaded to the Global Biodiversity Information Facility (GBIF). This portal is currently under active development in preparation for an initial production release.
+This portal showcases the holdings of the [Beaty Biodiversity Museum](https://beatymuseum.ubc.ca/) that have been uploaded to the Global Biodiversity Information Facility (GBIF).
 
 ## Details on the Hosted Portal Program
 For details on the GBIF Hosted Portal program, you can visit the [gbif website about the project](https://www.gbif.org/hosted-portals)
